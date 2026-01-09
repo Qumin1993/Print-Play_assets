@@ -71,29 +71,4 @@
       ]
     }
   ]
-}, 
-{
-      "id": "dupa",
-      "title": "Dupa",
-      "icon": "⭐",
-      "subcategories": [
-        {
-          "id": "literki",
-          "title": "Literki",
-          "items": [
-            {
-              "id": "001",
-              "title": "Literki A–E",
-              "pdf": "categories/nauka/literki/001.pdf",
-              "thumb": "categories/nauka/literki/001.png"
-            },
-            {
-              "id": "002",
-              "title": "Literki F–J",
-              "pdf": "categories/nauka/literki/002.pdf",
-              "thumb": "categories/nauka/literki/002.png"
-            }
-          ]
-        }
-      ]
-    }
+}
