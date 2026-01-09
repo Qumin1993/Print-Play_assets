@@ -1,10 +1,11 @@
 {
+  "schemaVersion": 1,
+  "baseUrl": "https://raw.githubusercontent.com/Qumin1993/Print-Play_assets/main/",
   "app": {
     "name": "Print & Play",
     "description": "Materiały do druku dla dzieci. Nauka i zabawa bez ekranu.",
     "ageRange": "3-8"
   },
-
   "categories": [
     {
       "id": "nauka",
@@ -31,7 +32,6 @@
         }
       ]
     },
-
     {
       "id": "kolorowanki",
       "title": "Kolorowanki",
@@ -51,7 +51,6 @@
         }
       ]
     },
-
     {
       "id": "zabawa",
       "title": "Zabawa",
