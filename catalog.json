@@ -1,0 +1,75 @@
+{
+  "app": {
+    "name": "Print & Play",
+    "description": "Materiały do druku dla dzieci. Nauka i zabawa bez ekranu.",
+    "ageRange": "3-8"
+  },
+
+  "categories": [
+    {
+      "id": "nauka",
+      "title": "Nauka",
+      "icon": "⭐",
+      "subcategories": [
+        {
+          "id": "literki",
+          "title": "Literki",
+          "items": [
+            {
+              "id": "001",
+              "title": "Literki A–E",
+              "pdf": "categories/nauka/literki/001.pdf",
+              "thumb": "categories/nauka/literki/001.png"
+            },
+            {
+              "id": "002",
+              "title": "Literki F–J",
+              "pdf": "categories/nauka/literki/002.pdf",
+              "thumb": "categories/nauka/literki/002.png"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "kolorowanki",
+      "title": "Kolorowanki",
+      "icon": "🖍️",
+      "subcategories": [
+        {
+          "id": "zwierzeta",
+          "title": "Zwierzęta",
+          "items": [
+            {
+              "id": "001",
+              "title": "Zwierzęta domowe",
+              "pdf": "categories/kolorowanki/zwierzeta/001.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta/001.png"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "zabawa",
+      "title": "Zabawa",
+      "icon": "🧠",
+      "subcategories": [
+        {
+          "id": "labirynty",
+          "title": "Labirynty",
+          "items": [
+            {
+              "id": "001",
+              "title": "Labirynt łatwy",
+              "pdf": "categories/zabawa/labirynty/001.pdf",
+              "thumb": "categories/zabawa/labirynty/001.png"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
