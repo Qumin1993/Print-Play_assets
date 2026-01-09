@@ -69,6 +69,25 @@
           ]
         }
       ]
+    },
+    {
+      "id": "zabawa",
+      "title": "Zabawa",
+      "icon": "🧠",
+      "subcategories": [
+        {
+          "id": "labirynty",
+          "title": "Labirynty",
+          "items": [
+            {
+              "id": "001",
+              "title": "Labirynt łatwy",
+              "pdf": "categories/zabawa/labirynty/001.pdf",
+              "thumb": "categories/zabawa/labirynty/001.png"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
