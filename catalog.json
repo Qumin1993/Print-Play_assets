@@ -1,0 +1,692 @@
+{
+  "schemaVersion": 1,
+  "baseUrl": "https://raw.githubusercontent.com/Qumin1993/Print-Play_assets/main/",
+  "app": {
+    "name": "Print & Play",
+    "description": "Materiały do druku dla dzieci. Nauka i zabawa bez ekranu.",
+    "ageRange": "3-8"
+  },
+  "categories": [
+    {
+      "id": "kolorowanki",
+      "title": "Kolorowanki",
+      "icon": "📚",
+      "subcategories": [
+        {
+          "id": "postacie",
+          "title": "Postacie",
+          "items": [
+            {
+              "id": "kolorowanki_postacie1",
+              "title": "Postacie 1",
+              "pdf": "categories/kolorowanki/postacie/kolorowanki_postacie1.pdf",
+              "thumb": "categories/kolorowanki/postacie/kolorowanki_postacie1.png"
+            },
+            {
+              "id": "kolorowanki_postacie10",
+              "title": "Postacie 10",
+              "pdf": "categories/kolorowanki/postacie/kolorowanki_postacie10.pdf",
+              "thumb": "categories/kolorowanki/postacie/kolorowanki_postacie10.png"
+            },
+            {
+              "id": "kolorowanki_postacie11",
+              "title": "Postacie 11",
+              "pdf": "categories/kolorowanki/postacie/kolorowanki_postacie11.pdf",
+              "thumb": "categories/kolorowanki/postacie/kolorowanki_postacie11.png"
+            },
+            {
+              "id": "kolorowanki_postacie2",
+              "title": "Postacie 2",
+              "pdf": "categories/kolorowanki/postacie/kolorowanki_postacie2.pdf",
+              "thumb": "categories/kolorowanki/postacie/kolorowanki_postacie2.png"
+            },
+            {
+              "id": "kolorowanki_postacie3",
+              "title": "Postacie 3",
+              "pdf": "categories/kolorowanki/postacie/kolorowanki_postacie3.pdf",
+              "thumb": "categories/kolorowanki/postacie/kolorowanki_postacie3.png"
+            },
+            {
+              "id": "kolorowanki_postacie4",
+              "title": "Postacie 4",
+              "pdf": "categories/kolorowanki/postacie/kolorowanki_postacie4.pdf",
+              "thumb": "categories/kolorowanki/postacie/kolorowanki_postacie4.png"
+            },
+            {
+              "id": "kolorowanki_postacie5",
+              "title": "Postacie 5",
+              "pdf": "categories/kolorowanki/postacie/kolorowanki_postacie5.pdf",
+              "thumb": "categories/kolorowanki/postacie/kolorowanki_postacie5.png"
+            },
+            {
+              "id": "kolorowanki_postacie6",
+              "title": "Postacie 6",
+              "pdf": "categories/kolorowanki/postacie/kolorowanki_postacie6.pdf",
+              "thumb": "categories/kolorowanki/postacie/kolorowanki_postacie6.png"
+            },
+            {
+              "id": "kolorowanki_postacie7",
+              "title": "Postacie 7",
+              "pdf": "categories/kolorowanki/postacie/kolorowanki_postacie7.pdf",
+              "thumb": "categories/kolorowanki/postacie/kolorowanki_postacie7.png"
+            },
+            {
+              "id": "kolorowanki_postacie8",
+              "title": "Postacie 8",
+              "pdf": "categories/kolorowanki/postacie/kolorowanki_postacie8.pdf",
+              "thumb": "categories/kolorowanki/postacie/kolorowanki_postacie8.png"
+            },
+            {
+              "id": "kolorowanki_postacie9",
+              "title": "Postacie 9",
+              "pdf": "categories/kolorowanki/postacie/kolorowanki_postacie9.pdf",
+              "thumb": "categories/kolorowanki/postacie/kolorowanki_postacie9.png"
+            }
+          ]
+        },
+        {
+          "id": "zwierzeta",
+          "title": "Zwierzęta",
+          "items": [
+            {
+              "id": "kolorowanki_zwierzeta1",
+              "title": "Zwierzęta 1",
+              "pdf": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta1.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta1.png"
+            },
+            {
+              "id": "kolorowanki_zwierzeta2",
+              "title": "Zwierzęta 2",
+              "pdf": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta2.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta2.png"
+            },
+            {
+              "id": "kolorowanki_zwierzeta3",
+              "title": "Zwierzęta 3",
+              "pdf": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta3.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta3.png"
+            },
+            {
+              "id": "kolorowanki_zwierzeta4",
+              "title": "Zwierzęta 4",
+              "pdf": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta4.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta4.png"
+            },
+            {
+              "id": "kolorowanki_zwierzeta5",
+              "title": "Zwierzęta 5",
+              "pdf": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta5.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta5.png"
+            },
+            {
+              "id": "kolorowanki_zwierzeta6",
+              "title": "Zwierzęta 6",
+              "pdf": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta6.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta6.png"
+            },
+            {
+              "id": "kolorowanki_zwierzeta7",
+              "title": "Zwierzęta 7",
+              "pdf": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta7.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta7.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nauka",
+      "title": "Nauka",
+      "icon": "📚",
+      "subcategories": [
+        {
+          "id": "cyferki",
+          "title": "Cyferki",
+          "items": [
+            {
+              "id": "cyfry_0",
+              "title": "Cyfra 0",
+              "pdf": "categories/nauka/cyferki/cyfry_0.pdf",
+              "thumb": "categories/nauka/cyferki/cyfry_0.png"
+            },
+            {
+              "id": "cyfry_1",
+              "title": "Cyfra 1",
+              "pdf": "categories/nauka/cyferki/cyfry_1.pdf",
+              "thumb": "categories/nauka/cyferki/cyfry_1.png"
+            },
+            {
+              "id": "cyfry_10",
+              "title": "Cyfra 10",
+              "pdf": "categories/nauka/cyferki/cyfry_10.pdf",
+              "thumb": "categories/nauka/cyferki/cyfry_10.png"
+            },
+            {
+              "id": "cyfry_2",
+              "title": "Cyfra 2",
+              "pdf": "categories/nauka/cyferki/cyfry_2.pdf",
+              "thumb": "categories/nauka/cyferki/cyfry_2.png"
+            },
+            {
+              "id": "cyfry_3",
+              "title": "Cyfra 3",
+              "pdf": "categories/nauka/cyferki/cyfry_3.pdf",
+              "thumb": "categories/nauka/cyferki/cyfry_3.png"
+            },
+            {
+              "id": "cyfry_4",
+              "title": "Cyfra 4",
+              "pdf": "categories/nauka/cyferki/cyfry_4.pdf",
+              "thumb": "categories/nauka/cyferki/cyfry_4.png"
+            },
+            {
+              "id": "cyfry_5",
+              "title": "Cyfra 5",
+              "pdf": "categories/nauka/cyferki/cyfry_5.pdf",
+              "thumb": "categories/nauka/cyferki/cyfry_5.png"
+            },
+            {
+              "id": "cyfry_6",
+              "title": "Cyfra 6",
+              "pdf": "categories/nauka/cyferki/cyfry_6.pdf",
+              "thumb": "categories/nauka/cyferki/cyfry_6.png"
+            },
+            {
+              "id": "cyfry_7",
+              "title": "Cyfra 7",
+              "pdf": "categories/nauka/cyferki/cyfry_7.pdf",
+              "thumb": "categories/nauka/cyferki/cyfry_7.png"
+            },
+            {
+              "id": "cyfry_8",
+              "title": "Cyfra 8",
+              "pdf": "categories/nauka/cyferki/cyfry_8.pdf",
+              "thumb": "categories/nauka/cyferki/cyfry_8.png"
+            },
+            {
+              "id": "cyfry_9",
+              "title": "Cyfra 9",
+              "pdf": "categories/nauka/cyferki/cyfry_9.pdf",
+              "thumb": "categories/nauka/cyferki/cyfry_9.png"
+            }
+          ]
+        },
+        {
+          "id": "kształty",
+          "title": "Kształty",
+          "items": [
+            {
+              "id": "ksztalty_1",
+              "title": "Ksztalty 1",
+              "pdf": "categories/nauka/kształty/ksztalty_1.pdf",
+              "thumb": "categories/nauka/kształty/ksztalty_1.png"
+            },
+            {
+              "id": "ksztalty_2",
+              "title": "Ksztalty 2",
+              "pdf": "categories/nauka/kształty/ksztalty_2.pdf",
+              "thumb": "categories/nauka/kształty/ksztalty_2.png"
+            },
+            {
+              "id": "ksztalty_3",
+              "title": "Ksztalty 3",
+              "pdf": "categories/nauka/kształty/ksztalty_3.pdf",
+              "thumb": "categories/nauka/kształty/ksztalty_3.png"
+            },
+            {
+              "id": "ksztalty_4",
+              "title": "Ksztalty 4",
+              "pdf": "categories/nauka/kształty/ksztalty_4.pdf",
+              "thumb": "categories/nauka/kształty/ksztalty_4.png"
+            },
+            {
+              "id": "ksztalty_5",
+              "title": "Ksztalty 5",
+              "pdf": "categories/nauka/kształty/ksztalty_5.pdf",
+              "thumb": "categories/nauka/kształty/ksztalty_5.png"
+            },
+            {
+              "id": "ksztalty_6",
+              "title": "Ksztalty 6",
+              "pdf": "categories/nauka/kształty/ksztalty_6.pdf",
+              "thumb": "categories/nauka/kształty/ksztalty_6.png"
+            },
+            {
+              "id": "ksztalty_7",
+              "title": "Ksztalty 7",
+              "pdf": "categories/nauka/kształty/ksztalty_7.pdf",
+              "thumb": "categories/nauka/kształty/ksztalty_7.png"
+            }
+          ]
+        },
+        {
+          "id": "literki",
+          "title": "Literki",
+          "items": [
+            {
+              "id": "literki_a",
+              "title": "Litera A",
+              "pdf": "categories/nauka/literki/literki_a.pdf",
+              "thumb": "categories/nauka/literki/literki_a.png"
+            },
+            {
+              "id": "literki_b",
+              "title": "Litera B",
+              "pdf": "categories/nauka/literki/literki_b.pdf",
+              "thumb": "categories/nauka/literki/literki_b.png"
+            },
+            {
+              "id": "literki_c",
+              "title": "Litera C",
+              "pdf": "categories/nauka/literki/literki_c.pdf",
+              "thumb": "categories/nauka/literki/literki_c.png"
+            },
+            {
+              "id": "literki_d",
+              "title": "Litera D",
+              "pdf": "categories/nauka/literki/literki_d.pdf",
+              "thumb": "categories/nauka/literki/literki_d.png"
+            },
+            {
+              "id": "literki_e",
+              "title": "Litera E",
+              "pdf": "categories/nauka/literki/literki_e.pdf",
+              "thumb": "categories/nauka/literki/literki_e.png"
+            },
+            {
+              "id": "literki_f",
+              "title": "Litera F",
+              "pdf": "categories/nauka/literki/literki_f.pdf",
+              "thumb": "categories/nauka/literki/literki_f.png"
+            },
+            {
+              "id": "literki_g",
+              "title": "Litera G",
+              "pdf": "categories/nauka/literki/literki_g.pdf",
+              "thumb": "categories/nauka/literki/literki_g.png"
+            },
+            {
+              "id": "literki_h",
+              "title": "Litera H",
+              "pdf": "categories/nauka/literki/literki_h.pdf",
+              "thumb": "categories/nauka/literki/literki_h.png"
+            },
+            {
+              "id": "literki_i",
+              "title": "Litera I",
+              "pdf": "categories/nauka/literki/literki_i.pdf",
+              "thumb": "categories/nauka/literki/literki_i.png"
+            },
+            {
+              "id": "literki_j",
+              "title": "Litera J",
+              "pdf": "categories/nauka/literki/literki_j.pdf",
+              "thumb": "categories/nauka/literki/literki_j.png"
+            },
+            {
+              "id": "literki_k",
+              "title": "Litera K",
+              "pdf": "categories/nauka/literki/literki_k.pdf",
+              "thumb": "categories/nauka/literki/literki_k.png"
+            },
+            {
+              "id": "literki_l",
+              "title": "Litera L",
+              "pdf": "categories/nauka/literki/literki_l.pdf",
+              "thumb": "categories/nauka/literki/literki_l.png"
+            },
+            {
+              "id": "literki_m",
+              "title": "Litera M",
+              "pdf": "categories/nauka/literki/literki_m.pdf",
+              "thumb": "categories/nauka/literki/literki_m.png"
+            },
+            {
+              "id": "literki_n",
+              "title": "Litera N",
+              "pdf": "categories/nauka/literki/literki_n.pdf",
+              "thumb": "categories/nauka/literki/literki_n.png"
+            },
+            {
+              "id": "literki_o",
+              "title": "Litera O",
+              "pdf": "categories/nauka/literki/literki_o.pdf",
+              "thumb": "categories/nauka/literki/literki_o.png"
+            },
+            {
+              "id": "literki_p",
+              "title": "Litera P",
+              "pdf": "categories/nauka/literki/literki_p.pdf",
+              "thumb": "categories/nauka/literki/literki_p.png"
+            },
+            {
+              "id": "literki_q",
+              "title": "Litera Q",
+              "pdf": "categories/nauka/literki/literki_q.pdf",
+              "thumb": "categories/nauka/literki/literki_q.png"
+            },
+            {
+              "id": "literki_r",
+              "title": "Litera R",
+              "pdf": "categories/nauka/literki/literki_r.pdf",
+              "thumb": "categories/nauka/literki/literki_r.png"
+            },
+            {
+              "id": "literki_s",
+              "title": "Litera S",
+              "pdf": "categories/nauka/literki/literki_s.pdf",
+              "thumb": "categories/nauka/literki/literki_s.png"
+            },
+            {
+              "id": "literki_t",
+              "title": "Litera T",
+              "pdf": "categories/nauka/literki/literki_t.pdf",
+              "thumb": "categories/nauka/literki/literki_t.png"
+            },
+            {
+              "id": "literki_u",
+              "title": "Litera U",
+              "pdf": "categories/nauka/literki/literki_u.pdf",
+              "thumb": "categories/nauka/literki/literki_u.png"
+            },
+            {
+              "id": "literki_v",
+              "title": "Litera V",
+              "pdf": "categories/nauka/literki/literki_v.pdf",
+              "thumb": "categories/nauka/literki/literki_v.png"
+            },
+            {
+              "id": "literki_w",
+              "title": "Litera W",
+              "pdf": "categories/nauka/literki/literki_w.pdf",
+              "thumb": "categories/nauka/literki/literki_w.png"
+            },
+            {
+              "id": "literki_x",
+              "title": "Litera X",
+              "pdf": "categories/nauka/literki/literki_x.pdf",
+              "thumb": "categories/nauka/literki/literki_x.png"
+            },
+            {
+              "id": "literki_y",
+              "title": "Litera Y",
+              "pdf": "categories/nauka/literki/literki_y.pdf",
+              "thumb": "categories/nauka/literki/literki_y.png"
+            },
+            {
+              "id": "literki_z",
+              "title": "Litera Z",
+              "pdf": "categories/nauka/literki/literki_z.pdf",
+              "thumb": "categories/nauka/literki/literki_z.png"
+            },
+            {
+              "id": "literki_ó",
+              "title": "Litera Ó",
+              "pdf": "categories/nauka/literki/literki_ó.pdf",
+              "thumb": "categories/nauka/literki/literki_ó.png"
+            },
+            {
+              "id": "literki_ą",
+              "title": "Litera Ą",
+              "pdf": "categories/nauka/literki/literki_ą.pdf",
+              "thumb": "categories/nauka/literki/literki_ą.png"
+            },
+            {
+              "id": "literki_ć",
+              "title": "Litera Ć",
+              "pdf": "categories/nauka/literki/literki_ć.pdf",
+              "thumb": "categories/nauka/literki/literki_ć.png"
+            },
+            {
+              "id": "literki_ę",
+              "title": "Litera Ę",
+              "pdf": "categories/nauka/literki/literki_ę.pdf",
+              "thumb": "categories/nauka/literki/literki_ę.png"
+            },
+            {
+              "id": "literki_ł",
+              "title": "Litera Ł",
+              "pdf": "categories/nauka/literki/literki_ł.pdf",
+              "thumb": "categories/nauka/literki/literki_ł.png"
+            },
+            {
+              "id": "literki_ń",
+              "title": "Litera Ń",
+              "pdf": "categories/nauka/literki/literki_ń.pdf",
+              "thumb": "categories/nauka/literki/literki_ń.png"
+            },
+            {
+              "id": "literki_ś",
+              "title": "Litera Ś",
+              "pdf": "categories/nauka/literki/literki_ś.pdf",
+              "thumb": "categories/nauka/literki/literki_ś.png"
+            }
+          ]
+        },
+        {
+          "id": "szlaczki",
+          "title": "Szlaczki",
+          "items": [
+            {
+              "id": "szlaczki_1",
+              "title": "Szlaczki 1",
+              "pdf": "categories/nauka/szlaczki/szlaczki_1.pdf",
+              "thumb": "categories/nauka/szlaczki/szlaczki_1.png"
+            },
+            {
+              "id": "szlaczki_2",
+              "title": "Szlaczki 2",
+              "pdf": "categories/nauka/szlaczki/szlaczki_2.pdf",
+              "thumb": "categories/nauka/szlaczki/szlaczki_2.png"
+            },
+            {
+              "id": "szlaczki_3",
+              "title": "Szlaczki 3",
+              "pdf": "categories/nauka/szlaczki/szlaczki_3.pdf",
+              "thumb": "categories/nauka/szlaczki/szlaczki_3.png"
+            },
+            {
+              "id": "szlaczki_4",
+              "title": "Szlaczki 4",
+              "pdf": "categories/nauka/szlaczki/szlaczki_4.pdf",
+              "thumb": "categories/nauka/szlaczki/szlaczki_4.png"
+            },
+            {
+              "id": "szlaczki_5",
+              "title": "Szlaczki 5",
+              "pdf": "categories/nauka/szlaczki/szlaczki_5.pdf",
+              "thumb": "categories/nauka/szlaczki/szlaczki_5.png"
+            },
+            {
+              "id": "szlaczki_6",
+              "title": "Szlaczki 6",
+              "pdf": "categories/nauka/szlaczki/szlaczki_6.pdf",
+              "thumb": "categories/nauka/szlaczki/szlaczki_6.png"
+            },
+            {
+              "id": "szlaczki_7",
+              "title": "Szlaczki 7",
+              "pdf": "categories/nauka/szlaczki/szlaczki_7.pdf",
+              "thumb": "categories/nauka/szlaczki/szlaczki_7.png"
+            },
+            {
+              "id": "szlaczki_8",
+              "title": "Szlaczki 8",
+              "pdf": "categories/nauka/szlaczki/szlaczki_8.pdf",
+              "thumb": "categories/nauka/szlaczki/szlaczki_8.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zabawa",
+      "title": "Zabawa",
+      "icon": "📚",
+      "subcategories": [
+        {
+          "id": "Labirynty",
+          "title": "Labirynty",
+          "items": [
+            {
+              "id": "labirynt_1",
+              "title": "Labirynt 1",
+              "pdf": "categories/zabawa/Labirynty/labirynt_1.pdf",
+              "thumb": "categories/zabawa/Labirynty/labirynt_1.png"
+            },
+            {
+              "id": "labirynt_10",
+              "title": "Labirynt 10",
+              "pdf": "categories/zabawa/Labirynty/labirynt_10.pdf",
+              "thumb": "categories/zabawa/Labirynty/labirynt_10.png"
+            },
+            {
+              "id": "labirynt_11",
+              "title": "Labirynt 11",
+              "pdf": "categories/zabawa/Labirynty/labirynt_11.pdf",
+              "thumb": "categories/zabawa/Labirynty/labirynt_11.png"
+            },
+            {
+              "id": "labirynt_12",
+              "title": "Labirynt 12",
+              "pdf": "categories/zabawa/Labirynty/labirynt_12.pdf",
+              "thumb": "categories/zabawa/Labirynty/labirynt_12.png"
+            },
+            {
+              "id": "labirynt_13",
+              "title": "Labirynt 13",
+              "pdf": "categories/zabawa/Labirynty/labirynt_13.pdf",
+              "thumb": "categories/zabawa/Labirynty/labirynt_13.png"
+            },
+            {
+              "id": "labirynt_14",
+              "title": "Labirynt 14",
+              "pdf": "categories/zabawa/Labirynty/labirynt_14.pdf",
+              "thumb": "categories/zabawa/Labirynty/labirynt_14.png"
+            },
+            {
+              "id": "labirynt_15",
+              "title": "Labirynt 15",
+              "pdf": "categories/zabawa/Labirynty/labirynt_15.pdf",
+              "thumb": "categories/zabawa/Labirynty/labirynt_15.png"
+            },
+            {
+              "id": "labirynt_16",
+              "title": "Labirynt 16",
+              "pdf": "categories/zabawa/Labirynty/labirynt_16.pdf",
+              "thumb": "categories/zabawa/Labirynty/labirynt_16.png"
+            },
+            {
+              "id": "labirynt_2",
+              "title": "Labirynt 2",
+              "pdf": "categories/zabawa/Labirynty/labirynt_2.pdf",
+              "thumb": "categories/zabawa/Labirynty/labirynt_2.png"
+            },
+            {
+              "id": "labirynt_3",
+              "title": "Labirynt 3",
+              "pdf": "categories/zabawa/Labirynty/labirynt_3.pdf",
+              "thumb": "categories/zabawa/Labirynty/labirynt_3.png"
+            },
+            {
+              "id": "labirynt_4",
+              "title": "Labirynt 4",
+              "pdf": "categories/zabawa/Labirynty/labirynt_4.pdf",
+              "thumb": "categories/zabawa/Labirynty/labirynt_4.png"
+            },
+            {
+              "id": "labirynt_5",
+              "title": "Labirynt 5",
+              "pdf": "categories/zabawa/Labirynty/labirynt_5.pdf",
+              "thumb": "categories/zabawa/Labirynty/labirynt_5.png"
+            },
+            {
+              "id": "labirynt_6",
+              "title": "Labirynt 6",
+              "pdf": "categories/zabawa/Labirynty/labirynt_6.pdf",
+              "thumb": "categories/zabawa/Labirynty/labirynt_6.png"
+            },
+            {
+              "id": "labirynt_7",
+              "title": "Labirynt 7",
+              "pdf": "categories/zabawa/Labirynty/labirynt_7.pdf",
+              "thumb": "categories/zabawa/Labirynty/labirynt_7.png"
+            },
+            {
+              "id": "labirynt_8",
+              "title": "Labirynt 8",
+              "pdf": "categories/zabawa/Labirynty/labirynt_8.pdf",
+              "thumb": "categories/zabawa/Labirynty/labirynt_8.png"
+            },
+            {
+              "id": "labirynt_9",
+              "title": "Labirynt 9",
+              "pdf": "categories/zabawa/Labirynty/labirynt_9.pdf",
+              "thumb": "categories/zabawa/Labirynty/labirynt_9.png"
+            }
+          ]
+        },
+        {
+          "id": "Wytnij_przyklej",
+          "title": "Wytnij i przyklej",
+          "items": [
+            {
+              "id": "wytnij_1",
+              "title": "Wytnij 1",
+              "pdf": "categories/zabawa/Wytnij przyklej/wytnij_1.pdf",
+              "thumb": "categories/zabawa/Wytnij przyklej/wytnij_1.png"
+            },
+            {
+              "id": "wytnij_2",
+              "title": "Wytnij 2",
+              "pdf": "categories/zabawa/Wytnij przyklej/wytnij_2.pdf",
+              "thumb": "categories/zabawa/Wytnij przyklej/wytnij_2.png"
+            },
+            {
+              "id": "wytnij_3",
+              "title": "Wytnij 3",
+              "pdf": "categories/zabawa/Wytnij przyklej/wytnij_3.pdf",
+              "thumb": "categories/zabawa/Wytnij przyklej/wytnij_3.png"
+            }
+          ]
+        },
+        {
+          "id": "cienie",
+          "title": "Cienie",
+          "items": [
+            {
+              "id": "cienie_1",
+              "title": "Cienie 1",
+              "pdf": "categories/zabawa/cienie/cienie_1.pdf",
+              "thumb": "categories/zabawa/cienie/cienie_1.png"
+            },
+            {
+              "id": "cienie_2",
+              "title": "Cienie 2",
+              "pdf": "categories/zabawa/cienie/cienie_2.pdf",
+              "thumb": "categories/zabawa/cienie/cienie_2.png"
+            },
+            {
+              "id": "cienie_3",
+              "title": "Cienie 3",
+              "pdf": "categories/zabawa/cienie/cienie_3.pdf",
+              "thumb": "categories/zabawa/cienie/cienie_3.png"
+            },
+            {
+              "id": "cienie_4",
+              "title": "Cienie 4",
+              "pdf": "categories/zabawa/cienie/cienie_4.pdf",
+              "thumb": "categories/zabawa/cienie/cienie_4.png"
+            },
+            {
+              "id": "cienie_5",
+              "title": "Cienie 5",
+              "pdf": "categories/zabawa/cienie/cienie_5.pdf",
+              "thumb": "categories/zabawa/cienie/cienie_5.png"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
