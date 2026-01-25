@@ -10,11 +10,11 @@
     {
       "id": "kolorowanki",
       "title": "Kolorowanki",
-      "icon": "📚",
+      "icon": "🎨",
       "subcategories": [
         {
           "id": "postacie",
-          "title": "Postacie",
+          "title": "🧍Postacie",
           "items": [
             {
               "id": "kolorowanki_postacie1",
@@ -86,7 +86,7 @@
         },
         {
           "id": "zwierzeta",
-          "title": "Zwierzęta",
+          "title": "🐶 Zwierzęta",
           "items": [
             {
               "id": "kolorowanki_zwierzeta1",
@@ -141,7 +141,7 @@
       "subcategories": [
         {
           "id": "cyferki",
-          "title": "Cyferki",
+          "title": "🔢 Cyferki",
           "items": [
             {
               "id": "cyfry_0",
@@ -213,7 +213,7 @@
         },
         {
           "id": "kształty",
-          "title": "Kształty",
+          "title": "🔺 Kształty",
           "items": [
             {
               "id": "ksztalty_1",
@@ -261,7 +261,7 @@
         },
         {
           "id": "literki",
-          "title": "Literki",
+          "title": "🔤 Literki",
           "items": [
             {
               "id": "literki_a",
@@ -465,7 +465,7 @@
         },
         {
           "id": "szlaczki",
-          "title": "Szlaczki",
+          "title": "〰️ Szlaczki",
           "items": [
             {
               "id": "szlaczki_1",
@@ -522,11 +522,65 @@
     {
       "id": "zabawa",
       "title": "Zabawa",
-      "icon": "📚",
+      "icon": "🎈",
       "subcategories": [
         {
+          "id": "Cienie",
+          "title": "👥 Cienie",
+          "items": [
+            {
+              "id": "cienie_1",
+              "title": "Cienie 1",
+              "pdf": "categories/zabawa/Cienie/cienie_1.pdf",
+              "thumb": "categories/zabawa/Cienie/cienie_1.png"
+            },
+            {
+              "id": "cienie_2",
+              "title": "Cienie 2",
+              "pdf": "categories/zabawa/Cienie/cienie_2.pdf",
+              "thumb": "categories/zabawa/Cienie/cienie_2.png"
+            },
+            {
+              "id": "cienie_3",
+              "title": "Cienie 3",
+              "pdf": "categories/zabawa/Cienie/cienie_3.pdf",
+              "thumb": "categories/zabawa/Cienie/cienie_3.png"
+            },
+            {
+              "id": "cienie_4",
+              "title": "Cienie 4",
+              "pdf": "categories/zabawa/Cienie/cienie_4.pdf",
+              "thumb": "categories/zabawa/Cienie/cienie_4.png"
+            },
+            {
+              "id": "cienie_5",
+              "title": "Cienie 5",
+              "pdf": "categories/zabawa/Cienie/cienie_5.pdf",
+              "thumb": "categories/zabawa/Cienie/cienie_5.png"
+            },
+            {
+              "id": "cienie_6",
+              "title": "Cienie 6",
+              "pdf": "categories/zabawa/Cienie/cienie_6.pdf",
+              "thumb": "categories/zabawa/Cienie/cienie_6.png"
+            },
+            {
+              "id": "cienie_7",
+              "title": "Cienie 7",
+              "pdf": "categories/zabawa/Cienie/cienie_7.pdf",
+              "thumb": "categories/zabawa/Cienie/cienie_7.png"
+            },
+            {
+              "id": "cienie_8",
+              "title": "Cienie 8",
+              "pdf": "categories/zabawa/Cienie/cienie_8.pdf",
+              "thumb": "categories/zabawa/Cienie/cienie_8.png"
+            }
+          ]
+        },
+        {
           "id": "Labirynty",
-          "title": "Labirynty",
+          "title": "🌀 Labirynty",
           "items": [
             {
               "id": "labirynt_1",
@@ -627,62 +681,116 @@
           ]
         },
         {
-          "id": "Wytnij_przyklej",
-          "title": "Wytnij i przyklej",
+          "id": "Połącz_kropki",
+          "title": "🧩 Połącz kropki",
           "items": [
             {
-              "id": "wytnij_1",
-              "title": "Wytnij 1",
-              "pdf": "categories/zabawa/Wytnij przyklej/wytnij_1.pdf",
-              "thumb": "categories/zabawa/Wytnij przyklej/wytnij_1.png"
+              "id": "połącz1",
+              "title": "Połącz1",
+              "pdf": "categories/zabawa/Połącz kropki/połącz1.pdf",
+              "thumb": "categories/zabawa/Połącz kropki/połącz1.png"
             },
             {
-              "id": "wytnij_2",
-              "title": "Wytnij 2",
-              "pdf": "categories/zabawa/Wytnij przyklej/wytnij_2.pdf",
-              "thumb": "categories/zabawa/Wytnij przyklej/wytnij_2.png"
+              "id": "połącz2",
+              "title": "Połącz2",
+              "pdf": "categories/zabawa/Połącz kropki/połącz2.pdf",
+              "thumb": "categories/zabawa/Połącz kropki/połącz2.png"
             },
             {
-              "id": "wytnij_3",
-              "title": "Wytnij 3",
-              "pdf": "categories/zabawa/Wytnij przyklej/wytnij_3.pdf",
-              "thumb": "categories/zabawa/Wytnij przyklej/wytnij_3.png"
+              "id": "połącz3",
+              "title": "Połącz3",
+              "pdf": "categories/zabawa/Połącz kropki/połącz3.pdf",
+              "thumb": "categories/zabawa/Połącz kropki/połącz3.png"
+            },
+            {
+              "id": "połącz4",
+              "title": "Połącz4",
+              "pdf": "categories/zabawa/Połącz kropki/połącz4.pdf",
+              "thumb": "categories/zabawa/Połącz kropki/połącz4.png"
+            },
+            {
+              "id": "połącz5",
+              "title": "Połącz5",
+              "pdf": "categories/zabawa/Połącz kropki/połącz5.pdf",
+              "thumb": "categories/zabawa/Połącz kropki/połącz5.png"
             }
           ]
         },
         {
-          "id": "cienie",
-          "title": "Cienie",
+          "id": "Wytnij_przyklej",
+          "title": "✂️ Wytnij i przyklej",
           "items": [
             {
-              "id": "cienie_1",
-              "title": "Cienie 1",
-              "pdf": "categories/zabawa/cienie/cienie_1.pdf",
-              "thumb": "categories/zabawa/cienie/cienie_1.png"
+              "id": "wytnij_przyklej1",
+              "title": "Wytnij przyklej1",
+              "pdf": "categories/zabawa/Wytnij przyklej/wytnij_przyklej1.pdf",
+              "thumb": "categories/zabawa/Wytnij przyklej/wytnij_przyklej1.png"
             },
             {
-              "id": "cienie_2",
-              "title": "Cienie 2",
-              "pdf": "categories/zabawa/cienie/cienie_2.pdf",
-              "thumb": "categories/zabawa/cienie/cienie_2.png"
+              "id": "wytnij_przyklej2",
+              "title": "Wytnij przyklej2",
+              "pdf": "categories/zabawa/Wytnij przyklej/wytnij_przyklej2.pdf",
+              "thumb": "categories/zabawa/Wytnij przyklej/wytnij_przyklej2.png"
             },
             {
-              "id": "cienie_3",
-              "title": "Cienie 3",
-              "pdf": "categories/zabawa/cienie/cienie_3.pdf",
-              "thumb": "categories/zabawa/cienie/cienie_3.png"
+              "id": "wytnij_przyklej3",
+              "title": "Wytnij przyklej3",
+              "pdf": "categories/zabawa/Wytnij przyklej/wytnij_przyklej3.pdf",
+              "thumb": "categories/zabawa/Wytnij przyklej/wytnij_przyklej3.png"
             },
             {
-              "id": "cienie_4",
-              "title": "Cienie 4",
-              "pdf": "categories/zabawa/cienie/cienie_4.pdf",
-              "thumb": "categories/zabawa/cienie/cienie_4.png"
+              "id": "wytnij_przyklej4",
+              "title": "Wytnij przyklej4",
+              "pdf": "categories/zabawa/Wytnij przyklej/wytnij_przyklej4.pdf",
+              "thumb": "categories/zabawa/Wytnij przyklej/wytnij_przyklej4.png"
             },
             {
-              "id": "cienie_5",
-              "title": "Cienie 5",
-              "pdf": "categories/zabawa/cienie/cienie_5.pdf",
-              "thumb": "categories/zabawa/cienie/cienie_5.png"
+              "id": "wytnij_przyklej5",
+              "title": "Wytnij przyklej5",
+              "pdf": "categories/zabawa/Wytnij przyklej/wytnij_przyklej5.pdf",
+              "thumb": "categories/zabawa/Wytnij przyklej/wytnij_przyklej5.png"
+            },
+            {
+              "id": "wytnij_przyklej6",
+              "title": "Wytnij przyklej6",
+              "pdf": "categories/zabawa/Wytnij przyklej/wytnij_przyklej6.pdf",
+              "thumb": "categories/zabawa/Wytnij przyklej/wytnij_przyklej6.png"
+            }
+          ]
+        },
+        {
+          "id": "Znajdz_różnice",
+          "title": "🔍Znajdz różnice",
+          "items": [
+            {
+              "id": "znajdz_roznice1",
+              "title": "Znajdz roznice1",
+              "pdf": "categories/zabawa/Znajdz różnice/znajdz_roznice1.pdf",
+              "thumb": "categories/zabawa/Znajdz różnice/znajdz_roznice1.png"
+            },
+            {
+              "id": "znajdz_roznice2",
+              "title": "Znajdz roznice2",
+              "pdf": "categories/zabawa/Znajdz różnice/znajdz_roznice2.pdf",
+              "thumb": "categories/zabawa/Znajdz różnice/znajdz_roznice2.png"
+            },
+            {
+              "id": "znajdz_roznice3",
+              "title": "Znajdz roznice3",
+              "pdf": "categories/zabawa/Znajdz różnice/znajdz_roznice3.pdf",
+              "thumb": "categories/zabawa/Znajdz różnice/znajdz_roznice3.png"
+            },
+            {
+              "id": "znajdz_roznice4",
+              "title": "Znajdz roznice4",
+              "pdf": "categories/zabawa/Znajdz różnice/znajdz_roznice4.pdf",
+              "thumb": "categories/zabawa/Znajdz różnice/znajdz_roznice4.png"
+            },
+            {
+              "id": "znajdz_roznice5",
+              "title": "Znajdz roznice5",
+              "pdf": "categories/zabawa/Znajdz różnice/znajdz_roznice5.pdf",
+              "thumb": "categories/zabawa/Znajdz różnice/znajdz_roznice5.png"
             }
           ]
         }
