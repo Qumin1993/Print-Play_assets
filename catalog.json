@@ -10,7 +10,7 @@
     {
       "id": "kolorowanki",
       "title": "Kolorowanki",
-      "icon": "🎨",
+      "tile": "categories/kolorowanki/kolorowanki_tile.png",
       "subcategories": [
         {
           "id": "postacie",
@@ -137,7 +137,7 @@
     {
       "id": "nauka",
       "title": "Nauka",
-      "icon": "📚",
+      "tile": "categories/nauka/nauka_tile.png",
       "subcategories": [
         {
           "id": "cyferki",
@@ -522,7 +522,7 @@
     {
       "id": "zabawa",
       "title": "Zabawa",
-      "icon": "🎈",
+      "tile": "categories/zabawa/zabawa_tile.png",
       "subcategories": [
         {
           "id": "Cienie",
@@ -797,4 +797,5 @@
       ]
     }
   ]
+
 }
