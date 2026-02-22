@@ -10,7 +10,6 @@
     {
       "id": "kolorowanki",
       "title": "Kolorowanki",
-      "tile": "categories/kolorowanki/kolorowanki_tile.png",
       "subcategories": [
         {
           "id": "postacie",
@@ -90,45 +89,219 @@
           "items": [
             {
               "id": "kolorowanki_zwierzeta1",
-              "title": "Zwierzęta 1",
+              "title": "Zwierzeta 1",
               "pdf": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta1.pdf",
               "thumb": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta1.png"
             },
             {
               "id": "kolorowanki_zwierzeta2",
-              "title": "Zwierzęta 2",
+              "title": "Zwierzeta 2",
               "pdf": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta2.pdf",
               "thumb": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta2.png"
             },
             {
               "id": "kolorowanki_zwierzeta3",
-              "title": "Zwierzęta 3",
+              "title": "Zwierzeta 3",
               "pdf": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta3.pdf",
               "thumb": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta3.png"
             },
             {
               "id": "kolorowanki_zwierzeta4",
-              "title": "Zwierzęta 4",
+              "title": "Zwierzeta 4",
               "pdf": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta4.pdf",
               "thumb": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta4.png"
             },
             {
               "id": "kolorowanki_zwierzeta5",
-              "title": "Zwierzęta 5",
+              "title": "Zwierzeta 5",
               "pdf": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta5.pdf",
               "thumb": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta5.png"
             },
             {
               "id": "kolorowanki_zwierzeta6",
-              "title": "Zwierzęta 6",
+              "title": "Zwierzeta 6",
               "pdf": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta6.pdf",
               "thumb": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta6.png"
             },
             {
               "id": "kolorowanki_zwierzeta7",
-              "title": "Zwierzęta 7",
+              "title": "Zwierzeta 7",
               "pdf": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta7.pdf",
               "thumb": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta7.png"
+            }
+          ]
+        },
+        {
+          "id": "zwierzeta_afryka",
+          "title": "Zwierzeta afryka",
+          "items": [
+            {
+              "id": "zwierzeta_afryka1",
+              "title": "Zwierzeta afryka1",
+              "pdf": "categories/kolorowanki/zwierzeta afryka/zwierzeta_afryka1.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta afryka/zwierzeta_afryka1.png"
+            },
+            {
+              "id": "zwierzeta_afryka2",
+              "title": "Zwierzeta afryka2",
+              "pdf": "categories/kolorowanki/zwierzeta afryka/zwierzeta_afryka2.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta afryka/zwierzeta_afryka2.png"
+            },
+            {
+              "id": "zwierzeta_afryka3",
+              "title": "Zwierzeta afryka3",
+              "pdf": "categories/kolorowanki/zwierzeta afryka/zwierzeta_afryka3.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta afryka/zwierzeta_afryka3.png"
+            },
+            {
+              "id": "zwierzeta_afryka4",
+              "title": "Zwierzeta afryka4",
+              "pdf": "categories/kolorowanki/zwierzeta afryka/zwierzeta_afryka4.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta afryka/zwierzeta_afryka4.png"
+            },
+            {
+              "id": "zwierzeta_afryka5",
+              "title": "Zwierzeta afryka5",
+              "pdf": "categories/kolorowanki/zwierzeta afryka/zwierzeta_afryka5.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta afryka/zwierzeta_afryka5.png"
+            },
+            {
+              "id": "zwierzeta_afryka6",
+              "title": "Zwierzeta afryka6",
+              "pdf": "categories/kolorowanki/zwierzeta afryka/zwierzeta_afryka6.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta afryka/zwierzeta_afryka6.png"
+            }
+          ]
+        },
+        {
+          "id": "zwierzeta_farma",
+          "title": "Zwierzeta farma",
+          "items": [
+            {
+              "id": "zwierzeta_farma1",
+              "title": "Zwierzeta farma1",
+              "pdf": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma1.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma1.png"
+            },
+            {
+              "id": "zwierzeta_farma10",
+              "title": "Zwierzeta farma10",
+              "pdf": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma10.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma10.png"
+            },
+            {
+              "id": "zwierzeta_farma2",
+              "title": "Zwierzeta farma2",
+              "pdf": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma2.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma2.png"
+            },
+            {
+              "id": "zwierzeta_farma3",
+              "title": "Zwierzeta farma3",
+              "pdf": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma3.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma3.png"
+            },
+            {
+              "id": "zwierzeta_farma4",
+              "title": "Zwierzeta farma4",
+              "pdf": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma4.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma4.png"
+            },
+            {
+              "id": "zwierzeta_farma5",
+              "title": "Zwierzeta farma5",
+              "pdf": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma5.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma5.png"
+            },
+            {
+              "id": "zwierzeta_farma6",
+              "title": "Zwierzeta farma6",
+              "pdf": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma6.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma6.png"
+            },
+            {
+              "id": "zwierzeta_farma7",
+              "title": "Zwierzeta farma7",
+              "pdf": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma7.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma7.png"
+            },
+            {
+              "id": "zwierzeta_farma8",
+              "title": "Zwierzeta farma8",
+              "pdf": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma8.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma8.png"
+            },
+            {
+              "id": "zwierzeta_farma9",
+              "title": "Zwierzeta farma9",
+              "pdf": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma9.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma9.png"
+            }
+          ]
+        },
+        {
+          "id": "zwierzeta_las",
+          "title": "Zwierzeta las",
+          "items": [
+            {
+              "id": "zwierzeta_las1",
+              "title": "Zwierzeta las1",
+              "pdf": "categories/kolorowanki/zwierzeta las/zwierzeta_las1.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta las/zwierzeta_las1.png"
+            },
+            {
+              "id": "zwierzeta_las10",
+              "title": "Zwierzeta las10",
+              "pdf": "categories/kolorowanki/zwierzeta las/zwierzeta_las10.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta las/zwierzeta_las10.png"
+            },
+            {
+              "id": "zwierzeta_las2",
+              "title": "Zwierzeta las2",
+              "pdf": "categories/kolorowanki/zwierzeta las/zwierzeta_las2.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta las/zwierzeta_las2.png"
+            },
+            {
+              "id": "zwierzeta_las3",
+              "title": "Zwierzeta las3",
+              "pdf": "categories/kolorowanki/zwierzeta las/zwierzeta_las3.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta las/zwierzeta_las3.png"
+            },
+            {
+              "id": "zwierzeta_las4",
+              "title": "Zwierzeta las4",
+              "pdf": "categories/kolorowanki/zwierzeta las/zwierzeta_las4.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta las/zwierzeta_las4.png"
+            },
+            {
+              "id": "zwierzeta_las5",
+              "title": "Zwierzeta las5",
+              "pdf": "categories/kolorowanki/zwierzeta las/zwierzeta_las5.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta las/zwierzeta_las5.png"
+            },
+            {
+              "id": "zwierzeta_las6",
+              "title": "Zwierzeta las6",
+              "pdf": "categories/kolorowanki/zwierzeta las/zwierzeta_las6.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta las/zwierzeta_las6.png"
+            },
+            {
+              "id": "zwierzeta_las7",
+              "title": "Zwierzeta las7",
+              "pdf": "categories/kolorowanki/zwierzeta las/zwierzeta_las7.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta las/zwierzeta_las7.png"
+            },
+            {
+              "id": "zwierzeta_las8",
+              "title": "Zwierzeta las8",
+              "pdf": "categories/kolorowanki/zwierzeta las/zwierzeta_las8.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta las/zwierzeta_las8.png"
+            },
+            {
+              "id": "zwierzeta_las9",
+              "title": "Zwierzeta las9",
+              "pdf": "categories/kolorowanki/zwierzeta las/zwierzeta_las9.pdf",
+              "thumb": "categories/kolorowanki/zwierzeta las/zwierzeta_las9.png"
             }
           ]
         }
@@ -137,7 +310,6 @@
     {
       "id": "nauka",
       "title": "Nauka",
-      "tile": "categories/nauka/nauka_tile.png",
       "subcategories": [
         {
           "id": "cyferki",
@@ -213,7 +385,7 @@
         },
         {
           "id": "kształty",
-          "title": "🔺 Kształty",
+          "title": "Kształty",
           "items": [
             {
               "id": "ksztalty_1",
@@ -420,25 +592,25 @@
               "thumb": "categories/nauka/literki/literki_z.png"
             },
             {
-              "id": "literki_ó",
+              "id": "literki_o",
               "title": "Litera Ó",
               "pdf": "categories/nauka/literki/literki_ó.pdf",
               "thumb": "categories/nauka/literki/literki_ó.png"
             },
             {
-              "id": "literki_ą",
+              "id": "literki_a",
               "title": "Litera Ą",
               "pdf": "categories/nauka/literki/literki_ą.pdf",
               "thumb": "categories/nauka/literki/literki_ą.png"
             },
             {
-              "id": "literki_ć",
+              "id": "literki_c",
               "title": "Litera Ć",
               "pdf": "categories/nauka/literki/literki_ć.pdf",
               "thumb": "categories/nauka/literki/literki_ć.png"
             },
             {
-              "id": "literki_ę",
+              "id": "literki_e",
               "title": "Litera Ę",
               "pdf": "categories/nauka/literki/literki_ę.pdf",
               "thumb": "categories/nauka/literki/literki_ę.png"
@@ -450,13 +622,13 @@
               "thumb": "categories/nauka/literki/literki_ł.png"
             },
             {
-              "id": "literki_ń",
+              "id": "literki_n",
               "title": "Litera Ń",
               "pdf": "categories/nauka/literki/literki_ń.pdf",
               "thumb": "categories/nauka/literki/literki_ń.png"
             },
             {
-              "id": "literki_ś",
+              "id": "literki_s",
               "title": "Litera Ś",
               "pdf": "categories/nauka/literki/literki_ś.pdf",
               "thumb": "categories/nauka/literki/literki_ś.png"
@@ -522,10 +694,9 @@
     {
       "id": "zabawa",
       "title": "Zabawa",
-      "tile": "categories/zabawa/zabawa_tile.png",
       "subcategories": [
         {
-          "id": "Cienie",
+          "id": "cienie",
           "title": "👥 Cienie",
           "items": [
             {
@@ -579,7 +750,7 @@
           ]
         },
         {
-          "id": "Labirynty",
+          "id": "labirynty",
           "title": "🌀 Labirynty",
           "items": [
             {
@@ -681,35 +852,35 @@
           ]
         },
         {
-          "id": "Połącz_kropki",
-          "title": "🧩 Połącz kropki",
+          "id": "połacz_kropki",
+          "title": "Połącz kropki",
           "items": [
             {
-              "id": "połącz1",
+              "id": "połacz1",
               "title": "Połącz1",
               "pdf": "categories/zabawa/Połącz kropki/połącz1.pdf",
               "thumb": "categories/zabawa/Połącz kropki/połącz1.png"
             },
             {
-              "id": "połącz2",
+              "id": "połacz2",
               "title": "Połącz2",
               "pdf": "categories/zabawa/Połącz kropki/połącz2.pdf",
               "thumb": "categories/zabawa/Połącz kropki/połącz2.png"
             },
             {
-              "id": "połącz3",
+              "id": "połacz3",
               "title": "Połącz3",
               "pdf": "categories/zabawa/Połącz kropki/połącz3.pdf",
               "thumb": "categories/zabawa/Połącz kropki/połącz3.png"
             },
             {
-              "id": "połącz4",
+              "id": "połacz4",
               "title": "Połącz4",
               "pdf": "categories/zabawa/Połącz kropki/połącz4.pdf",
               "thumb": "categories/zabawa/Połącz kropki/połącz4.png"
             },
             {
-              "id": "połącz5",
+              "id": "połacz5",
               "title": "Połącz5",
               "pdf": "categories/zabawa/Połącz kropki/połącz5.pdf",
               "thumb": "categories/zabawa/Połącz kropki/połącz5.png"
@@ -717,7 +888,7 @@
           ]
         },
         {
-          "id": "Wytnij_przyklej",
+          "id": "wytnij_przyklej",
           "title": "✂️ Wytnij i przyklej",
           "items": [
             {
@@ -759,7 +930,7 @@
           ]
         },
         {
-          "id": "Znajdz_różnice",
+          "id": "znajdz_roznice",
           "title": "🔍Znajdz różnice",
           "items": [
             {
@@ -797,5 +968,4 @@
       ]
     }
   ]
-
 }
