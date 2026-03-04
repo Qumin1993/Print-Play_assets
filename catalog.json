@@ -10,74 +10,74 @@
     {
       "id": "kolorowanki",
       "title": "Kolorowanki",
-      "tile": "categories/kolorowanki/postacie/kolorowanki_postacie1.png",
+      "tile": "categories/kolorowanki/kolorowanki_tile.png",
       "subcategories": [
         {
-          "id": "kolorowankipostacie",
+          "id": "postacie",
           "title": "Postacie",
           "items": [
             {
-              "id": "categorieskolorowankipostaciekolorowanki_postacie1",
+              "id": "kolorowanki_postacie1",
               "title": "Postacie 1",
               "pdf": "categories/kolorowanki/postacie/kolorowanki_postacie1.pdf",
               "thumb": "categories/kolorowanki/postacie/kolorowanki_postacie1.png"
             },
             {
-              "id": "categorieskolorowankipostaciekolorowanki_postacie10",
+              "id": "kolorowanki_postacie10",
               "title": "Postacie 10",
               "pdf": "categories/kolorowanki/postacie/kolorowanki_postacie10.pdf",
               "thumb": "categories/kolorowanki/postacie/kolorowanki_postacie10.png"
             },
             {
-              "id": "categorieskolorowankipostaciekolorowanki_postacie11",
+              "id": "kolorowanki_postacie11",
               "title": "Postacie 11",
               "pdf": "categories/kolorowanki/postacie/kolorowanki_postacie11.pdf",
               "thumb": "categories/kolorowanki/postacie/kolorowanki_postacie11.png"
             },
             {
-              "id": "categorieskolorowankipostaciekolorowanki_postacie2",
+              "id": "kolorowanki_postacie2",
               "title": "Postacie 2",
               "pdf": "categories/kolorowanki/postacie/kolorowanki_postacie2.pdf",
               "thumb": "categories/kolorowanki/postacie/kolorowanki_postacie2.png"
             },
             {
-              "id": "categorieskolorowankipostaciekolorowanki_postacie3",
+              "id": "kolorowanki_postacie3",
               "title": "Postacie 3",
               "pdf": "categories/kolorowanki/postacie/kolorowanki_postacie3.pdf",
               "thumb": "categories/kolorowanki/postacie/kolorowanki_postacie3.png"
             },
             {
-              "id": "categorieskolorowankipostaciekolorowanki_postacie4",
+              "id": "kolorowanki_postacie4",
               "title": "Postacie 4",
               "pdf": "categories/kolorowanki/postacie/kolorowanki_postacie4.pdf",
               "thumb": "categories/kolorowanki/postacie/kolorowanki_postacie4.png"
             },
             {
-              "id": "categorieskolorowankipostaciekolorowanki_postacie5",
+              "id": "kolorowanki_postacie5",
               "title": "Postacie 5",
               "pdf": "categories/kolorowanki/postacie/kolorowanki_postacie5.pdf",
               "thumb": "categories/kolorowanki/postacie/kolorowanki_postacie5.png"
             },
             {
-              "id": "categorieskolorowankipostaciekolorowanki_postacie6",
+              "id": "kolorowanki_postacie6",
               "title": "Postacie 6",
               "pdf": "categories/kolorowanki/postacie/kolorowanki_postacie6.pdf",
               "thumb": "categories/kolorowanki/postacie/kolorowanki_postacie6.png"
             },
             {
-              "id": "categorieskolorowankipostaciekolorowanki_postacie7",
+              "id": "kolorowanki_postacie7",
               "title": "Postacie 7",
               "pdf": "categories/kolorowanki/postacie/kolorowanki_postacie7.pdf",
               "thumb": "categories/kolorowanki/postacie/kolorowanki_postacie7.png"
             },
             {
-              "id": "categorieskolorowankipostaciekolorowanki_postacie8",
+              "id": "kolorowanki_postacie8",
               "title": "Postacie 8",
               "pdf": "categories/kolorowanki/postacie/kolorowanki_postacie8.pdf",
               "thumb": "categories/kolorowanki/postacie/kolorowanki_postacie8.png"
             },
             {
-              "id": "categorieskolorowankipostaciekolorowanki_postacie9",
+              "id": "kolorowanki_postacie9",
               "title": "Postacie 9",
               "pdf": "categories/kolorowanki/postacie/kolorowanki_postacie9.pdf",
               "thumb": "categories/kolorowanki/postacie/kolorowanki_postacie9.png"
@@ -86,47 +86,47 @@
           "subcategories": []
         },
         {
-          "id": "kolorowankizwierzeta",
+          "id": "zwierzeta",
           "title": "Zwierzęta",
           "items": [
             {
-              "id": "categorieskolorowankizwierzetakolorowanki_zwierzeta1",
+              "id": "kolorowanki_zwierzeta1",
               "title": "Zwierzęta 1",
               "pdf": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta1.pdf",
               "thumb": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta1.png"
             },
             {
-              "id": "categorieskolorowankizwierzetakolorowanki_zwierzeta2",
+              "id": "kolorowanki_zwierzeta2",
               "title": "Zwierzęta 2",
               "pdf": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta2.pdf",
               "thumb": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta2.png"
             },
             {
-              "id": "categorieskolorowankizwierzetakolorowanki_zwierzeta3",
+              "id": "kolorowanki_zwierzeta3",
               "title": "Zwierzęta 3",
               "pdf": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta3.pdf",
               "thumb": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta3.png"
             },
             {
-              "id": "categorieskolorowankizwierzetakolorowanki_zwierzeta4",
+              "id": "kolorowanki_zwierzeta4",
               "title": "Zwierzęta 4",
               "pdf": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta4.pdf",
               "thumb": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta4.png"
             },
             {
-              "id": "categorieskolorowankizwierzetakolorowanki_zwierzeta5",
+              "id": "kolorowanki_zwierzeta5",
               "title": "Zwierzęta 5",
               "pdf": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta5.pdf",
               "thumb": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta5.png"
             },
             {
-              "id": "categorieskolorowankizwierzetakolorowanki_zwierzeta6",
+              "id": "kolorowanki_zwierzeta6",
               "title": "Zwierzęta 6",
               "pdf": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta6.pdf",
               "thumb": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta6.png"
             },
             {
-              "id": "categorieskolorowankizwierzetakolorowanki_zwierzeta7",
+              "id": "kolorowanki_zwierzeta7",
               "title": "Zwierzęta 7",
               "pdf": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta7.pdf",
               "thumb": "categories/kolorowanki/zwierzeta/kolorowanki_zwierzeta7.png"
@@ -135,41 +135,41 @@
           "subcategories": []
         },
         {
-          "id": "kolorowankizwierzeta_afryka",
+          "id": "zwierzeta_afryka",
           "title": "Zwierzeta afryka",
           "items": [
             {
-              "id": "categorieskolorowankizwierzeta_afrykazwierzeta_afryka1",
+              "id": "zwierzeta_afryka1",
               "title": "Zwierzeta afryka1",
               "pdf": "categories/kolorowanki/zwierzeta afryka/zwierzeta_afryka1.pdf",
               "thumb": "categories/kolorowanki/zwierzeta afryka/zwierzeta_afryka1.png"
             },
             {
-              "id": "categorieskolorowankizwierzeta_afrykazwierzeta_afryka2",
+              "id": "zwierzeta_afryka2",
               "title": "Zwierzeta afryka2",
               "pdf": "categories/kolorowanki/zwierzeta afryka/zwierzeta_afryka2.pdf",
               "thumb": "categories/kolorowanki/zwierzeta afryka/zwierzeta_afryka2.png"
             },
             {
-              "id": "categorieskolorowankizwierzeta_afrykazwierzeta_afryka3",
+              "id": "zwierzeta_afryka3",
               "title": "Zwierzeta afryka3",
               "pdf": "categories/kolorowanki/zwierzeta afryka/zwierzeta_afryka3.pdf",
               "thumb": "categories/kolorowanki/zwierzeta afryka/zwierzeta_afryka3.png"
             },
             {
-              "id": "categorieskolorowankizwierzeta_afrykazwierzeta_afryka4",
+              "id": "zwierzeta_afryka4",
               "title": "Zwierzeta afryka4",
               "pdf": "categories/kolorowanki/zwierzeta afryka/zwierzeta_afryka4.pdf",
               "thumb": "categories/kolorowanki/zwierzeta afryka/zwierzeta_afryka4.png"
             },
             {
-              "id": "categorieskolorowankizwierzeta_afrykazwierzeta_afryka5",
+              "id": "zwierzeta_afryka5",
               "title": "Zwierzeta afryka5",
               "pdf": "categories/kolorowanki/zwierzeta afryka/zwierzeta_afryka5.pdf",
               "thumb": "categories/kolorowanki/zwierzeta afryka/zwierzeta_afryka5.png"
             },
             {
-              "id": "categorieskolorowankizwierzeta_afrykazwierzeta_afryka6",
+              "id": "zwierzeta_afryka6",
               "title": "Zwierzeta afryka6",
               "pdf": "categories/kolorowanki/zwierzeta afryka/zwierzeta_afryka6.pdf",
               "thumb": "categories/kolorowanki/zwierzeta afryka/zwierzeta_afryka6.png"
@@ -178,65 +178,65 @@
           "subcategories": []
         },
         {
-          "id": "kolorowankizwierzeta_farma",
+          "id": "zwierzeta_farma",
           "title": "Zwierzeta farma",
           "items": [
             {
-              "id": "categorieskolorowankizwierzeta_farmazwierzeta_farma1",
+              "id": "zwierzeta_farma1",
               "title": "Zwierzeta farma1",
               "pdf": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma1.pdf",
               "thumb": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma1.png"
             },
             {
-              "id": "categorieskolorowankizwierzeta_farmazwierzeta_farma10",
+              "id": "zwierzeta_farma10",
               "title": "Zwierzeta farma10",
               "pdf": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma10.pdf",
               "thumb": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma10.png"
             },
             {
-              "id": "categorieskolorowankizwierzeta_farmazwierzeta_farma2",
+              "id": "zwierzeta_farma2",
               "title": "Zwierzeta farma2",
               "pdf": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma2.pdf",
               "thumb": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma2.png"
             },
             {
-              "id": "categorieskolorowankizwierzeta_farmazwierzeta_farma3",
+              "id": "zwierzeta_farma3",
               "title": "Zwierzeta farma3",
               "pdf": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma3.pdf",
               "thumb": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma3.png"
             },
             {
-              "id": "categorieskolorowankizwierzeta_farmazwierzeta_farma4",
+              "id": "zwierzeta_farma4",
               "title": "Zwierzeta farma4",
               "pdf": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma4.pdf",
               "thumb": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma4.png"
             },
             {
-              "id": "categorieskolorowankizwierzeta_farmazwierzeta_farma5",
+              "id": "zwierzeta_farma5",
               "title": "Zwierzeta farma5",
               "pdf": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma5.pdf",
               "thumb": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma5.png"
             },
             {
-              "id": "categorieskolorowankizwierzeta_farmazwierzeta_farma6",
+              "id": "zwierzeta_farma6",
               "title": "Zwierzeta farma6",
               "pdf": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma6.pdf",
               "thumb": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma6.png"
             },
             {
-              "id": "categorieskolorowankizwierzeta_farmazwierzeta_farma7",
+              "id": "zwierzeta_farma7",
               "title": "Zwierzeta farma7",
               "pdf": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma7.pdf",
               "thumb": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma7.png"
             },
             {
-              "id": "categorieskolorowankizwierzeta_farmazwierzeta_farma8",
+              "id": "zwierzeta_farma8",
               "title": "Zwierzeta farma8",
               "pdf": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma8.pdf",
               "thumb": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma8.png"
             },
             {
-              "id": "categorieskolorowankizwierzeta_farmazwierzeta_farma9",
+              "id": "zwierzeta_farma9",
               "title": "Zwierzeta farma9",
               "pdf": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma9.pdf",
               "thumb": "categories/kolorowanki/zwierzeta farma/zwierzeta_farma9.png"
@@ -245,65 +245,65 @@
           "subcategories": []
         },
         {
-          "id": "kolorowankizwierzeta_las",
+          "id": "zwierzeta_las",
           "title": "Zwierzeta las",
           "items": [
             {
-              "id": "categorieskolorowankizwierzeta_laszwierzeta_las1",
+              "id": "zwierzeta_las1",
               "title": "Zwierzeta las1",
               "pdf": "categories/kolorowanki/zwierzeta las/zwierzeta_las1.pdf",
               "thumb": "categories/kolorowanki/zwierzeta las/zwierzeta_las1.png"
             },
             {
-              "id": "categorieskolorowankizwierzeta_laszwierzeta_las10",
+              "id": "zwierzeta_las10",
               "title": "Zwierzeta las10",
               "pdf": "categories/kolorowanki/zwierzeta las/zwierzeta_las10.pdf",
               "thumb": "categories/kolorowanki/zwierzeta las/zwierzeta_las10.png"
             },
             {
-              "id": "categorieskolorowankizwierzeta_laszwierzeta_las2",
+              "id": "zwierzeta_las2",
               "title": "Zwierzeta las2",
               "pdf": "categories/kolorowanki/zwierzeta las/zwierzeta_las2.pdf",
               "thumb": "categories/kolorowanki/zwierzeta las/zwierzeta_las2.png"
             },
             {
-              "id": "categorieskolorowankizwierzeta_laszwierzeta_las3",
+              "id": "zwierzeta_las3",
               "title": "Zwierzeta las3",
               "pdf": "categories/kolorowanki/zwierzeta las/zwierzeta_las3.pdf",
               "thumb": "categories/kolorowanki/zwierzeta las/zwierzeta_las3.png"
             },
             {
-              "id": "categorieskolorowankizwierzeta_laszwierzeta_las4",
+              "id": "zwierzeta_las4",
               "title": "Zwierzeta las4",
               "pdf": "categories/kolorowanki/zwierzeta las/zwierzeta_las4.pdf",
               "thumb": "categories/kolorowanki/zwierzeta las/zwierzeta_las4.png"
             },
             {
-              "id": "categorieskolorowankizwierzeta_laszwierzeta_las5",
+              "id": "zwierzeta_las5",
               "title": "Zwierzeta las5",
               "pdf": "categories/kolorowanki/zwierzeta las/zwierzeta_las5.pdf",
               "thumb": "categories/kolorowanki/zwierzeta las/zwierzeta_las5.png"
             },
             {
-              "id": "categorieskolorowankizwierzeta_laszwierzeta_las6",
+              "id": "zwierzeta_las6",
               "title": "Zwierzeta las6",
               "pdf": "categories/kolorowanki/zwierzeta las/zwierzeta_las6.pdf",
               "thumb": "categories/kolorowanki/zwierzeta las/zwierzeta_las6.png"
             },
             {
-              "id": "categorieskolorowankizwierzeta_laszwierzeta_las7",
+              "id": "zwierzeta_las7",
               "title": "Zwierzeta las7",
               "pdf": "categories/kolorowanki/zwierzeta las/zwierzeta_las7.pdf",
               "thumb": "categories/kolorowanki/zwierzeta las/zwierzeta_las7.png"
             },
             {
-              "id": "categorieskolorowankizwierzeta_laszwierzeta_las8",
+              "id": "zwierzeta_las8",
               "title": "Zwierzeta las8",
               "pdf": "categories/kolorowanki/zwierzeta las/zwierzeta_las8.pdf",
               "thumb": "categories/kolorowanki/zwierzeta las/zwierzeta_las8.png"
             },
             {
-              "id": "categorieskolorowankizwierzeta_laszwierzeta_las9",
+              "id": "zwierzeta_las9",
               "title": "Zwierzeta las9",
               "pdf": "categories/kolorowanki/zwierzeta las/zwierzeta_las9.pdf",
               "thumb": "categories/kolorowanki/zwierzeta las/zwierzeta_las9.png"
@@ -316,224 +316,224 @@
     {
       "id": "nauka",
       "title": "Nauka",
-      "tile": "categories/nauka/Alfabet/literki_a.png",
+      "tile": "categories/nauka/nauka_tile.png",
       "subcategories": [
         {
-          "id": "naukaalfabet",
+          "id": "Alfabet",
           "title": "Alfabet",
           "items": [
             {
-              "id": "categoriesnaukaalfabetliterki_a",
+              "id": "literki_a",
               "title": "Litera A",
               "pdf": "categories/nauka/Alfabet/literki_a.pdf",
               "thumb": "categories/nauka/Alfabet/literki_a.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_b",
+              "id": "literki_b",
               "title": "Litera B",
               "pdf": "categories/nauka/Alfabet/literki_b.pdf",
               "thumb": "categories/nauka/Alfabet/literki_b.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_c",
+              "id": "literki_c",
               "title": "Litera C",
               "pdf": "categories/nauka/Alfabet/literki_c.pdf",
               "thumb": "categories/nauka/Alfabet/literki_c.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_d",
+              "id": "literki_d",
               "title": "Litera D",
               "pdf": "categories/nauka/Alfabet/literki_d.pdf",
               "thumb": "categories/nauka/Alfabet/literki_d.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_e",
+              "id": "literki_e",
               "title": "Litera E",
               "pdf": "categories/nauka/Alfabet/literki_e.pdf",
               "thumb": "categories/nauka/Alfabet/literki_e.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_f",
+              "id": "literki_f",
               "title": "Litera F",
               "pdf": "categories/nauka/Alfabet/literki_f.pdf",
               "thumb": "categories/nauka/Alfabet/literki_f.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_g",
+              "id": "literki_g",
               "title": "Litera G",
               "pdf": "categories/nauka/Alfabet/literki_g.pdf",
               "thumb": "categories/nauka/Alfabet/literki_g.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_h",
+              "id": "literki_h",
               "title": "Litera H",
               "pdf": "categories/nauka/Alfabet/literki_h.pdf",
               "thumb": "categories/nauka/Alfabet/literki_h.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_i",
+              "id": "literki_i",
               "title": "Litera I",
               "pdf": "categories/nauka/Alfabet/literki_i.pdf",
               "thumb": "categories/nauka/Alfabet/literki_i.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_j",
+              "id": "literki_j",
               "title": "Litera J",
               "pdf": "categories/nauka/Alfabet/literki_j.pdf",
               "thumb": "categories/nauka/Alfabet/literki_j.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_k",
+              "id": "literki_k",
               "title": "Litera K",
               "pdf": "categories/nauka/Alfabet/literki_k.pdf",
               "thumb": "categories/nauka/Alfabet/literki_k.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_l",
+              "id": "literki_l",
               "title": "Litera L",
               "pdf": "categories/nauka/Alfabet/literki_l.pdf",
               "thumb": "categories/nauka/Alfabet/literki_l.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_m",
+              "id": "literki_m",
               "title": "Litera M",
               "pdf": "categories/nauka/Alfabet/literki_m.pdf",
               "thumb": "categories/nauka/Alfabet/literki_m.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_n",
+              "id": "literki_n",
               "title": "Litera N",
               "pdf": "categories/nauka/Alfabet/literki_n.pdf",
               "thumb": "categories/nauka/Alfabet/literki_n.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_o",
+              "id": "literki_o",
               "title": "Litera O",
               "pdf": "categories/nauka/Alfabet/literki_o.pdf",
               "thumb": "categories/nauka/Alfabet/literki_o.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_p",
+              "id": "literki_p",
               "title": "Litera P",
               "pdf": "categories/nauka/Alfabet/literki_p.pdf",
               "thumb": "categories/nauka/Alfabet/literki_p.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_q",
+              "id": "literki_q",
               "title": "Litera Q",
               "pdf": "categories/nauka/Alfabet/literki_q.pdf",
               "thumb": "categories/nauka/Alfabet/literki_q.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_r",
+              "id": "literki_r",
               "title": "Litera R",
               "pdf": "categories/nauka/Alfabet/literki_r.pdf",
               "thumb": "categories/nauka/Alfabet/literki_r.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_s",
+              "id": "literki_s",
               "title": "Litera S",
               "pdf": "categories/nauka/Alfabet/literki_s.pdf",
               "thumb": "categories/nauka/Alfabet/literki_s.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_t",
+              "id": "literki_t",
               "title": "Litera T",
               "pdf": "categories/nauka/Alfabet/literki_t.pdf",
               "thumb": "categories/nauka/Alfabet/literki_t.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_u",
+              "id": "literki_u",
               "title": "Litera U",
               "pdf": "categories/nauka/Alfabet/literki_u.pdf",
               "thumb": "categories/nauka/Alfabet/literki_u.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_v",
+              "id": "literki_v",
               "title": "Litera V",
               "pdf": "categories/nauka/Alfabet/literki_v.pdf",
               "thumb": "categories/nauka/Alfabet/literki_v.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_w",
+              "id": "literki_w",
               "title": "Litera W",
               "pdf": "categories/nauka/Alfabet/literki_w.pdf",
               "thumb": "categories/nauka/Alfabet/literki_w.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_x",
+              "id": "literki_x",
               "title": "Litera X",
               "pdf": "categories/nauka/Alfabet/literki_x.pdf",
               "thumb": "categories/nauka/Alfabet/literki_x.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_y",
+              "id": "literki_y",
               "title": "Litera Y",
               "pdf": "categories/nauka/Alfabet/literki_y.pdf",
               "thumb": "categories/nauka/Alfabet/literki_y.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_z",
+              "id": "literki_z",
               "title": "Litera Z",
               "pdf": "categories/nauka/Alfabet/literki_z.pdf",
               "thumb": "categories/nauka/Alfabet/literki_z.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_ó",
+              "id": "literki_ó",
               "title": "Litera Ó",
               "pdf": "categories/nauka/Alfabet/literki_ó.pdf",
               "thumb": "categories/nauka/Alfabet/literki_ó.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_ą",
+              "id": "literki_ą",
               "title": "Litera Ą",
               "pdf": "categories/nauka/Alfabet/literki_ą.pdf",
               "thumb": "categories/nauka/Alfabet/literki_ą.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_ć",
+              "id": "literki_ć",
               "title": "Litera Ć",
               "pdf": "categories/nauka/Alfabet/literki_ć.pdf",
               "thumb": "categories/nauka/Alfabet/literki_ć.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_ę",
+              "id": "literki_ę",
               "title": "Litera Ę",
               "pdf": "categories/nauka/Alfabet/literki_ę.pdf",
               "thumb": "categories/nauka/Alfabet/literki_ę.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_ł",
+              "id": "literki_ł",
               "title": "Litera Ł",
               "pdf": "categories/nauka/Alfabet/literki_ł.pdf",
               "thumb": "categories/nauka/Alfabet/literki_ł.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_ń",
+              "id": "literki_ń",
               "title": "Litera Ń",
               "pdf": "categories/nauka/Alfabet/literki_ń.pdf",
               "thumb": "categories/nauka/Alfabet/literki_ń.png"
             },
             {
-              "id": "categoriesnaukaalfabetliterki_ś",
+              "id": "literki_ś",
               "title": "Litera Ś",
               "pdf": "categories/nauka/Alfabet/literki_ś.pdf",
               "thumb": "categories/nauka/Alfabet/literki_ś.png"
             },
             {
-              "id": "categoriesnaukaalfabetpisanie10",
+              "id": "pisanie10",
               "title": "Pisanie10",
               "pdf": "categories/nauka/Alfabet/pisanie10.pdf",
               "thumb": "categories/nauka/Alfabet/pisanie10.png"
             },
             {
-              "id": "categoriesnaukaalfabetpisanie11",
+              "id": "pisanie11",
               "title": "Pisanie11",
               "pdf": "categories/nauka/Alfabet/pisanie11.pdf",
               "thumb": "categories/nauka/Alfabet/pisanie11.png"
             },
             {
-              "id": "categoriesnaukaalfabetpisanie12",
+              "id": "pisanie12",
               "title": "Pisanie12",
               "pdf": "categories/nauka/Alfabet/pisanie12.pdf",
               "thumb": "categories/nauka/Alfabet/pisanie12.png"
@@ -542,71 +542,71 @@
           "subcategories": []
         },
         {
-          "id": "naukacyferki",
+          "id": "Cyferki",
           "title": "Cyferki",
           "items": [
             {
-              "id": "categoriesnaukacyferkicyfry_0",
+              "id": "cyfry_0",
               "title": "Cyfra 0",
               "pdf": "categories/nauka/Cyferki/cyfry_0.pdf",
               "thumb": "categories/nauka/Cyferki/cyfry_0.png"
             },
             {
-              "id": "categoriesnaukacyferkicyfry_1",
+              "id": "cyfry_1",
               "title": "Cyfra 1",
               "pdf": "categories/nauka/Cyferki/cyfry_1.pdf",
               "thumb": "categories/nauka/Cyferki/cyfry_1.png"
             },
             {
-              "id": "categoriesnaukacyferkicyfry_10",
+              "id": "cyfry_10",
               "title": "Cyfra 10",
               "pdf": "categories/nauka/Cyferki/cyfry_10.pdf",
               "thumb": "categories/nauka/Cyferki/cyfry_10.png"
             },
             {
-              "id": "categoriesnaukacyferkicyfry_2",
+              "id": "cyfry_2",
               "title": "Cyfra 2",
               "pdf": "categories/nauka/Cyferki/cyfry_2.pdf",
               "thumb": "categories/nauka/Cyferki/cyfry_2.png"
             },
             {
-              "id": "categoriesnaukacyferkicyfry_3",
+              "id": "cyfry_3",
               "title": "Cyfra 3",
               "pdf": "categories/nauka/Cyferki/cyfry_3.pdf",
               "thumb": "categories/nauka/Cyferki/cyfry_3.png"
             },
             {
-              "id": "categoriesnaukacyferkicyfry_4",
+              "id": "cyfry_4",
               "title": "Cyfra 4",
               "pdf": "categories/nauka/Cyferki/cyfry_4.pdf",
               "thumb": "categories/nauka/Cyferki/cyfry_4.png"
             },
             {
-              "id": "categoriesnaukacyferkicyfry_5",
+              "id": "cyfry_5",
               "title": "Cyfra 5",
               "pdf": "categories/nauka/Cyferki/cyfry_5.pdf",
               "thumb": "categories/nauka/Cyferki/cyfry_5.png"
             },
             {
-              "id": "categoriesnaukacyferkicyfry_6",
+              "id": "cyfry_6",
               "title": "Cyfra 6",
               "pdf": "categories/nauka/Cyferki/cyfry_6.pdf",
               "thumb": "categories/nauka/Cyferki/cyfry_6.png"
             },
             {
-              "id": "categoriesnaukacyferkicyfry_7",
+              "id": "cyfry_7",
               "title": "Cyfra 7",
               "pdf": "categories/nauka/Cyferki/cyfry_7.pdf",
               "thumb": "categories/nauka/Cyferki/cyfry_7.png"
             },
             {
-              "id": "categoriesnaukacyferkicyfry_8",
+              "id": "cyfry_8",
               "title": "Cyfra 8",
               "pdf": "categories/nauka/Cyferki/cyfry_8.pdf",
               "thumb": "categories/nauka/Cyferki/cyfry_8.png"
             },
             {
-              "id": "categoriesnaukacyferkicyfry_9",
+              "id": "cyfry_9",
               "title": "Cyfra 9",
               "pdf": "categories/nauka/Cyferki/cyfry_9.pdf",
               "thumb": "categories/nauka/Cyferki/cyfry_9.png"
@@ -615,40 +615,40 @@
           "subcategories": []
         },
         {
-          "id": "naukadodawanie",
+          "id": "Dodawanie",
           "title": "Dodawanie",
           "items": [],
           "subcategories": [
             {
-              "id": "naukadodawanie0-10",
+              "id": "0-10",
               "title": "0-10",
               "items": [
                 {
-                  "id": "categoriesnaukadodawanie0-10dodawanie1",
+                  "id": "dodawanie1",
                   "title": "Dodawanie1",
                   "pdf": "categories/nauka/Dodawanie/0-10/dodawanie1.pdf",
                   "thumb": "categories/nauka/Dodawanie/0-10/dodawanie1.png"
                 },
                 {
-                  "id": "categoriesnaukadodawanie0-10dodawanie2",
+                  "id": "dodawanie2",
                   "title": "Dodawanie2",
                   "pdf": "categories/nauka/Dodawanie/0-10/dodawanie2.pdf",
                   "thumb": "categories/nauka/Dodawanie/0-10/dodawanie2.png"
                 },
                 {
-                  "id": "categoriesnaukadodawanie0-10dodawanie3",
+                  "id": "dodawanie3",
                   "title": "Dodawanie3",
                   "pdf": "categories/nauka/Dodawanie/0-10/dodawanie3.pdf",
                   "thumb": "categories/nauka/Dodawanie/0-10/dodawanie3.png"
                 },
                 {
-                  "id": "categoriesnaukadodawanie0-10dodawanie4",
+                  "id": "dodawanie4",
                   "title": "Dodawanie4",
                   "pdf": "categories/nauka/Dodawanie/0-10/dodawanie4.pdf",
                   "thumb": "categories/nauka/Dodawanie/0-10/dodawanie4.png"
                 },
                 {
-                  "id": "categoriesnaukadodawanie0-10dodawanie5",
+                  "id": "dodawanie5",
                   "title": "Dodawanie5",
                   "pdf": "categories/nauka/Dodawanie/0-10/dodawanie5.pdf",
                   "thumb": "categories/nauka/Dodawanie/0-10/dodawanie5.png"
@@ -657,35 +657,35 @@
               "subcategories": []
             },
             {
-              "id": "naukadodawanie10-20",
+              "id": "10-20",
               "title": "10-20",
               "items": [
                 {
-                  "id": "categoriesnaukadodawanie10-20dodawanie10",
+                  "id": "dodawanie10",
                   "title": "Dodawanie10",
                   "pdf": "categories/nauka/Dodawanie/10-20/dodawanie10.pdf",
                   "thumb": "categories/nauka/Dodawanie/10-20/dodawanie10.png"
                 },
                 {
-                  "id": "categoriesnaukadodawanie10-20dodawanie6",
+                  "id": "dodawanie6",
                   "title": "Dodawanie6",
                   "pdf": "categories/nauka/Dodawanie/10-20/dodawanie6.pdf",
                   "thumb": "categories/nauka/Dodawanie/10-20/dodawanie6.png"
                 },
                 {
-                  "id": "categoriesnaukadodawanie10-20dodawanie7",
+                  "id": "dodawanie7",
                   "title": "Dodawanie7",
                   "pdf": "categories/nauka/Dodawanie/10-20/dodawanie7.pdf",
                   "thumb": "categories/nauka/Dodawanie/10-20/dodawanie7.png"
                 },
                 {
-                  "id": "categoriesnaukadodawanie10-20dodawanie8",
+                  "id": "dodawanie8",
                   "title": "Dodawanie8",
                   "pdf": "categories/nauka/Dodawanie/10-20/dodawanie8.pdf",
                   "thumb": "categories/nauka/Dodawanie/10-20/dodawanie8.png"
                 },
                 {
-                  "id": "categoriesnaukadodawanie10-20dodawanie9",
+                  "id": "dodawanie9",
                   "title": "Dodawanie9",
                   "pdf": "categories/nauka/Dodawanie/10-20/dodawanie9.pdf",
                   "thumb": "categories/nauka/Dodawanie/10-20/dodawanie9.png"
@@ -694,35 +694,35 @@
               "subcategories": []
             },
             {
-              "id": "naukadodawanie20-30",
+              "id": "20-30",
               "title": "20-30",
               "items": [
                 {
-                  "id": "categoriesnaukadodawanie20-30dodawanie11",
+                  "id": "dodawanie11",
                   "title": "Dodawanie11",
                   "pdf": "categories/nauka/Dodawanie/20-30/dodawanie11.pdf",
                   "thumb": "categories/nauka/Dodawanie/20-30/dodawanie11.png"
                 },
                 {
-                  "id": "categoriesnaukadodawanie20-30dodawanie12",
+                  "id": "dodawanie12",
                   "title": "Dodawanie12",
                   "pdf": "categories/nauka/Dodawanie/20-30/dodawanie12.pdf",
                   "thumb": "categories/nauka/Dodawanie/20-30/dodawanie12.png"
                 },
                 {
-                  "id": "categoriesnaukadodawanie20-30dodawanie13",
+                  "id": "dodawanie13",
                   "title": "Dodawanie13",
                   "pdf": "categories/nauka/Dodawanie/20-30/dodawanie13.pdf",
                   "thumb": "categories/nauka/Dodawanie/20-30/dodawanie13.png"
                 },
                 {
-                  "id": "categoriesnaukadodawanie20-30dodawanie14",
+                  "id": "dodawanie14",
                   "title": "Dodawanie14",
                   "pdf": "categories/nauka/Dodawanie/20-30/dodawanie14.pdf",
                   "thumb": "categories/nauka/Dodawanie/20-30/dodawanie14.png"
                 },
                 {
-                  "id": "categoriesnaukadodawanie20-30dodawanie15",
+                  "id": "dodawanie15",
                   "title": "Dodawanie15",
                   "pdf": "categories/nauka/Dodawanie/20-30/dodawanie15.pdf",
                   "thumb": "categories/nauka/Dodawanie/20-30/dodawanie15.png"
@@ -731,35 +731,35 @@
               "subcategories": []
             },
             {
-              "id": "naukadodawanie30-40",
+              "id": "30-40",
               "title": "30-40",
               "items": [
                 {
-                  "id": "categoriesnaukadodawanie30-40dodawanie16",
+                  "id": "dodawanie16",
                   "title": "Dodawanie16",
                   "pdf": "categories/nauka/Dodawanie/30-40/dodawanie16.pdf",
                   "thumb": "categories/nauka/Dodawanie/30-40/dodawanie16.png"
                 },
                 {
-                  "id": "categoriesnaukadodawanie30-40dodawanie17",
+                  "id": "dodawanie17",
                   "title": "Dodawanie17",
                   "pdf": "categories/nauka/Dodawanie/30-40/dodawanie17.pdf",
                   "thumb": "categories/nauka/Dodawanie/30-40/dodawanie17.png"
                 },
                 {
-                  "id": "categoriesnaukadodawanie30-40dodawanie18",
+                  "id": "dodawanie18",
                   "title": "Dodawanie18",
                   "pdf": "categories/nauka/Dodawanie/30-40/dodawanie18.pdf",
                   "thumb": "categories/nauka/Dodawanie/30-40/dodawanie18.png"
                 },
                 {
-                  "id": "categoriesnaukadodawanie30-40dodawanie19",
+                  "id": "dodawanie19",
                   "title": "Dodawanie19",
                   "pdf": "categories/nauka/Dodawanie/30-40/dodawanie19.pdf",
                   "thumb": "categories/nauka/Dodawanie/30-40/dodawanie19.png"
                 },
                 {
-                  "id": "categoriesnaukadodawanie30-40dodawanie20",
+                  "id": "dodawanie20",
                   "title": "Dodawanie20",
                   "pdf": "categories/nauka/Dodawanie/30-40/dodawanie20.pdf",
                   "thumb": "categories/nauka/Dodawanie/30-40/dodawanie20.png"
@@ -768,35 +768,35 @@
               "subcategories": []
             },
             {
-              "id": "naukadodawanie40-50",
+              "id": "40-50",
               "title": "40-50",
               "items": [
                 {
-                  "id": "categoriesnaukadodawanie40-50dodawanie21",
+                  "id": "dodawanie21",
                   "title": "Dodawanie21",
                   "pdf": "categories/nauka/Dodawanie/40-50/dodawanie21.pdf",
                   "thumb": "categories/nauka/Dodawanie/40-50/dodawanie21.png"
                 },
                 {
-                  "id": "categoriesnaukadodawanie40-50dodawanie22",
+                  "id": "dodawanie22",
                   "title": "Dodawanie22",
                   "pdf": "categories/nauka/Dodawanie/40-50/dodawanie22.pdf",
                   "thumb": "categories/nauka/Dodawanie/40-50/dodawanie22.png"
                 },
                 {
-                  "id": "categoriesnaukadodawanie40-50dodawanie23",
+                  "id": "dodawanie23",
                   "title": "Dodawanie23",
                   "pdf": "categories/nauka/Dodawanie/40-50/dodawanie23.pdf",
                   "thumb": "categories/nauka/Dodawanie/40-50/dodawanie23.png"
                 },
                 {
-                  "id": "categoriesnaukadodawanie40-50dodawanie24",
+                  "id": "dodawanie24",
                   "title": "Dodawanie24",
                   "pdf": "categories/nauka/Dodawanie/40-50/dodawanie24.pdf",
                   "thumb": "categories/nauka/Dodawanie/40-50/dodawanie24.png"
                 },
                 {
-                  "id": "categoriesnaukadodawanie40-50dodawanie25",
+                  "id": "dodawanie25",
                   "title": "Dodawanie25",
                   "pdf": "categories/nauka/Dodawanie/40-50/dodawanie25.pdf",
                   "thumb": "categories/nauka/Dodawanie/40-50/dodawanie25.png"
@@ -807,59 +807,59 @@
           ]
         },
         {
-          "id": "naukapisanie",
+          "id": "Pisanie",
           "title": "Pisanie",
           "items": [
             {
-              "id": "categoriesnaukapisaniepisanie1",
+              "id": "pisanie1",
               "title": "Pisanie1",
               "pdf": "categories/nauka/Pisanie/pisanie1.pdf",
               "thumb": "categories/nauka/Pisanie/pisanie1.png"
             },
             {
-              "id": "categoriesnaukapisaniepisanie2",
+              "id": "pisanie2",
               "title": "Pisanie2",
               "pdf": "categories/nauka/Pisanie/pisanie2.pdf",
               "thumb": "categories/nauka/Pisanie/pisanie2.png"
             },
             {
-              "id": "categoriesnaukapisaniepisanie3",
+              "id": "pisanie3",
               "title": "Pisanie3",
               "pdf": "categories/nauka/Pisanie/pisanie3.pdf",
               "thumb": "categories/nauka/Pisanie/pisanie3.png"
             },
             {
-              "id": "categoriesnaukapisaniepisanie4",
+              "id": "pisanie4",
               "title": "Pisanie4",
               "pdf": "categories/nauka/Pisanie/pisanie4.pdf",
               "thumb": "categories/nauka/Pisanie/pisanie4.png"
             },
             {
-              "id": "categoriesnaukapisaniepisanie5",
+              "id": "pisanie5",
               "title": "Pisanie5",
               "pdf": "categories/nauka/Pisanie/pisanie5.pdf",
               "thumb": "categories/nauka/Pisanie/pisanie5.png"
             },
             {
-              "id": "categoriesnaukapisaniepisanie6",
+              "id": "pisanie6",
               "title": "Pisanie6",
               "pdf": "categories/nauka/Pisanie/pisanie6.pdf",
               "thumb": "categories/nauka/Pisanie/pisanie6.png"
             },
             {
-              "id": "categoriesnaukapisaniepisanie7",
+              "id": "pisanie7",
               "title": "Pisanie7",
               "pdf": "categories/nauka/Pisanie/pisanie7.pdf",
               "thumb": "categories/nauka/Pisanie/pisanie7.png"
             },
             {
-              "id": "categoriesnaukapisaniepisanie8",
+              "id": "pisanie8",
               "title": "Pisanie8",
               "pdf": "categories/nauka/Pisanie/pisanie8.pdf",
               "thumb": "categories/nauka/Pisanie/pisanie8.png"
             },
             {
-              "id": "categoriesnaukapisaniepisanie9",
+              "id": "pisanie9",
               "title": "Pisanie9",
               "pdf": "categories/nauka/Pisanie/pisanie9.pdf",
               "thumb": "categories/nauka/Pisanie/pisanie9.png"
@@ -868,47 +868,47 @@
           "subcategories": []
         },
         {
-          "id": "naukakształty",
+          "id": "kształty",
           "title": "Kształty",
           "items": [
             {
-              "id": "categoriesnaukakształtyksztalty_1",
+              "id": "ksztalty_1",
               "title": "Ksztalty 1",
               "pdf": "categories/nauka/kształty/ksztalty_1.pdf",
               "thumb": "categories/nauka/kształty/ksztalty_1.png"
             },
             {
-              "id": "categoriesnaukakształtyksztalty_2",
+              "id": "ksztalty_2",
               "title": "Ksztalty 2",
               "pdf": "categories/nauka/kształty/ksztalty_2.pdf",
               "thumb": "categories/nauka/kształty/ksztalty_2.png"
             },
             {
-              "id": "categoriesnaukakształtyksztalty_3",
+              "id": "ksztalty_3",
               "title": "Ksztalty 3",
               "pdf": "categories/nauka/kształty/ksztalty_3.pdf",
               "thumb": "categories/nauka/kształty/ksztalty_3.png"
             },
             {
-              "id": "categoriesnaukakształtyksztalty_4",
+              "id": "ksztalty_4",
               "title": "Ksztalty 4",
               "pdf": "categories/nauka/kształty/ksztalty_4.pdf",
               "thumb": "categories/nauka/kształty/ksztalty_4.png"
             },
             {
-              "id": "categoriesnaukakształtyksztalty_5",
+              "id": "ksztalty_5",
               "title": "Ksztalty 5",
               "pdf": "categories/nauka/kształty/ksztalty_5.pdf",
               "thumb": "categories/nauka/kształty/ksztalty_5.png"
             },
             {
-              "id": "categoriesnaukakształtyksztalty_6",
+              "id": "ksztalty_6",
               "title": "Ksztalty 6",
               "pdf": "categories/nauka/kształty/ksztalty_6.pdf",
               "thumb": "categories/nauka/kształty/ksztalty_6.png"
             },
             {
-              "id": "categoriesnaukakształtyksztalty_7",
+              "id": "ksztalty_7",
               "title": "Ksztalty 7",
               "pdf": "categories/nauka/kształty/ksztalty_7.pdf",
               "thumb": "categories/nauka/kształty/ksztalty_7.png"
@@ -917,53 +917,53 @@
           "subcategories": []
         },
         {
-          "id": "naukaszlaczki",
+          "id": "szlaczki",
           "title": "Szlaczki",
           "items": [
             {
-              "id": "categoriesnaukaszlaczkiszlaczki_1",
+              "id": "szlaczki_1",
               "title": "Szlaczki 1",
               "pdf": "categories/nauka/szlaczki/szlaczki_1.pdf",
               "thumb": "categories/nauka/szlaczki/szlaczki_1.png"
             },
             {
-              "id": "categoriesnaukaszlaczkiszlaczki_2",
+              "id": "szlaczki_2",
               "title": "Szlaczki 2",
               "pdf": "categories/nauka/szlaczki/szlaczki_2.pdf",
               "thumb": "categories/nauka/szlaczki/szlaczki_2.png"
             },
             {
-              "id": "categoriesnaukaszlaczkiszlaczki_3",
+              "id": "szlaczki_3",
               "title": "Szlaczki 3",
               "pdf": "categories/nauka/szlaczki/szlaczki_3.pdf",
               "thumb": "categories/nauka/szlaczki/szlaczki_3.png"
             },
             {
-              "id": "categoriesnaukaszlaczkiszlaczki_4",
+              "id": "szlaczki_4",
               "title": "Szlaczki 4",
               "pdf": "categories/nauka/szlaczki/szlaczki_4.pdf",
               "thumb": "categories/nauka/szlaczki/szlaczki_4.png"
             },
             {
-              "id": "categoriesnaukaszlaczkiszlaczki_5",
+              "id": "szlaczki_5",
               "title": "Szlaczki 5",
               "pdf": "categories/nauka/szlaczki/szlaczki_5.pdf",
               "thumb": "categories/nauka/szlaczki/szlaczki_5.png"
             },
             {
-              "id": "categoriesnaukaszlaczkiszlaczki_6",
+              "id": "szlaczki_6",
               "title": "Szlaczki 6",
               "pdf": "categories/nauka/szlaczki/szlaczki_6.pdf",
               "thumb": "categories/nauka/szlaczki/szlaczki_6.png"
             },
             {
-              "id": "categoriesnaukaszlaczkiszlaczki_7",
+              "id": "szlaczki_7",
               "title": "Szlaczki 7",
               "pdf": "categories/nauka/szlaczki/szlaczki_7.pdf",
               "thumb": "categories/nauka/szlaczki/szlaczki_7.png"
             },
             {
-              "id": "categoriesnaukaszlaczkiszlaczki_8",
+              "id": "szlaczki_8",
               "title": "Szlaczki 8",
               "pdf": "categories/nauka/szlaczki/szlaczki_8.pdf",
               "thumb": "categories/nauka/szlaczki/szlaczki_8.png"
@@ -976,56 +976,56 @@
     {
       "id": "zabawa",
       "title": "Zabawa",
-      "tile": "categories/zabawa/Cienie/cienie_1.png",
+      "tile": "categories/zabawa/zabawa_tile.png",
       "subcategories": [
         {
-          "id": "zabawacienie",
+          "id": "Cienie",
           "title": "Cienie",
           "items": [
             {
-              "id": "categorieszabawacieniecienie_1",
+              "id": "cienie_1",
               "title": "Cienie 1",
               "pdf": "categories/zabawa/Cienie/cienie_1.pdf",
               "thumb": "categories/zabawa/Cienie/cienie_1.png"
             },
             {
-              "id": "categorieszabawacieniecienie_2",
+              "id": "cienie_2",
               "title": "Cienie 2",
               "pdf": "categories/zabawa/Cienie/cienie_2.pdf",
               "thumb": "categories/zabawa/Cienie/cienie_2.png"
             },
             {
-              "id": "categorieszabawacieniecienie_3",
+              "id": "cienie_3",
               "title": "Cienie 3",
               "pdf": "categories/zabawa/Cienie/cienie_3.pdf",
               "thumb": "categories/zabawa/Cienie/cienie_3.png"
             },
             {
-              "id": "categorieszabawacieniecienie_4",
+              "id": "cienie_4",
               "title": "Cienie 4",
               "pdf": "categories/zabawa/Cienie/cienie_4.pdf",
               "thumb": "categories/zabawa/Cienie/cienie_4.png"
             },
             {
-              "id": "categorieszabawacieniecienie_5",
+              "id": "cienie_5",
               "title": "Cienie 5",
               "pdf": "categories/zabawa/Cienie/cienie_5.pdf",
               "thumb": "categories/zabawa/Cienie/cienie_5.png"
             },
             {
-              "id": "categorieszabawacieniecienie_6",
+              "id": "cienie_6",
               "title": "Cienie 6",
               "pdf": "categories/zabawa/Cienie/cienie_6.pdf",
               "thumb": "categories/zabawa/Cienie/cienie_6.png"
             },
             {
-              "id": "categorieszabawacieniecienie_7",
+              "id": "cienie_7",
               "title": "Cienie 7",
               "pdf": "categories/zabawa/Cienie/cienie_7.pdf",
               "thumb": "categories/zabawa/Cienie/cienie_7.png"
             },
             {
-              "id": "categorieszabawacieniecienie_8",
+              "id": "cienie_8",
               "title": "Cienie 8",
               "pdf": "categories/zabawa/Cienie/cienie_8.pdf",
               "thumb": "categories/zabawa/Cienie/cienie_8.png"
@@ -1034,101 +1034,101 @@
           "subcategories": []
         },
         {
-          "id": "zabawalabirynty",
+          "id": "Labirynty",
           "title": "Labirynty",
           "items": [
             {
-              "id": "categorieszabawalabiryntylabirynt_1",
+              "id": "labirynt_1",
               "title": "Labirynt 1",
               "pdf": "categories/zabawa/Labirynty/labirynt_1.pdf",
               "thumb": "categories/zabawa/Labirynty/labirynt_1.png"
             },
             {
-              "id": "categorieszabawalabiryntylabirynt_10",
+              "id": "labirynt_10",
               "title": "Labirynt 10",
               "pdf": "categories/zabawa/Labirynty/labirynt_10.pdf",
               "thumb": "categories/zabawa/Labirynty/labirynt_10.png"
             },
             {
-              "id": "categorieszabawalabiryntylabirynt_11",
+              "id": "labirynt_11",
               "title": "Labirynt 11",
               "pdf": "categories/zabawa/Labirynty/labirynt_11.pdf",
               "thumb": "categories/zabawa/Labirynty/labirynt_11.png"
             },
             {
-              "id": "categorieszabawalabiryntylabirynt_12",
+              "id": "labirynt_12",
               "title": "Labirynt 12",
               "pdf": "categories/zabawa/Labirynty/labirynt_12.pdf",
               "thumb": "categories/zabawa/Labirynty/labirynt_12.png"
             },
             {
-              "id": "categorieszabawalabiryntylabirynt_13",
+              "id": "labirynt_13",
               "title": "Labirynt 13",
               "pdf": "categories/zabawa/Labirynty/labirynt_13.pdf",
               "thumb": "categories/zabawa/Labirynty/labirynt_13.png"
             },
             {
-              "id": "categorieszabawalabiryntylabirynt_14",
+              "id": "labirynt_14",
               "title": "Labirynt 14",
               "pdf": "categories/zabawa/Labirynty/labirynt_14.pdf",
               "thumb": "categories/zabawa/Labirynty/labirynt_14.png"
             },
             {
-              "id": "categorieszabawalabiryntylabirynt_15",
+              "id": "labirynt_15",
               "title": "Labirynt 15",
               "pdf": "categories/zabawa/Labirynty/labirynt_15.pdf",
               "thumb": "categories/zabawa/Labirynty/labirynt_15.png"
             },
             {
-              "id": "categorieszabawalabiryntylabirynt_16",
+              "id": "labirynt_16",
               "title": "Labirynt 16",
               "pdf": "categories/zabawa/Labirynty/labirynt_16.pdf",
               "thumb": "categories/zabawa/Labirynty/labirynt_16.png"
             },
             {
-              "id": "categorieszabawalabiryntylabirynt_2",
+              "id": "labirynt_2",
               "title": "Labirynt 2",
               "pdf": "categories/zabawa/Labirynty/labirynt_2.pdf",
               "thumb": "categories/zabawa/Labirynty/labirynt_2.png"
             },
             {
-              "id": "categorieszabawalabiryntylabirynt_3",
+              "id": "labirynt_3",
               "title": "Labirynt 3",
               "pdf": "categories/zabawa/Labirynty/labirynt_3.pdf",
               "thumb": "categories/zabawa/Labirynty/labirynt_3.png"
             },
             {
-              "id": "categorieszabawalabiryntylabirynt_4",
+              "id": "labirynt_4",
               "title": "Labirynt 4",
               "pdf": "categories/zabawa/Labirynty/labirynt_4.pdf",
               "thumb": "categories/zabawa/Labirynty/labirynt_4.png"
             },
             {
-              "id": "categorieszabawalabiryntylabirynt_5",
+              "id": "labirynt_5",
               "title": "Labirynt 5",
               "pdf": "categories/zabawa/Labirynty/labirynt_5.pdf",
               "thumb": "categories/zabawa/Labirynty/labirynt_5.png"
             },
             {
-              "id": "categorieszabawalabiryntylabirynt_6",
+              "id": "labirynt_6",
               "title": "Labirynt 6",
               "pdf": "categories/zabawa/Labirynty/labirynt_6.pdf",
               "thumb": "categories/zabawa/Labirynty/labirynt_6.png"
             },
             {
-              "id": "categorieszabawalabiryntylabirynt_7",
+              "id": "labirynt_7",
               "title": "Labirynt 7",
               "pdf": "categories/zabawa/Labirynty/labirynt_7.pdf",
               "thumb": "categories/zabawa/Labirynty/labirynt_7.png"
             },
             {
-              "id": "categorieszabawalabiryntylabirynt_8",
+              "id": "labirynt_8",
               "title": "Labirynt 8",
               "pdf": "categories/zabawa/Labirynty/labirynt_8.pdf",
               "thumb": "categories/zabawa/Labirynty/labirynt_8.png"
             },
             {
-              "id": "categorieszabawalabiryntylabirynt_9",
+              "id": "labirynt_9",
               "title": "Labirynt 9",
               "pdf": "categories/zabawa/Labirynty/labirynt_9.pdf",
               "thumb": "categories/zabawa/Labirynty/labirynt_9.png"
@@ -1137,35 +1137,35 @@
           "subcategories": []
         },
         {
-          "id": "zabawapołącz_kropki",
+          "id": "Połącz_kropki",
           "title": "Połącz kropki",
           "items": [
             {
-              "id": "categorieszabawapołącz_kropkipołącz1",
+              "id": "połącz1",
               "title": "Połącz1",
               "pdf": "categories/zabawa/Połącz kropki/połącz1.pdf",
               "thumb": "categories/zabawa/Połącz kropki/połącz1.png"
             },
             {
-              "id": "categorieszabawapołącz_kropkipołącz2",
+              "id": "połącz2",
               "title": "Połącz2",
               "pdf": "categories/zabawa/Połącz kropki/połącz2.pdf",
               "thumb": "categories/zabawa/Połącz kropki/połącz2.png"
             },
             {
-              "id": "categorieszabawapołącz_kropkipołącz3",
+              "id": "połącz3",
               "title": "Połącz3",
               "pdf": "categories/zabawa/Połącz kropki/połącz3.pdf",
               "thumb": "categories/zabawa/Połącz kropki/połącz3.png"
             },
             {
-              "id": "categorieszabawapołącz_kropkipołącz4",
+              "id": "połącz4",
               "title": "Połącz4",
               "pdf": "categories/zabawa/Połącz kropki/połącz4.pdf",
               "thumb": "categories/zabawa/Połącz kropki/połącz4.png"
             },
             {
-              "id": "categorieszabawapołącz_kropkipołącz5",
+              "id": "połącz5",
               "title": "Połącz5",
               "pdf": "categories/zabawa/Połącz kropki/połącz5.pdf",
               "thumb": "categories/zabawa/Połącz kropki/połącz5.png"
@@ -1174,41 +1174,41 @@
           "subcategories": []
         },
         {
-          "id": "zabawawytnij_przyklej",
+          "id": "Wytnij_przyklej",
           "title": "Wytnij i przyklej",
           "items": [
             {
-              "id": "categorieszabawawytnij_przyklejwytnij_przyklej1",
+              "id": "wytnij_przyklej1",
               "title": "Wytnij przyklej1",
               "pdf": "categories/zabawa/Wytnij przyklej/wytnij_przyklej1.pdf",
               "thumb": "categories/zabawa/Wytnij przyklej/wytnij_przyklej1.png"
             },
             {
-              "id": "categorieszabawawytnij_przyklejwytnij_przyklej2",
+              "id": "wytnij_przyklej2",
               "title": "Wytnij przyklej2",
               "pdf": "categories/zabawa/Wytnij przyklej/wytnij_przyklej2.pdf",
               "thumb": "categories/zabawa/Wytnij przyklej/wytnij_przyklej2.png"
             },
             {
-              "id": "categorieszabawawytnij_przyklejwytnij_przyklej3",
+              "id": "wytnij_przyklej3",
               "title": "Wytnij przyklej3",
               "pdf": "categories/zabawa/Wytnij przyklej/wytnij_przyklej3.pdf",
               "thumb": "categories/zabawa/Wytnij przyklej/wytnij_przyklej3.png"
             },
             {
-              "id": "categorieszabawawytnij_przyklejwytnij_przyklej4",
+              "id": "wytnij_przyklej4",
               "title": "Wytnij przyklej4",
               "pdf": "categories/zabawa/Wytnij przyklej/wytnij_przyklej4.pdf",
               "thumb": "categories/zabawa/Wytnij przyklej/wytnij_przyklej4.png"
             },
             {
-              "id": "categorieszabawawytnij_przyklejwytnij_przyklej5",
+              "id": "wytnij_przyklej5",
               "title": "Wytnij przyklej5",
               "pdf": "categories/zabawa/Wytnij przyklej/wytnij_przyklej5.pdf",
               "thumb": "categories/zabawa/Wytnij przyklej/wytnij_przyklej5.png"
             },
             {
-              "id": "categorieszabawawytnij_przyklejwytnij_przyklej6",
+              "id": "wytnij_przyklej6",
               "title": "Wytnij przyklej6",
               "pdf": "categories/zabawa/Wytnij przyklej/wytnij_przyklej6.pdf",
               "thumb": "categories/zabawa/Wytnij przyklej/wytnij_przyklej6.png"
@@ -1217,35 +1217,35 @@
           "subcategories": []
         },
         {
-          "id": "zabawaznajdz_różnice",
-          "title": "Znajdź różnice",
+          "id": "Znajdz_różnice",
+          "title": "Znajdz różnice",
           "items": [
             {
-              "id": "categorieszabawaznajdz_różniceznajdz_roznice1",
+              "id": "znajdz_roznice1",
               "title": "Znajdz roznice1",
               "pdf": "categories/zabawa/Znajdz różnice/znajdz_roznice1.pdf",
               "thumb": "categories/zabawa/Znajdz różnice/znajdz_roznice1.png"
             },
             {
-              "id": "categorieszabawaznajdz_różniceznajdz_roznice2",
+              "id": "znajdz_roznice2",
               "title": "Znajdz roznice2",
               "pdf": "categories/zabawa/Znajdz różnice/znajdz_roznice2.pdf",
               "thumb": "categories/zabawa/Znajdz różnice/znajdz_roznice2.png"
             },
             {
-              "id": "categorieszabawaznajdz_różniceznajdz_roznice3",
+              "id": "znajdz_roznice3",
               "title": "Znajdz roznice3",
               "pdf": "categories/zabawa/Znajdz różnice/znajdz_roznice3.pdf",
               "thumb": "categories/zabawa/Znajdz różnice/znajdz_roznice3.png"
             },
             {
-              "id": "categorieszabawaznajdz_różniceznajdz_roznice4",
+              "id": "znajdz_roznice4",
               "title": "Znajdz roznice4",
               "pdf": "categories/zabawa/Znajdz różnice/znajdz_roznice4.pdf",
               "thumb": "categories/zabawa/Znajdz różnice/znajdz_roznice4.png"
             },
             {
-              "id": "categorieszabawaznajdz_różniceznajdz_roznice5",
+              "id": "znajdz_roznice5",
               "title": "Znajdz roznice5",
               "pdf": "categories/zabawa/Znajdz różnice/znajdz_roznice5.pdf",
               "thumb": "categories/zabawa/Znajdz różnice/znajdz_roznice5.png"
