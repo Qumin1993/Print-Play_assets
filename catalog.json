@@ -319,297 +319,6 @@
       "tile": "categories/nauka/nauka_tile.png",
       "subcategories": [
         {
-          "id": "Alfabet",
-          "title": "Alfabet",
-          "items": [],
-          "subcategories": [
-            {
-              "id": "Alfabet",
-              "title": "Alfabet",
-              "items": [
-                {
-                  "id": "literki_a",
-                  "title": "Litera A",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_a.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_a.png"
-                },
-                {
-                  "id": "literki_b",
-                  "title": "Litera B",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_b.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_b.png"
-                },
-                {
-                  "id": "literki_c",
-                  "title": "Litera C",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_c.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_c.png"
-                },
-                {
-                  "id": "literki_d",
-                  "title": "Litera D",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_d.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_d.png"
-                },
-                {
-                  "id": "literki_e",
-                  "title": "Litera E",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_e.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_e.png"
-                },
-                {
-                  "id": "literki_f",
-                  "title": "Litera F",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_f.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_f.png"
-                },
-                {
-                  "id": "literki_g",
-                  "title": "Litera G",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_g.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_g.png"
-                },
-                {
-                  "id": "literki_h",
-                  "title": "Litera H",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_h.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_h.png"
-                },
-                {
-                  "id": "literki_i",
-                  "title": "Litera I",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_i.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_i.png"
-                },
-                {
-                  "id": "literki_j",
-                  "title": "Litera J",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_j.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_j.png"
-                },
-                {
-                  "id": "literki_k",
-                  "title": "Litera K",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_k.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_k.png"
-                },
-                {
-                  "id": "literki_l",
-                  "title": "Litera L",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_l.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_l.png"
-                },
-                {
-                  "id": "literki_m",
-                  "title": "Litera M",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_m.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_m.png"
-                },
-                {
-                  "id": "literki_n",
-                  "title": "Litera N",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_n.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_n.png"
-                },
-                {
-                  "id": "literki_o",
-                  "title": "Litera O",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_o.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_o.png"
-                },
-                {
-                  "id": "literki_p",
-                  "title": "Litera P",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_p.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_p.png"
-                },
-                {
-                  "id": "literki_q",
-                  "title": "Litera Q",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_q.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_q.png"
-                },
-                {
-                  "id": "literki_r",
-                  "title": "Litera R",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_r.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_r.png"
-                },
-                {
-                  "id": "literki_s",
-                  "title": "Litera S",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_s.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_s.png"
-                },
-                {
-                  "id": "literki_t",
-                  "title": "Litera T",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_t.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_t.png"
-                },
-                {
-                  "id": "literki_u",
-                  "title": "Litera U",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_u.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_u.png"
-                },
-                {
-                  "id": "literki_v",
-                  "title": "Litera V",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_v.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_v.png"
-                },
-                {
-                  "id": "literki_w",
-                  "title": "Litera W",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_w.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_w.png"
-                },
-                {
-                  "id": "literki_x",
-                  "title": "Litera X",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_x.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_x.png"
-                },
-                {
-                  "id": "literki_y",
-                  "title": "Litera Y",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_y.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_y.png"
-                },
-                {
-                  "id": "literki_z",
-                  "title": "Litera Z",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_z.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_z.png"
-                },
-                {
-                  "id": "literki_ó",
-                  "title": "Litera Ó",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_ó.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_ó.png"
-                },
-                {
-                  "id": "literki_ą",
-                  "title": "Litera Ą",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_ą.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_ą.png"
-                },
-                {
-                  "id": "literki_ć",
-                  "title": "Litera Ć",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_ć.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_ć.png"
-                },
-                {
-                  "id": "literki_ę",
-                  "title": "Litera Ę",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_ę.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_ę.png"
-                },
-                {
-                  "id": "literki_ł",
-                  "title": "Litera Ł",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_ł.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_ł.png"
-                },
-                {
-                  "id": "literki_ń",
-                  "title": "Litera Ń",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_ń.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_ń.png"
-                },
-                {
-                  "id": "literki_ś",
-                  "title": "Litera Ś",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/literki_ś.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/literki_ś.png"
-                },
-                {
-                  "id": "pisanie10",
-                  "title": "Pisanie10",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/pisanie10.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/pisanie10.png"
-                },
-                {
-                  "id": "pisanie11",
-                  "title": "Pisanie11",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/pisanie11.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/pisanie11.png"
-                },
-                {
-                  "id": "pisanie12",
-                  "title": "Pisanie12",
-                  "pdf": "categories/nauka/Alfabet/Alfabet/pisanie12.pdf",
-                  "thumb": "categories/nauka/Alfabet/Alfabet/pisanie12.png"
-                }
-              ],
-              "subcategories": []
-            },
-            {
-              "id": "Pisanie",
-              "title": "Pisanie",
-              "items": [
-                {
-                  "id": "pisanie1",
-                  "title": "Pisanie1",
-                  "pdf": "categories/nauka/Alfabet/Pisanie/pisanie1.pdf",
-                  "thumb": "categories/nauka/Alfabet/Pisanie/pisanie1.png"
-                },
-                {
-                  "id": "pisanie2",
-                  "title": "Pisanie2",
-                  "pdf": "categories/nauka/Alfabet/Pisanie/pisanie2.pdf",
-                  "thumb": "categories/nauka/Alfabet/Pisanie/pisanie2.png"
-                },
-                {
-                  "id": "pisanie3",
-                  "title": "Pisanie3",
-                  "pdf": "categories/nauka/Alfabet/Pisanie/pisanie3.pdf",
-                  "thumb": "categories/nauka/Alfabet/Pisanie/pisanie3.png"
-                },
-                {
-                  "id": "pisanie4",
-                  "title": "Pisanie4",
-                  "pdf": "categories/nauka/Alfabet/Pisanie/pisanie4.pdf",
-                  "thumb": "categories/nauka/Alfabet/Pisanie/pisanie4.png"
-                },
-                {
-                  "id": "pisanie5",
-                  "title": "Pisanie5",
-                  "pdf": "categories/nauka/Alfabet/Pisanie/pisanie5.pdf",
-                  "thumb": "categories/nauka/Alfabet/Pisanie/pisanie5.png"
-                },
-                {
-                  "id": "pisanie6",
-                  "title": "Pisanie6",
-                  "pdf": "categories/nauka/Alfabet/Pisanie/pisanie6.pdf",
-                  "thumb": "categories/nauka/Alfabet/Pisanie/pisanie6.png"
-                },
-                {
-                  "id": "pisanie7",
-                  "title": "Pisanie7",
-                  "pdf": "categories/nauka/Alfabet/Pisanie/pisanie7.pdf",
-                  "thumb": "categories/nauka/Alfabet/Pisanie/pisanie7.png"
-                },
-                {
-                  "id": "pisanie8",
-                  "title": "Pisanie8",
-                  "pdf": "categories/nauka/Alfabet/Pisanie/pisanie8.pdf",
-                  "thumb": "categories/nauka/Alfabet/Pisanie/pisanie8.png"
-                },
-                {
-                  "id": "pisanie9",
-                  "title": "Pisanie9",
-                  "pdf": "categories/nauka/Alfabet/Pisanie/pisanie9.pdf",
-                  "thumb": "categories/nauka/Alfabet/Pisanie/pisanie9.png"
-                }
-              ],
-              "subcategories": []
-            }
-          ]
-        },
-        {
           "id": "Cyferki",
           "title": "Cyferki",
           "items": [],
@@ -929,6 +638,297 @@
             }
           ],
           "subcategories": []
+        },
+        {
+          "id": "literki",
+          "title": "Literki",
+          "items": [],
+          "subcategories": [
+            {
+              "id": "Alfabet",
+              "title": "Alfabet",
+              "items": [
+                {
+                  "id": "literki1",
+                  "title": "Literki1",
+                  "pdf": "categories/nauka/literki/Alfabet/literki1.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki1.png"
+                },
+                {
+                  "id": "literki2",
+                  "title": "Literki2",
+                  "pdf": "categories/nauka/literki/Alfabet/literki2.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki2.png"
+                },
+                {
+                  "id": "literki3",
+                  "title": "Literki3",
+                  "pdf": "categories/nauka/literki/Alfabet/literki3.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki3.png"
+                },
+                {
+                  "id": "literki_a",
+                  "title": "Litera A",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_a.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_a.png"
+                },
+                {
+                  "id": "literki_b",
+                  "title": "Litera B",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_b.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_b.png"
+                },
+                {
+                  "id": "literki_c",
+                  "title": "Litera C",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_c.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_c.png"
+                },
+                {
+                  "id": "literki_d",
+                  "title": "Litera D",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_d.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_d.png"
+                },
+                {
+                  "id": "literki_e",
+                  "title": "Litera E",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_e.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_e.png"
+                },
+                {
+                  "id": "literki_f",
+                  "title": "Litera F",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_f.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_f.png"
+                },
+                {
+                  "id": "literki_g",
+                  "title": "Litera G",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_g.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_g.png"
+                },
+                {
+                  "id": "literki_h",
+                  "title": "Litera H",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_h.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_h.png"
+                },
+                {
+                  "id": "literki_i",
+                  "title": "Litera I",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_i.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_i.png"
+                },
+                {
+                  "id": "literki_j",
+                  "title": "Litera J",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_j.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_j.png"
+                },
+                {
+                  "id": "literki_k",
+                  "title": "Litera K",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_k.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_k.png"
+                },
+                {
+                  "id": "literki_l",
+                  "title": "Litera L",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_l.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_l.png"
+                },
+                {
+                  "id": "literki_m",
+                  "title": "Litera M",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_m.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_m.png"
+                },
+                {
+                  "id": "literki_n",
+                  "title": "Litera N",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_n.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_n.png"
+                },
+                {
+                  "id": "literki_o",
+                  "title": "Litera O",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_o.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_o.png"
+                },
+                {
+                  "id": "literki_p",
+                  "title": "Litera P",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_p.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_p.png"
+                },
+                {
+                  "id": "literki_q",
+                  "title": "Litera Q",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_q.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_q.png"
+                },
+                {
+                  "id": "literki_r",
+                  "title": "Litera R",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_r.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_r.png"
+                },
+                {
+                  "id": "literki_s",
+                  "title": "Litera S",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_s.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_s.png"
+                },
+                {
+                  "id": "literki_t",
+                  "title": "Litera T",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_t.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_t.png"
+                },
+                {
+                  "id": "literki_u",
+                  "title": "Litera U",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_u.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_u.png"
+                },
+                {
+                  "id": "literki_v",
+                  "title": "Litera V",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_v.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_v.png"
+                },
+                {
+                  "id": "literki_w",
+                  "title": "Litera W",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_w.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_w.png"
+                },
+                {
+                  "id": "literki_x",
+                  "title": "Litera X",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_x.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_x.png"
+                },
+                {
+                  "id": "literki_y",
+                  "title": "Litera Y",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_y.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_y.png"
+                },
+                {
+                  "id": "literki_z",
+                  "title": "Litera Z",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_z.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_z.png"
+                },
+                {
+                  "id": "literki_ó",
+                  "title": "Litera Ó",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_ó.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_ó.png"
+                },
+                {
+                  "id": "literki_ą",
+                  "title": "Litera Ą",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_ą.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_ą.png"
+                },
+                {
+                  "id": "literki_ć",
+                  "title": "Litera Ć",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_ć.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_ć.png"
+                },
+                {
+                  "id": "literki_ę",
+                  "title": "Litera Ę",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_ę.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_ę.png"
+                },
+                {
+                  "id": "literki_ł",
+                  "title": "Litera Ł",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_ł.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_ł.png"
+                },
+                {
+                  "id": "literki_ń",
+                  "title": "Litera Ń",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_ń.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_ń.png"
+                },
+                {
+                  "id": "literki_ś",
+                  "title": "Litera Ś",
+                  "pdf": "categories/nauka/literki/Alfabet/literki_ś.pdf",
+                  "thumb": "categories/nauka/literki/Alfabet/literki_ś.png"
+                }
+              ],
+              "subcategories": []
+            },
+            {
+              "id": "Pisanie",
+              "title": "Pisanie",
+              "items": [
+                {
+                  "id": "pisanie1",
+                  "title": "Pisanie1",
+                  "pdf": "categories/nauka/literki/Pisanie/pisanie1.pdf",
+                  "thumb": "categories/nauka/literki/Pisanie/pisanie1.png"
+                },
+                {
+                  "id": "pisanie2",
+                  "title": "Pisanie2",
+                  "pdf": "categories/nauka/literki/Pisanie/pisanie2.pdf",
+                  "thumb": "categories/nauka/literki/Pisanie/pisanie2.png"
+                },
+                {
+                  "id": "pisanie3",
+                  "title": "Pisanie3",
+                  "pdf": "categories/nauka/literki/Pisanie/pisanie3.pdf",
+                  "thumb": "categories/nauka/literki/Pisanie/pisanie3.png"
+                },
+                {
+                  "id": "pisanie4",
+                  "title": "Pisanie4",
+                  "pdf": "categories/nauka/literki/Pisanie/pisanie4.pdf",
+                  "thumb": "categories/nauka/literki/Pisanie/pisanie4.png"
+                },
+                {
+                  "id": "pisanie5",
+                  "title": "Pisanie5",
+                  "pdf": "categories/nauka/literki/Pisanie/pisanie5.pdf",
+                  "thumb": "categories/nauka/literki/Pisanie/pisanie5.png"
+                },
+                {
+                  "id": "pisanie6",
+                  "title": "Pisanie6",
+                  "pdf": "categories/nauka/literki/Pisanie/pisanie6.pdf",
+                  "thumb": "categories/nauka/literki/Pisanie/pisanie6.png"
+                },
+                {
+                  "id": "pisanie7",
+                  "title": "Pisanie7",
+                  "pdf": "categories/nauka/literki/Pisanie/pisanie7.pdf",
+                  "thumb": "categories/nauka/literki/Pisanie/pisanie7.png"
+                },
+                {
+                  "id": "pisanie8",
+                  "title": "Pisanie8",
+                  "pdf": "categories/nauka/literki/Pisanie/pisanie8.pdf",
+                  "thumb": "categories/nauka/literki/Pisanie/pisanie8.png"
+                },
+                {
+                  "id": "pisanie9",
+                  "title": "Pisanie9",
+                  "pdf": "categories/nauka/literki/Pisanie/pisanie9.pdf",
+                  "thumb": "categories/nauka/literki/Pisanie/pisanie9.png"
+                }
+              ],
+              "subcategories": []
+            }
+          ]
         },
         {
           "id": "szlaczki",
