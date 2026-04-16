@@ -1457,6 +1457,13 @@
               "pdf": "categories/zabawa/Cienie/cienie_8.pdf",
               "thumb": "categories/zabawa/Cienie/cienie_8.png",
               "type": "task"
+            },
+            {
+              "id": "cienie_9",
+              "title": "Cienie 9",
+              "pdf": "categories/zabawa/Cienie/cienie_9.pdf",
+              "thumb": "categories/zabawa/Cienie/cienie_9.png",
+              "type": "task"
             }
           ],
           "subcategories": []
