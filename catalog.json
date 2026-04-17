@@ -1464,6 +1464,30 @@
               "pdf": "categories/zabawa/Cienie/cienie_9.pdf",
               "thumb": "categories/zabawa/Cienie/cienie_9.png",
               "type": "task"
+            },
+            {
+              "id": "cienie_10",
+              "title": "Cienie 10",
+              "pdf": "categories/zabawa/Cienie/cienie_10.pdf",
+              "thumb": "categories/zabawa/Cienie/cienie_10.png",
+              "solution": "categories/zabawa/Cienie/cienie_10solution.png",
+              "type": "match_lines"
+            },
+            {
+              "id": "cienie_11",
+              "title": "Cienie 11",
+              "pdf": "categories/zabawa/Cienie/cienie_11.pdf",
+              "thumb": "categories/zabawa/Cienie/cienie_11.png",
+              "solution": "categories/zabawa/Cienie/cienie_11solution.png",
+              "type": "match_lines"
+            },
+            {
+              "id": "cienie_12",
+              "title": "Cienie 12",
+              "pdf": "categories/zabawa/Cienie/cienie_12.pdf",
+              "thumb": "categories/zabawa/Cienie/cienie_12.png",
+              "solution": "categories/zabawa/Cienie/cienie_12solution.png",
+              "type": "match_lines"
             }
           ],
           "subcategories": []
