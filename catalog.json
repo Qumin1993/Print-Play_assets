@@ -1607,6 +1607,14 @@
               "pdf": "categories/zabawa/Labirynty/labirynt_9.pdf",
               "thumb": "categories/zabawa/Labirynty/labirynt_9.png",
               "type": "task"
+            },
+            {
+              "id": "labirynt_17",
+              "title": "labirynt_17",
+              "pdf": "categories/zabawa/Labirynty/labirynt_17.pdf",
+              "thumb": "categories/zabawa/Labirynty/labirynt_17.png",
+              "solution": "categories/zabawa/Labirynty/labirynt_17solution.png",
+              "type": "track"
             }
           ],
           "subcategories": []
