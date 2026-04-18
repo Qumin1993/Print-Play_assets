@@ -1756,6 +1756,14 @@
               "pdf": "categories/zabawa/Znajdz różnice/znajdz_roznice5.pdf",
               "thumb": "categories/zabawa/Znajdz różnice/znajdz_roznice5.png",
               "type": "task"
+            },
+            {
+              "id": "znajdz_roznice6",
+              "title": "Znajdz roznice6",
+              "pdf": "categories/zabawa/Znajdz różnice/znajdz_roznice6.pdf",
+              "thumb": "categories/zabawa/Znajdz różnice/znajdz_roznice6.png",
+              "solution": "categories/zabawa/Znajdz różnice/znajdz_roznice6solution.png",
+              "type": "different"
             }
           ],
           "subcategories": []
