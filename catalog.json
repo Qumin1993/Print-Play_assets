@@ -1657,6 +1657,14 @@
               "pdf": "categories/zabawa/Połącz kropki/połącz5.pdf",
               "thumb": "categories/zabawa/Połącz kropki/połącz5.png",
               "type": "task"
+            },
+            {
+              "id": "połącz6",
+              "title": "Połącz6",
+              "pdf": "categories/zabawa/Połącz kropki/połącz6.pdf",
+              "thumb": "categories/zabawa/Połącz kropki/połącz6.png",
+              "solution": "categories/zabawa/Połącz kropki/połącz6solution.png",
+              "type": "task"
             }
           ],
           "subcategories": []
