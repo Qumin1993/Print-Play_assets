@@ -1714,6 +1714,14 @@
               "pdf": "categories/zabawa/Wytnij przyklej/wytnij_przyklej6.pdf",
               "thumb": "categories/zabawa/Wytnij przyklej/wytnij_przyklej6.png",
               "type": "task"
+            },
+            {
+              "id": "wytnij_przyklej7",
+              "title": "Wytnij przyklej7",
+              "pdf": "categories/zabawa/Wytnij przyklej/wytnij_przyklej7.pdf",
+              "thumb": "categories/zabawa/Wytnij przyklej/wytnij_przyklej7.png",
+              "solution": "categories/zabawa/Wytnij przyklej/wytnij_przyklej7solution.png",
+              "type": "cut_paste"
             }
           ],
           "subcategories": []
