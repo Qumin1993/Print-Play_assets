@@ -1512,10 +1512,11 @@
           "items": [
             {
               "id": "labirynt_1",
-              "title": "Labirynt 1",
+              "title": "labirynt_1",
               "pdf": "categories/zabawa/Labirynty/labirynt_1.pdf",
               "thumb": "categories/zabawa/Labirynty/labirynt_1.png",
-              "type": "task"
+              "solution": "categories/zabawa/Labirynty/labirynt_1solution.png",
+              "type": "track"
             },
             {
               "id": "labirynt_10",
