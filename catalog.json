@@ -1407,42 +1407,48 @@
               "title": "Cienie 1",
               "pdf": "categories/zabawa/Cienie/cienie_1.pdf",
               "thumb": "categories/zabawa/Cienie/cienie_1.png",
-              "type": "task"
+              "solution": "categories/zabawa/Cienie/cienie_1solution.png",
+              "type": "match_lines"
             },
             {
               "id": "cienie_2",
               "title": "Cienie 2",
               "pdf": "categories/zabawa/Cienie/cienie_2.pdf",
               "thumb": "categories/zabawa/Cienie/cienie_2.png",
-              "type": "task"
+              "solution": "categories/zabawa/Cienie/cienie_2solution.png",
+              "type": "match_lines"
             },
             {
               "id": "cienie_3",
               "title": "Cienie 3",
               "pdf": "categories/zabawa/Cienie/cienie_3.pdf",
               "thumb": "categories/zabawa/Cienie/cienie_3.png",
-              "type": "task"
+              "solution": "categories/zabawa/Cienie/cienie_3solution.png",
+              "type": "match_lines"
             },
             {
-              "id": "cienie_4",
+             "id": "cienie_4",
               "title": "Cienie 4",
               "pdf": "categories/zabawa/Cienie/cienie_4.pdf",
               "thumb": "categories/zabawa/Cienie/cienie_4.png",
-              "type": "task"
+              "solution": "categories/zabawa/Cienie/cienie_4solution.png",
+              "type": "match_lines"
             },
             {
               "id": "cienie_5",
               "title": "Cienie 5",
               "pdf": "categories/zabawa/Cienie/cienie_5.pdf",
               "thumb": "categories/zabawa/Cienie/cienie_5.png",
-              "type": "task"
+              "solution": "categories/zabawa/Cienie/cienie_5solution.png",
+              "type": "match_lines"
             },
             {
               "id": "cienie_6",
               "title": "Cienie 6",
               "pdf": "categories/zabawa/Cienie/cienie_6.pdf",
               "thumb": "categories/zabawa/Cienie/cienie_6.png",
-              "type": "task"
+              "solution": "categories/zabawa/Cienie/cienie_6solution.png",
+              "type": "match_lines"
             },
             {
               "id": "cienie_7",
