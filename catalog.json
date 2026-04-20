@@ -1488,6 +1488,14 @@
               "thumb": "categories/zabawa/Cienie/cienie_12.png",
               "solution": "categories/zabawa/Cienie/cienie_12solution.png",
               "type": "match_lines"
+            },
+            {
+              "id": "cienie_13",
+              "title": "Cienie 13",
+              "pdf": "categories/zabawa/Cienie/cienie_13.pdf",
+              "thumb": "categories/zabawa/Cienie/cienie_13.png",
+              "solution": "categories/zabawa/Cienie/cienie_13solution.png",
+              "type": "match_lines"
             }
           ],
           "subcategories": []
