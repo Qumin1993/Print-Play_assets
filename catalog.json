@@ -1660,44 +1660,81 @@
             {
               "id": "znajdz_roznice1",
               "title": "Znajdz roznice1",
-              "pdf": "categories/zabawa/Znajdz różnice/znajdz_roznice1.pdf",
-              "thumb": "categories/zabawa/Znajdz różnice/znajdz_roznice1.png",
-              "type": "task"
+              "pdf": "categories/zabawa/Znajdz różnice/znajdz_roznice_1_different.pdf",
+              "thumb": "categories/zabawa/Znajdz różnice/znajdz_roznice_1_different.png",
+              "solution": "categories/zabawa/Znajdz różnice/znajdz_roznice_1_different_solution.png",
+              "type": "different"
             },
             {
               "id": "znajdz_roznice2",
               "title": "Znajdz roznice2",
-              "pdf": "categories/zabawa/Znajdz różnice/znajdz_roznice2.pdf",
-              "thumb": "categories/zabawa/Znajdz różnice/znajdz_roznice2.png",
-              "type": "task"
+              "pdf": "categories/zabawa/Znajdz różnice/znajdz_roznice_2_different.pdf",
+              "thumb": "categories/zabawa/Znajdz różnice/znajdz_roznice_2_different.png",
+              "solution": "categories/zabawa/Znajdz różnice/znajdz_roznice_2_different_solution.png",
+              "type": "different"
             },
             {
               "id": "znajdz_roznice3",
               "title": "Znajdz roznice3",
-              "pdf": "categories/zabawa/Znajdz różnice/znajdz_roznice3.pdf",
-              "thumb": "categories/zabawa/Znajdz różnice/znajdz_roznice3.png",
-              "type": "task"
+              "pdf": "categories/zabawa/Znajdz różnice/znajdz_roznice_3_different.pdf",
+              "thumb": "categories/zabawa/Znajdz różnice/znajdz_roznice_3_different.png",
+              "solution": "categories/zabawa/Znajdz różnice/znajdz_roznice_3_different_solution.png",
+              "type": "different"
             },
             {
               "id": "znajdz_roznice4",
               "title": "Znajdz roznice4",
-              "pdf": "categories/zabawa/Znajdz różnice/znajdz_roznice4.pdf",
-              "thumb": "categories/zabawa/Znajdz różnice/znajdz_roznice4.png",
-              "type": "task"
+              "pdf": "categories/zabawa/Znajdz różnice/znajdz_roznice_4_different.pdf",
+              "thumb": "categories/zabawa/Znajdz różnice/znajdz_roznice_4_different.png",
+              "solution": "categories/zabawa/Znajdz różnice/znajdz_roznice_4_different_solution.png",
+              "type": "different"
             },
             {
               "id": "znajdz_roznice5",
               "title": "Znajdz roznice5",
-              "pdf": "categories/zabawa/Znajdz różnice/znajdz_roznice5.pdf",
-              "thumb": "categories/zabawa/Znajdz różnice/znajdz_roznice5.png",
-              "type": "task"
+              "pdf": "categories/zabawa/Znajdz różnice/znajdz_roznice_5_different.pdf",
+              "thumb": "categories/zabawa/Znajdz różnice/znajdz_roznice_5_different.png",
+              "solution": "categories/zabawa/Znajdz różnice/znajdz_roznice_5_different_solution.png",
+              "type": "different"
             },
             {
               "id": "znajdz_roznice6",
               "title": "Znajdz roznice6",
-              "pdf": "categories/zabawa/Znajdz różnice/znajdz_roznice6.pdf",
-              "thumb": "categories/zabawa/Znajdz różnice/znajdz_roznice6.png",
-              "solution": "categories/zabawa/Znajdz różnice/znajdz_roznice6solution.png",
+              "pdf": "categories/zabawa/Znajdz różnice/znajdz_roznice_6_different.pdf",
+              "thumb": "categories/zabawa/Znajdz różnice/znajdz_roznice_6_different.png",
+              "solution": "categories/zabawa/Znajdz różnice/znajdz_roznice_6_different_solution.png",
+              "type": "different"
+            },
+            {
+              "id": "znajdz_roznice7",
+              "title": "Znajdz roznice7",
+              "pdf": "categories/zabawa/Znajdz różnice/znajdz_roznice_7_different.pdf",
+              "thumb": "categories/zabawa/Znajdz różnice/znajdz_roznice_7_different.png",
+              "solution": "categories/zabawa/Znajdz różnice/znajdz_roznice_7_different_solution.png",
+              "type": "different"
+            },
+            {
+              "id": "znajdz_roznice8",
+              "title": "Znajdz roznice8",
+              "pdf": "categories/zabawa/Znajdz różnice/znajdz_roznice_8_different.pdf",
+              "thumb": "categories/zabawa/Znajdz różnice/znajdz_roznice_8_different.png",
+              "solution": "categories/zabawa/Znajdz różnice/znajdz_roznice_8_different_solution.png",
+              "type": "different"
+            },
+            {
+              "id": "znajdz_roznice9",
+              "title": "Znajdz roznice9",
+              "pdf": "categories/zabawa/Znajdz różnice/znajdz_roznice_9_different.pdf",
+              "thumb": "categories/zabawa/Znajdz różnice/znajdz_roznice_9_different.png",
+              "solution": "categories/zabawa/Znajdz różnice/znajdz_roznice_9_different_solution.png",
+              "type": "different"
+            },
+            {
+              "id": "znajdz_roznice10",
+              "title": "Znajdz roznice10",
+              "pdf": "categories/zabawa/Znajdz różnice/znajdz_roznice_10_different.pdf",
+              "thumb": "categories/zabawa/Znajdz różnice/znajdz_roznice_10_different.png",
+              "solution": "categories/zabawa/Znajdz różnice/znajdz_roznice_10_different_solution.png",
               "type": "different"
             }
           ],
