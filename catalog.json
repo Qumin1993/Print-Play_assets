@@ -1405,102 +1405,81 @@
             {
               "id": "cienie_1",
               "title": "Cienie 1",
-              "pdf": "categories/zabawa/Cienie/cienie_1.pdf",
-              "thumb": "categories/zabawa/Cienie/cienie_1.png",
-              "solution": "categories/zabawa/Cienie/cienie_1solution.png",
+              "pdf": "categories/zabawa/Cienie/cienie_1_match_lines.pdf",
+              "thumb": "categories/zabawa/Cienie/cienie_1_match_lines.png",
+              "solution": "categories/zabawa/Cienie/cienie_1_match_lines_solution.png",
               "type": "match_lines"
             },
             {
               "id": "cienie_2",
-              "title": "Cienie 2",
-              "pdf": "categories/zabawa/Cienie/cienie_2.pdf",
-              "thumb": "categories/zabawa/Cienie/cienie_2.png",
-              "solution": "categories/zabawa/Cienie/cienie_2solution.png",
+              "title": "Cienie2 ",
+              "pdf": "categories/zabawa/Cienie/cienie_2_match_lines.pdf",
+              "thumb": "categories/zabawa/Cienie/cienie_2_match_lines.png",
+              "solution": "categories/zabawa/Cienie/cienie_2_match_lines_solution.png",
               "type": "match_lines"
             },
             {
               "id": "cienie_3",
-              "title": "Cienie 3",
-              "pdf": "categories/zabawa/Cienie/cienie_3.pdf",
-              "thumb": "categories/zabawa/Cienie/cienie_3.png",
-              "solution": "categories/zabawa/Cienie/cienie_3solution.png",
+              "title": "Cienie3 ",
+              "pdf": "categories/zabawa/Cienie/cienie_3_match_lines.pdf",
+              "thumb": "categories/zabawa/Cienie/cienie_3_match_lines.png",
+              "solution": "categories/zabawa/Cienie/cienie_3_match_lines_solution.png",
               "type": "match_lines"
             },
             {
-             "id": "cienie_4",
-              "title": "Cienie 4",
-              "pdf": "categories/zabawa/Cienie/cienie_4.pdf",
-              "thumb": "categories/zabawa/Cienie/cienie_4.png",
-              "solution": "categories/zabawa/Cienie/cienie_4solution.png",
+              "id": "cienie_4",
+              "title": "Cienie4 ",
+              "pdf": "categories/zabawa/Cienie/cienie_4_match_lines.pdf",
+              "thumb": "categories/zabawa/Cienie/cienie_4_match_lines.png",
+              "solution": "categories/zabawa/Cienie/cienie_4_match_lines_solution.png",
               "type": "match_lines"
             },
             {
               "id": "cienie_5",
-              "title": "Cienie 5",
-              "pdf": "categories/zabawa/Cienie/cienie_5.pdf",
-              "thumb": "categories/zabawa/Cienie/cienie_5.png",
-              "solution": "categories/zabawa/Cienie/cienie_5solution.png",
+              "title": "Cienie5 ",
+              "pdf": "categories/zabawa/Cienie/cienie_5_match_lines.pdf",
+              "thumb": "categories/zabawa/Cienie/cienie_5_match_lines.png",
+              "solution": "categories/zabawa/Cienie/cienie_5_match_lines_solution.png",
               "type": "match_lines"
             },
             {
               "id": "cienie_6",
-              "title": "Cienie 6",
-              "pdf": "categories/zabawa/Cienie/cienie_6.pdf",
-              "thumb": "categories/zabawa/Cienie/cienie_6.png",
-              "solution": "categories/zabawa/Cienie/cienie_6solution.png",
+              "title": "Cienie6 ",
+              "pdf": "categories/zabawa/Cienie/cienie_6_match_lines.pdf",
+              "thumb": "categories/zabawa/Cienie/cienie_6_match_lines.png",
+              "solution": "categories/zabawa/Cienie/cienie_6_match_lines_solution.png",
               "type": "match_lines"
             },
             {
               "id": "cienie_7",
-              "title": "Cienie 7",
-              "pdf": "categories/zabawa/Cienie/cienie_7.pdf",
-              "thumb": "categories/zabawa/Cienie/cienie_7.png",
-              "type": "task"
+              "title": "Cienie7 ",
+              "pdf": "categories/zabawa/Cienie/cienie_7_match_lines.pdf",
+              "thumb": "categories/zabawa/Cienie/cienie_7_match_lines.png",
+              "solution": "categories/zabawa/Cienie/cienie_7_match_lines_solution.png",
+              "type": "match_lines"
             },
             {
               "id": "cienie_8",
-              "title": "Cienie 8",
-              "pdf": "categories/zabawa/Cienie/cienie_8.pdf",
-              "thumb": "categories/zabawa/Cienie/cienie_8.png",
-              "type": "task"
+              "title": "Cienie8 ",
+              "pdf": "categories/zabawa/Cienie/cienie_8_match_lines.pdf",
+              "thumb": "categories/zabawa/Cienie/cienie_8_match_lines.png",
+              "solution": "categories/zabawa/Cienie/cienie_8_match_lines_solution.png",
+              "type": "match_lines"
             },
             {
               "id": "cienie_9",
-              "title": "Cienie 9",
-              "pdf": "categories/zabawa/Cienie/cienie_9.pdf",
-              "thumb": "categories/zabawa/Cienie/cienie_9.png",
-              "type": "task"
+              "title": "Cienie9 ",
+              "pdf": "categories/zabawa/Cienie/cienie_9_match_lines.pdf",
+              "thumb": "categories/zabawa/Cienie/cienie_9_match_lines.png",
+              "solution": "categories/zabawa/Cienie/cienie_9_match_lines_solution.png",
+              "type": "match_lines"
             },
             {
               "id": "cienie_10",
-              "title": "Cienie 10",
-              "pdf": "categories/zabawa/Cienie/cienie_10.pdf",
-              "thumb": "categories/zabawa/Cienie/cienie_10.png",
-              "solution": "categories/zabawa/Cienie/cienie_10solution.png",
-              "type": "match_lines"
-            },
-            {
-              "id": "cienie_11",
-              "title": "Cienie 11",
-              "pdf": "categories/zabawa/Cienie/cienie_11.pdf",
-              "thumb": "categories/zabawa/Cienie/cienie_11.png",
-              "solution": "categories/zabawa/Cienie/cienie_11solution.png",
-              "type": "match_lines"
-            },
-            {
-              "id": "cienie_12",
-              "title": "Cienie 12",
-              "pdf": "categories/zabawa/Cienie/cienie_12.pdf",
-              "thumb": "categories/zabawa/Cienie/cienie_12.png",
-              "solution": "categories/zabawa/Cienie/cienie_12solution.png",
-              "type": "match_lines"
-            },
-            {
-              "id": "cienie_13",
-              "title": "Cienie 13",
-              "pdf": "categories/zabawa/Cienie/cienie_13.pdf",
-              "thumb": "categories/zabawa/Cienie/cienie_13.png",
-              "solution": "categories/zabawa/Cienie/cienie_13solution.png",
+              "title": "Cienie10 ",
+              "pdf": "categories/zabawa/Cienie/cienie_10_match_lines.pdf",
+              "thumb": "categories/zabawa/Cienie/cienie_10_match_lines.png",
+              "solution": "categories/zabawa/Cienie/cienie_10_match_lines_solution.png",
               "type": "match_lines"
             }
           ],
@@ -1513,122 +1492,81 @@
             {
               "id": "labirynt_1",
               "title": "labirynt_1",
-              "pdf": "categories/zabawa/Labirynty/labirynt_1.pdf",
-              "thumb": "categories/zabawa/Labirynty/labirynt_1.png",
-              "solution": "categories/zabawa/Labirynty/labirynt_1solution.png",
+              "pdf": "categories/zabawa/Labirynty/Labitynt_1_track.pdf",
+              "thumb": "categories/zabawa/Labirynty/Labitynt_1_track.png",
+              "solution": "categories/zabawa/Labirynty/Labitynt_1_track_solution.png",
+              "type": "track"
+            },
+            {
+              "id": "labirynt_2",
+              "title": "labirynt_2",
+              "pdf": "categories/zabawa/Labirynty/Labitynt_2_track.pdf",
+              "thumb": "categories/zabawa/Labirynty/Labitynt_2_track.png",
+              "solution": "categories/zabawa/Labirynty/Labitynt_2_track_solution.png",
+              "type": "track"
+            },
+            {
+              "id": "labirynt_3",
+              "title": "labirynt_3",
+              "pdf": "categories/zabawa/Labirynty/Labitynt_3_track.pdf",
+              "thumb": "categories/zabawa/Labirynty/Labitynt_3_track.png",
+              "solution": "categories/zabawa/Labirynty/Labitynt_3_track_solution.png",
+              "type": "track"
+            },
+            {
+              "id": "labirynt_4",
+              "title": "labirynt_4",
+              "pdf": "categories/zabawa/Labirynty/Labitynt_4_track.pdf",
+              "thumb": "categories/zabawa/Labirynty/Labitynt_4_track.png",
+              "solution": "categories/zabawa/Labirynty/Labitynt_4_track_solution.png",
+              "type": "track"
+            },
+            {
+              "id": "labirynt_5",
+              "title": "labirynt_5",
+              "pdf": "categories/zabawa/Labirynty/Labitynt_5_track.pdf",
+              "thumb": "categories/zabawa/Labirynty/Labitynt_5_track.png",
+              "solution": "categories/zabawa/Labirynty/Labitynt_5_track_solution.png",
+              "type": "track"
+            },
+            {
+              "id": "labirynt_6",
+              "title": "labirynt_6",
+              "pdf": "categories/zabawa/Labirynty/Labitynt_6_track.pdf",
+              "thumb": "categories/zabawa/Labirynty/Labitynt_6_track.png",
+              "solution": "categories/zabawa/Labirynty/Labitynt_6_track_solution.png",
+              "type": "track"
+            },
+            {
+              "id": "labirynt_7",
+              "title": "labirynt_7",
+              "pdf": "categories/zabawa/Labirynty/Labitynt_7_track.pdf",
+              "thumb": "categories/zabawa/Labirynty/Labitynt_7_track.png",
+              "solution": "categories/zabawa/Labirynty/Labitynt_7_track_solution.png",
+              "type": "track"
+            },
+            {
+              "id": "labirynt_8",
+              "title": "labirynt_8",
+              "pdf": "categories/zabawa/Labirynty/Labitynt_8_track.pdf",
+              "thumb": "categories/zabawa/Labirynty/Labitynt_8_track.png",
+              "solution": "categories/zabawa/Labirynty/Labitynt_8_track_solution.png",
+              "type": "track"
+            },
+            {
+              "id": "labirynt_9",
+              "title": "labirynt_9",
+              "pdf": "categories/zabawa/Labirynty/Labitynt_9_track.pdf",
+              "thumb": "categories/zabawa/Labirynty/Labitynt_9_track.png",
+              "solution": "categories/zabawa/Labirynty/Labitynt_9_track_solution.png",
               "type": "track"
             },
             {
               "id": "labirynt_10",
-              "title": "Labirynt 10",
-              "pdf": "categories/zabawa/Labirynty/labirynt_10.pdf",
-              "thumb": "categories/zabawa/Labirynty/labirynt_10.png",
-              "type": "task"
-            },
-            {
-              "id": "labirynt_11",
-              "title": "Labirynt 11",
-              "pdf": "categories/zabawa/Labirynty/labirynt_11.pdf",
-              "thumb": "categories/zabawa/Labirynty/labirynt_11.png",
-              "type": "task"
-            },
-            {
-              "id": "labirynt_12",
-              "title": "Labirynt 12",
-              "pdf": "categories/zabawa/Labirynty/labirynt_12.pdf",
-              "thumb": "categories/zabawa/Labirynty/labirynt_12.png",
-              "type": "task"
-            },
-            {
-              "id": "labirynt_13",
-              "title": "Labirynt 13",
-              "pdf": "categories/zabawa/Labirynty/labirynt_13.pdf",
-              "thumb": "categories/zabawa/Labirynty/labirynt_13.png",
-              "type": "task"
-            },
-            {
-              "id": "labirynt_14",
-              "title": "Labirynt 14",
-              "pdf": "categories/zabawa/Labirynty/labirynt_14.pdf",
-              "thumb": "categories/zabawa/Labirynty/labirynt_14.png",
-              "type": "task"
-            },
-            {
-              "id": "labirynt_15",
-              "title": "Labirynt 15",
-              "pdf": "categories/zabawa/Labirynty/labirynt_15.pdf",
-              "thumb": "categories/zabawa/Labirynty/labirynt_15.png",
-              "type": "task"
-            },
-            {
-              "id": "labirynt_16",
-              "title": "Labirynt 16",
-              "pdf": "categories/zabawa/Labirynty/labirynt_16.pdf",
-              "thumb": "categories/zabawa/Labirynty/labirynt_16.png",
-              "type": "task"
-            },
-            {
-              "id": "labirynt_2",
-              "title": "Labirynt 2",
-              "pdf": "categories/zabawa/Labirynty/labirynt_2.pdf",
-              "thumb": "categories/zabawa/Labirynty/labirynt_2.png",
-              "type": "task"
-            },
-            {
-              "id": "labirynt_3",
-              "title": "Labirynt 3",
-              "pdf": "categories/zabawa/Labirynty/labirynt_3.pdf",
-              "thumb": "categories/zabawa/Labirynty/labirynt_3.png",
-              "type": "task"
-            },
-            {
-              "id": "labirynt_4",
-              "title": "Labirynt 4",
-              "pdf": "categories/zabawa/Labirynty/labirynt_4.pdf",
-              "thumb": "categories/zabawa/Labirynty/labirynt_4.png",
-              "type": "task"
-            },
-            {
-              "id": "labirynt_5",
-              "title": "Labirynt 5",
-              "pdf": "categories/zabawa/Labirynty/labirynt_5.pdf",
-              "thumb": "categories/zabawa/Labirynty/labirynt_5.png",
-              "type": "task"
-            },
-            {
-              "id": "labirynt_6",
-              "title": "Labirynt 6",
-              "pdf": "categories/zabawa/Labirynty/labirynt_6.pdf",
-              "thumb": "categories/zabawa/Labirynty/labirynt_6.png",
-              "type": "task"
-            },
-            {
-              "id": "labirynt_7",
-              "title": "Labirynt 7",
-              "pdf": "categories/zabawa/Labirynty/labirynt_7.pdf",
-              "thumb": "categories/zabawa/Labirynty/labirynt_7.png",
-              "type": "task"
-            },
-            {
-              "id": "labirynt_8",
-              "title": "Labirynt 8",
-              "pdf": "categories/zabawa/Labirynty/labirynt_8.pdf",
-              "thumb": "categories/zabawa/Labirynty/labirynt_8.png",
-              "type": "task"
-            },
-            {
-              "id": "labirynt_9",
-              "title": "Labirynt 9",
-              "pdf": "categories/zabawa/Labirynty/labirynt_9.pdf",
-              "thumb": "categories/zabawa/Labirynty/labirynt_9.png",
-              "type": "task"
-            },
-            {
-              "id": "labirynt_17",
-              "title": "labirynt_17",
-              "pdf": "categories/zabawa/Labirynty/labirynt_17.pdf",
-              "thumb": "categories/zabawa/Labirynty/labirynt_17.png",
-              "solution": "categories/zabawa/Labirynty/labirynt_17solution.png",
+              "title": "labirynt_10",
+              "pdf": "categories/zabawa/Labirynty/Labitynt_10_track.pdf",
+              "thumb": "categories/zabawa/Labirynty/Labitynt_10_track.png",
+              "solution": "categories/zabawa/Labirynty/Labitynt_10_track_solution.png",
               "type": "track"
             }
           ],
