@@ -1627,53 +1627,27 @@
           "title": "Wytnij i przyklej",
           "items": [
             {
-              "id": "wytnij_przyklej1",
-              "title": "Wytnij przyklej1",
-              "pdf": "categories/zabawa/Wytnij przyklej/wytnij_przyklej1.pdf",
-              "thumb": "categories/zabawa/Wytnij przyklej/wytnij_przyklej1.png",
-              "type": "task"
+              "id": "wytnij_przyklej_1_cut_paste",
+              "title": "wytnij_przyklej_1_cut_paste",
+              "pdf": "categories/zabawa/Wytnij przyklej/wytnij_przyklej_1_cut_paste.pdf",
+              "thumb": "categories/zabawa/Wytnij przyklej/wytnij_przyklej_1_cut_paste.png",
+              "solution": "categories/zabawa/Wytnij przyklej/wytnij_przyklej_1_cut_paste_solution.png",
+              "type": "cut_paste"
             },
             {
-              "id": "wytnij_przyklej2",
-              "title": "Wytnij przyklej2",
-              "pdf": "categories/zabawa/Wytnij przyklej/wytnij_przyklej2.pdf",
-              "thumb": "categories/zabawa/Wytnij przyklej/wytnij_przyklej2.png",
-              "type": "task"
+              "id": "wytnij_przyklej_2_cut_paste",
+              "title": "wytnij_przyklej_2_cut_paste",
+              "pdf": "categories/zabawa/Wytnij przyklej/wytnij_przyklej_2_cut_paste.pdf",
+              "thumb": "categories/zabawa/Wytnij przyklej/wytnij_przyklej_2_cut_paste.png",
+              "solution": "categories/zabawa/Wytnij przyklej/wytnij_przyklej_2_cut_paste_solution.png",
+              "type": "cut_paste"
             },
             {
-              "id": "wytnij_przyklej3",
-              "title": "Wytnij przyklej3",
-              "pdf": "categories/zabawa/Wytnij przyklej/wytnij_przyklej3.pdf",
-              "thumb": "categories/zabawa/Wytnij przyklej/wytnij_przyklej3.png",
-              "type": "task"
-            },
-            {
-              "id": "wytnij_przyklej4",
-              "title": "Wytnij przyklej4",
-              "pdf": "categories/zabawa/Wytnij przyklej/wytnij_przyklej4.pdf",
-              "thumb": "categories/zabawa/Wytnij przyklej/wytnij_przyklej4.png",
-              "type": "task"
-            },
-            {
-              "id": "wytnij_przyklej5",
-              "title": "Wytnij przyklej5",
-              "pdf": "categories/zabawa/Wytnij przyklej/wytnij_przyklej5.pdf",
-              "thumb": "categories/zabawa/Wytnij przyklej/wytnij_przyklej5.png",
-              "type": "task"
-            },
-            {
-              "id": "wytnij_przyklej6",
-              "title": "Wytnij przyklej6",
-              "pdf": "categories/zabawa/Wytnij przyklej/wytnij_przyklej6.pdf",
-              "thumb": "categories/zabawa/Wytnij przyklej/wytnij_przyklej6.png",
-              "type": "task"
-            },
-            {
-              "id": "wytnij_przyklej7",
-              "title": "Wytnij przyklej7",
-              "pdf": "categories/zabawa/Wytnij przyklej/wytnij_przyklej7.pdf",
-              "thumb": "categories/zabawa/Wytnij przyklej/wytnij_przyklej7.png",
-              "solution": "categories/zabawa/Wytnij przyklej/wytnij_przyklej7solution.png",
+              "id": "wytnij_przyklej_3_cut_paste",
+              "title": "wytnij_przyklej_3_cut_paste",
+              "pdf": "categories/zabawa/Wytnij przyklej/wytnij_przyklej_3_cut_paste.pdf",
+              "thumb": "categories/zabawa/Wytnij przyklej/wytnij_przyklej_3_cut_paste.png",
+              "solution": "categories/zabawa/Wytnij przyklej/wytnij_przyklej_3_cut_paste_solution.png",
               "type": "cut_paste"
             }
           ],
