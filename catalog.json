@@ -1579,46 +1579,84 @@
             {
               "id": "połącz1",
               "title": "Połącz1",
-              "pdf": "categories/zabawa/Połącz kropki/połącz1.pdf",
-              "thumb": "categories/zabawa/Połącz kropki/połącz1.png",
-              "type": "task"
+              "pdf": "categories/zabawa/Połącz kropki/laczenie_1_dot_connect.pdf",
+              "thumb": "categories/zabawa/Połącz kropki/laczenie_1_dot_connect.png",
+              "solution": "categories/zabawa/Połącz kropki/laczenie_1_dot_connect_solution.png",
+              "type": "dot_connect"
             },
             {
               "id": "połącz2",
               "title": "Połącz2",
-              "pdf": "categories/zabawa/Połącz kropki/połącz2.pdf",
-              "thumb": "categories/zabawa/Połącz kropki/połącz2.png",
-              "type": "task"
+              "pdf": "categories/zabawa/Połącz kropki/laczenie_2_dot_connect.pdf",
+              "thumb": "categories/zabawa/Połącz kropki/laczenie_2_dot_connect.png",
+              "solution": "categories/zabawa/Połącz kropki/laczenie_2_dot_connect_solution.png",
+              "type": "dot_connect"
             },
             {
               "id": "połącz3",
               "title": "Połącz3",
-              "pdf": "categories/zabawa/Połącz kropki/połącz3.pdf",
-              "thumb": "categories/zabawa/Połącz kropki/połącz3.png",
-              "type": "task"
+              "pdf": "categories/zabawa/Połącz kropki/laczenie_3_dot_connect.pdf",
+              "thumb": "categories/zabawa/Połącz kropki/laczenie_3_dot_connect.png",
+              "solution": "categories/zabawa/Połącz kropki/laczenie_3_dot_connect_solution.png",
+              "type": "dot_connect"
             },
             {
               "id": "połącz4",
               "title": "Połącz4",
-              "pdf": "categories/zabawa/Połącz kropki/połącz4.pdf",
-              "thumb": "categories/zabawa/Połącz kropki/połącz4.png",
-              "type": "task"
+              "pdf": "categories/zabawa/Połącz kropki/laczenie_4_dot_connect.pdf",
+              "thumb": "categories/zabawa/Połącz kropki/laczenie_4_dot_connect.png",
+              "solution": "categories/zabawa/Połącz kropki/laczenie_4_dot_connect_solution.png",
+              "type": "dot_connect"
             },
             {
               "id": "połącz5",
               "title": "Połącz5",
-              "pdf": "categories/zabawa/Połącz kropki/połącz5.pdf",
-              "thumb": "categories/zabawa/Połącz kropki/połącz5.png",
-              "type": "task"
+              "pdf": "categories/zabawa/Połącz kropki/laczenie_5_dot_connect.pdf",
+              "thumb": "categories/zabawa/Połącz kropki/laczenie_5_dot_connect.png",
+              "solution": "categories/zabawa/Połącz kropki/laczenie_5_dot_connect_solution.png",
+              "type": "dot_connect"
             },
             {
               "id": "połącz6",
               "title": "Połącz6",
-              "pdf": "categories/zabawa/Połącz kropki/połącz6.pdf",
-              "thumb": "categories/zabawa/Połącz kropki/połącz6.png",
-              "solution": "categories/zabawa/Połącz kropki/połącz6solution.png",
+              "pdf": "categories/zabawa/Połącz kropki/laczenie_6_dot_connect.pdf",
+              "thumb": "categories/zabawa/Połącz kropki/laczenie_6_dot_connect.png",
+              "solution": "categories/zabawa/Połącz kropki/laczenie_6_dot_connect_solution.png",
+              "type": "dot_connect"
+            },
+            {
+              "id": "połącz7",
+              "title": "Połącz7",
+              "pdf": "categories/zabawa/Połącz kropki/laczenie_7_dot_connect.pdf",
+              "thumb": "categories/zabawa/Połącz kropki/laczenie_7_dot_connect.png",
+              "solution": "categories/zabawa/Połącz kropki/laczenie_7_dot_connect_solution.png",
+              "type": "dot_connect"
+            },
+            {
+              "id": "połącz8",
+              "title": "Połącz8",
+              "pdf": "categories/zabawa/Połącz kropki/laczenie_8_dot_connect.pdf",
+              "thumb": "categories/zabawa/Połącz kropki/laczenie_8_dot_connect.png",
+              "solution": "categories/zabawa/Połącz kropki/laczenie_8_dot_connect_solution.png",
+              "type": "dot_connect"
+            },
+            {
+              "id": "połącz9",
+              "title": "Połącz9",
+              "pdf": "categories/zabawa/Połącz kropki/laczenie_9_dot_connect.pdf",
+              "thumb": "categories/zabawa/Połącz kropki/laczenie_9_dot_connect.png",
+              "solution": "categories/zabawa/Połącz kropki/laczenie_9_dot_connect_solution.png",
+              "type": "dot_connect"
+            },
+            {
+              "id": "połącz10",
+              "title": "Połącz10",
+              "pdf": "categories/zabawa/Połącz kropki/laczenie_10_dot_connect.pdf",
+              "thumb": "categories/zabawa/Połącz kropki/laczenie_10_dot_connect.png",
+              "solution": "categories/zabawa/Połącz kropki/laczenie_10_dot_connect_solution.png",
               "type": "dot_connect"
             }
+            
           ],
           "subcategories": []
         },
