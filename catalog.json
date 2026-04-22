@@ -1687,7 +1687,32 @@
               "thumb": "categories/zabawa/Wytnij Przyklej/wytnij_przyklej_3_cut_paste.png",
               "solution": "categories/zabawa/Wytnij Przyklej/wytnij_przyklej_3_cut_paste_solution.png",
               "type": "cut_paste"
-            }
+            },
+            {
+              "id": "wytnij_przyklej_4_cut_paste",
+              "title": "wytnij_przyklej_4_cut_paste",
+              "pdf": "categories/zabawa/Wytnij Przyklej/wytnij_przyklej_4_cut_paste.pdf",
+              "thumb": "categories/zabawa/Wytnij Przyklej/wytnij_przyklej_4_cut_paste.png",
+              "solution": "categories/zabawa/Wytnij Przyklej/wytnij_przyklej_4_cut_paste_solution.png",
+              "type": "cut_paste"
+            },
+            {
+              "id": "wytnij_przyklej_5_cut_paste",
+              "title": "wytnij_przyklej_5_cut_paste",
+              "pdf": "categories/zabawa/Wytnij Przyklej/wytnij_przyklej_5_cut_paste.pdf",
+              "thumb": "categories/zabawa/Wytnij Przyklej/wytnij_przyklej_5_cut_paste.png",
+              "solution": "categories/zabawa/Wytnij Przyklej/wytnij_przyklej_5_cut_paste_solution.png",
+              "type": "cut_paste"
+            },
+            {
+              "id": "wytnij_przyklej_6_cut_paste",
+              "title": "wytnij_przyklej_6_cut_paste",
+              "pdf": "categories/zabawa/Wytnij Przyklej/wytnij_przyklej_6_cut_paste.pdf",
+              "thumb": "categories/zabawa/Wytnij Przyklej/wytnij_przyklej_6_cut_paste.png",
+              "solution": "categories/zabawa/Wytnij Przyklej/wytnij_przyklej_6_cut_paste_solution.png",
+              "type": "cut_paste"
+            },
+            
           ],
           "subcategories": []
         },
