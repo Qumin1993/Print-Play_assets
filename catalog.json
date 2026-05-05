@@ -1800,175 +1800,175 @@
             }
           ],
           "subcategories": []
-        },
+        }
+      ]
+    },
+    {
+      "id": "serie",
+      "title": "Serie",
+      "tile": "categories/Serie/serie.png",
+      "subcategories": [
         {
-          "id": "serie",
-          "title": "Serie",
-          "tile": "categories/Serie/serie_tile.png",
+          "id": "przygoda_w_jungli",
+          "title": "Przygoda w jungli",
+          "items": [],
           "subcategories": [
             {
-              "id": "przygoda_w_jungli",
-              "title": "Przygoda w jungli",
-              "items": [],
-              "subcategories": [
+              "id": "jungla_cienie",
+              "title": "Cienie",
+              "items": [
                 {
-                  "id": "jungla_cienie",
-                  "title": "Cienie",
-                  "items": [
-                    {
-                      "id": "jungla_cienie_1",
-                      "title": "Jungla cienie 1",
-                      "pdf": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_1_match_lines.pdf",
-                      "thumb": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_1_match_lines.png",
-                      "solution": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_1_match_lines_solution.png",
-                      "type": "match_lines"
-                    },
-                    {
-                      "id": "jungla_cienie_2",
-                      "title": "Jungla cienie 2",
-                      "pdf": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_2_match_lines.pdf",
-                      "thumb": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_2_match_lines.png",
-                      "solution": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_2_match_lines_solution.png",
-                      "type": "match_lines"
-                    },
-                    {
-                      "id": "jungla_cienie_3",
-                      "title": "Jungla cienie 3",
-                      "pdf": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_3_match_lines.pdf",
-                      "thumb": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_3_match_lines.png",
-                      "solution": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_3_match_lines_solution.png",
-                      "type": "match_lines"
-                    },
-                    {
-                      "id": "jungla_cienie_4",
-                      "title": "Jungla cienie 4",
-                      "pdf": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_4_match_lines.pdf",
-                      "thumb": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_4_match_lines.png",
-                      "solution": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_4_match_lines_solution.png",
-                      "type": "match_lines"
-                    },
-                    {
-                      "id": "jungla_cienie_5",
-                      "title": "Jungla cienie 5",
-                      "pdf": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_5_match_lines.pdf",
-                      "thumb": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_5_match_lines.png",
-                      "solution": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_5_match_lines_solution.png",
-                      "type": "match_lines"
-                    },
-                    {
-                      "id": "jungla_cienie_6",
-                      "title": "Jungla cienie 6",
-                      "pdf": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_6_select_object.pdf",
-                      "thumb": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_6_select_object.png",
-                      "solution": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_6_select_object_solution.png",
-                      "type": "select_object"
-                    },
-                    {
-                      "id": "jungla_cienie_7",
-                      "title": "Jungla cienie 7",
-                      "pdf": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_7_select_object.pdf",
-                      "thumb": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_7_select_object.png",
-                      "solution": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_7_select_object_solution.png",
-                      "type": "select_object"
-                    }
-                  ],
-                  "subcategories": []
+                  "id": "jungla_cienie_1",
+                  "title": "Jungla cienie 1",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_1_match_lines.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_1_match_lines.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_1_match_lines_solution.png",
+                  "type": "match_lines"
                 },
                 {
-                  "id": "jungla_labirynty",
-                  "title": "Labirynty",
-                  "items": [
-                    {
-                      "id": "jungla_labirynt_1",
-                      "title": "Jungla labirynt 1",
-                      "pdf": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_1_track.pdf",
-                      "thumb": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_1_track.png",
-                      "solution": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_1_track_solution.png",
-                      "type": "track"
-                    },
-                    {
-                      "id": "jungla_labirynt_2",
-                      "title": "Jungla labirynt 2",
-                      "pdf": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_2_track.pdf",
-                      "thumb": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_2_track.png",
-                      "solution": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_2_track_solution.png",
-                      "type": "track"
-                    },
-                    {
-                      "id": "jungla_labirynt_3",
-                      "title": "Jungla labirynt 3",
-                      "pdf": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_3_track.pdf",
-                      "thumb": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_3_track.png",
-                      "solution": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_3_track_solution.png",
-                      "type": "track"
-                    },
-                    {
-                      "id": "jungla_labirynt_4",
-                      "title": "Jungla labirynt 4",
-                      "pdf": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_4_track.pdf",
-                      "thumb": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_4_track.png",
-                      "solution": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_4_track_solution.png",
-                      "type": "track"
-                    },
-                    {
-                      "id": "jungla_labirynt_5",
-                      "title": "Jungla labirynt 5",
-                      "pdf": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_5_track.pdf",
-                      "thumb": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_5_track.png",
-                      "solution": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_5_track_solution.png",
-                      "type": "track"
-                    }
-                  ],
-                  "subcategories": []
+                  "id": "jungla_cienie_2",
+                  "title": "Jungla cienie 2",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_2_match_lines.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_2_match_lines.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_2_match_lines_solution.png",
+                  "type": "match_lines"
                 },
                 {
-                  "id": "jungla_przyklejanki",
-                  "title": "Przyklejanki",
-                  "items": [
-                    {
-                      "id": "jungla_wytnij_przyklej_1",
-                      "title": "Jungla wytnij i przyklej 1",
-                      "pdf": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej1.pdf",
-                      "thumb": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej1.png",
-                      "solution": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej1_solution.png",
-                      "type": "cut_paste"
-                    },
-                    {
-                      "id": "jungla_wytnij_przyklej_2",
-                      "title": "Jungla wytnij i przyklej 2",
-                      "pdf": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej2.pdf",
-                      "thumb": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej2.png",
-                      "solution": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej2_solution.png",
-                      "type": "cut_paste"
-                    },
-                    {
-                      "id": "jungla_wytnij_przyklej_3",
-                      "title": "Jungla wytnij i przyklej 3",
-                      "pdf": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej3.pdf",
-                      "thumb": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej3.png",
-                      "solution": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej3_solution.png",
-                      "type": "cut_paste"
-                    },
-                    {
-                      "id": "jungla_wytnij_przyklej_4",
-                      "title": "Jungla wytnij i przyklej 4",
-                      "pdf": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej4.pdf",
-                      "thumb": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej4.png",
-                      "solution": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej4_solution.png",
-                      "type": "cut_paste"
-                    },
-                    {
-                      "id": "jungla_wytnij_przyklej_5",
-                      "title": "Jungla wytnij i przyklej 5",
-                      "pdf": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej5.pdf",
-                      "thumb": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej5.png",
-                      "solution": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej5_solution.png",
-                      "type": "cut_paste"
-                    }
-                  ],
-                  "subcategories": []
+                  "id": "jungla_cienie_3",
+                  "title": "Jungla cienie 3",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_3_match_lines.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_3_match_lines.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_3_match_lines_solution.png",
+                  "type": "match_lines"
+                },
+                {
+                  "id": "jungla_cienie_4",
+                  "title": "Jungla cienie 4",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_4_match_lines.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_4_match_lines.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_4_match_lines_solution.png",
+                  "type": "match_lines"
+                },
+                {
+                  "id": "jungla_cienie_5",
+                  "title": "Jungla cienie 5",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_5_match_lines.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_5_match_lines.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_5_match_lines_solution.png",
+                  "type": "match_lines"
+                },
+                {
+                  "id": "jungla_cienie_6",
+                  "title": "Jungla cienie 6",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_6_select_object.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_6_select_object.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_6_select_object_solution.png",
+                  "type": "select_object"
+                },
+                {
+                  "id": "jungla_cienie_7",
+                  "title": "Jungla cienie 7",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_7_select_object.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_7_select_object.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_7_select_object_solution.png",
+                  "type": "select_object"
                 }
-              ]
+              ],
+              "subcategories": []
+            },
+            {
+              "id": "jungla_labirynty",
+              "title": "Labirynty",
+              "items": [
+                {
+                  "id": "jungla_labirynt_1",
+                  "title": "Jungla labirynt 1",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_1_track.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_1_track.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_1_track_solution.png",
+                  "type": "track"
+                },
+                {
+                  "id": "jungla_labirynt_2",
+                  "title": "Jungla labirynt 2",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_2_track.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_2_track.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_2_track_solution.png",
+                  "type": "track"
+                },
+                {
+                  "id": "jungla_labirynt_3",
+                  "title": "Jungla labirynt 3",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_3_track.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_3_track.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_3_track_solution.png",
+                  "type": "track"
+                },
+                {
+                  "id": "jungla_labirynt_4",
+                  "title": "Jungla labirynt 4",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_4_track.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_4_track.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_4_track_solution.png",
+                  "type": "track"
+                },
+                {
+                  "id": "jungla_labirynt_5",
+                  "title": "Jungla labirynt 5",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_5_track.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_5_track.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_5_track_solution.png",
+                  "type": "track"
+                }
+              ],
+              "subcategories": []
+            },
+            {
+              "id": "jungla_przyklejanki",
+              "title": "Przyklejanki",
+              "items": [
+                {
+                  "id": "jungla_wytnij_przyklej_1",
+                  "title": "Jungla wytnij i przyklej 1",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej1.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej1.png",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej1_solution.png",
+                  "type": "cut_paste"
+                },
+                {
+                  "id": "jungla_wytnij_przyklej_2",
+                  "title": "Jungla wytnij i przyklej 2",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej2.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej2.png",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej2_solution.png",
+                  "type": "cut_paste"
+                },
+                {
+                  "id": "jungla_wytnij_przyklej_3",
+                  "title": "Jungla wytnij i przyklej 3",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej3.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej3.png",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej3_solution.png",
+                  "type": "cut_paste"
+                },
+                {
+                  "id": "jungla_wytnij_przyklej_4",
+                  "title": "Jungla wytnij i przyklej 4",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej4.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej4.png",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej4_solution.png",
+                  "type": "cut_paste"
+                },
+                {
+                  "id": "jungla_wytnij_przyklej_5",
+                  "title": "Jungla wytnij i przyklej 5",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej5.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej5.png",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej5_solution.png",
+                  "type": "cut_paste"
+                }
+              ],
+              "subcategories": []
             }
           ]
         }
