@@ -1969,6 +1969,79 @@
                 }
               ],
               "subcategories": []
+            },
+            {
+              "id": "jungla_Literki",
+              "title": "Literki",
+              "items": [
+                {
+                  "id": "jungla_Literki_A",
+                  "title": "Jungla literki A",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_A.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_A.jpg"
+                },
+                {
+                  "id": "jungla_Literki_B",
+                  "title": "Jungla literki B",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_B.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_B.jpg"
+                },
+                {
+                  "id": "jungla_Literki_C",
+                  "title": "Jungla literki C",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_C.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_C.jpg"
+                },
+                {
+                  "id": "jungla_Literki_D",
+                  "title": "Jungla literki D",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_D.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_D.jpg"
+                },
+                {
+                  "id": "jungla_Literki_E",
+                  "title": "Jungla literki E",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_E.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_E.jpg"
+                },
+                {
+                  "id": "jungla_Literki_F",
+                  "title": "Jungla literki F",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_F.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_F.jpg"
+                },
+                {
+                  "id": "jungla_Literki_G",
+                  "title": "Jungla literki G",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_G.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_G.jpg"
+                },
+                {
+                  "id": "jungla_Literki_H",
+                  "title": "Jungla literki H",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_H.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_H.jpg"
+                },
+                {
+                  "id": "jungla_Literki_I",
+                  "title": "Jungla literki I",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_I.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_I.jpg"
+                },
+                {
+                  "id": "jungla_Literki_J",
+                  "title": "Jungla literki J",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_J.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_J.jpg"
+                },
+                {
+                  "id": "jungla_Literki_K",
+                  "title": "Jungla literki K",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_K.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_K.jpg"
+                }
+               ],
+              "subcategories": []
             }
           ]
         }
