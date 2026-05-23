@@ -280,7 +280,7 @@
               "title": "Postacie 1",
               "pdf": "categories/kolorowanki/postacie/kolorowanki_postacie1.pdf",
               "thumb": "categories/kolorowanki/postacie/kolorowanki_postacie1.png",
-              "type": "paint"
+              "type": "paint",
               "date": "2026-05-5"
             },
             {
@@ -1903,7 +1903,7 @@
                   "pdf": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_3_track.pdf",
                   "thumb": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_3_track.jpg",
                   "solution": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_3_track_solution.png",
-                  "type": "track"
+                  "type": "track",
                   "date": "2026-05-17"
                 },
                 {
@@ -2040,10 +2040,192 @@
                   "id": "jungla_Literki_K",
                   "title": "Jungla literki K",
                   "pdf": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_K.pdf",
-                  "thumb": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_K.jpg"
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_K.jpg",
                   "date": "2026-05-17"
                 }
-               ],
+              ],
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "id": "kosmos",
+          "title": "Kosmiczna Przygoda",
+          "items": [],
+          "subcategories": [
+            {
+              "id": "kosmos_cienie",
+              "title": "Cienie",
+              "items": [
+                {
+                  "id": "kosmos_cienie_shadow_match_001",
+                  "title": "Połącz z cieniem",
+                  "pdf": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_001.pdf",
+                  "thumb": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_001_thumb.jpg",
+                  "solution": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_001_solution.png",
+                  "type": "match_lines",
+                  "generator": "shadow_match",
+                  "date": "2026-05-23"
+                },
+                {
+                  "id": "kosmos_cienie_shadow_match_002",
+                  "title": "Połącz z cieniem",
+                  "pdf": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_002.pdf",
+                  "thumb": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_002_thumb.jpg",
+                  "solution": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_002_solution.png",
+                  "type": "match_lines",
+                  "generator": "shadow_match",
+                  "date": "2026-05-23"
+                },
+                {
+                  "id": "kosmos_cienie_shadow_match_003",
+                  "title": "Połącz z cieniem",
+                  "pdf": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_003.pdf",
+                  "thumb": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_003_thumb.jpg",
+                  "solution": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_003_solution.png",
+                  "type": "match_lines",
+                  "generator": "shadow_match",
+                  "date": "2026-05-23"
+                },
+                {
+                  "id": "kosmos_cienie_shadow_match_004",
+                  "title": "Połącz z cieniem",
+                  "pdf": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_004.pdf",
+                  "thumb": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_004_thumb.jpg",
+                  "solution": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_004_solution.png",
+                  "type": "match_lines",
+                  "generator": "shadow_match",
+                  "date": "2026-05-23"
+                },
+                {
+                  "id": "kosmos_cienie_shadow_match_005",
+                  "title": "Połącz z cieniem",
+                  "pdf": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_005.pdf",
+                  "thumb": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_005_thumb.jpg",
+                  "solution": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_005_solution.png",
+                  "type": "match_lines",
+                  "generator": "shadow_match",
+                  "date": "2026-05-23"
+                },
+                {
+                  "id": "kosmos_cienie_shadow_match_006",
+                  "title": "Połącz z cieniem",
+                  "pdf": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_006.pdf",
+                  "thumb": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_006_thumb.jpg",
+                  "solution": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_006_solution.png",
+                  "type": "match_lines",
+                  "generator": "shadow_match",
+                  "date": "2026-05-23"
+                }
+              ],
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "id": "pod_woda",
+          "title": "Pod Wodą",
+          "items": [],
+          "subcategories": [
+            {
+              "id": "cienie_pod_woda",
+              "title": "Cienie",
+              "items": [
+                {
+                  "id": "pod_woda_cienie_001",
+                  "title": "Połącz z cieniem",
+                  "pdf": "categories/Serie/Pod_Wodą/Cienie/pod_woda_cienie_001.pdf",
+                  "thumb": "categories/Serie/Pod_Wodą/Cienie/pod_woda_cienie_001_thumb.jpg",
+                  "solution": "categories/Serie/Pod_Wodą/Cienie/pod_woda_cienie_001_solution.png",
+                  "type": "match_lines",
+                  "generator": "shadow_match",
+                  "date": "2026-05-23"
+                },
+                {
+                  "id": "pod_woda_cienie_002",
+                  "title": "Połącz z cieniem",
+                  "pdf": "categories/Serie/Pod_Wodą/Cienie/pod_woda_cienie_002.pdf",
+                  "thumb": "categories/Serie/Pod_Wodą/Cienie/pod_woda_cienie_002_thumb.jpg",
+                  "solution": "categories/Serie/Pod_Wodą/Cienie/pod_woda_cienie_002_solution.png",
+                  "type": "match_lines",
+                  "generator": "shadow_match",
+                  "date": "2026-05-23"
+                },
+                {
+                  "id": "pod_woda_cienie_003",
+                  "title": "Połącz z cieniem",
+                  "pdf": "categories/Serie/Pod_Wodą/Cienie/pod_woda_cienie_003.pdf",
+                  "thumb": "categories/Serie/Pod_Wodą/Cienie/pod_woda_cienie_003_thumb.jpg",
+                  "solution": "categories/Serie/Pod_Wodą/Cienie/pod_woda_cienie_003_solution.png",
+                  "type": "match_lines",
+                  "generator": "shadow_match",
+                  "date": "2026-05-23"
+                },
+                {
+                  "id": "pod_woda_cienie_004",
+                  "title": "Połącz z cieniem",
+                  "pdf": "categories/Serie/Pod_Wodą/Cienie/pod_woda_cienie_004.pdf",
+                  "thumb": "categories/Serie/Pod_Wodą/Cienie/pod_woda_cienie_004_thumb.jpg",
+                  "solution": "categories/Serie/Pod_Wodą/Cienie/pod_woda_cienie_004_solution.png",
+                  "type": "match_lines",
+                  "generator": "shadow_match",
+                  "date": "2026-05-23"
+                }
+              ],
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "id": "skarby_piratow",
+          "title": "Skarby Piratów",
+          "items": [],
+          "subcategories": [
+            {
+              "id": "skarby_piratow_cienie",
+              "title": "Cienie",
+              "items": [
+                {
+                  "id": "skarby_piratow_cienie_003",
+                  "title": "Połącz z cieniem",
+                  "pdf": "categories/Serie/Skarby_Piratów/Cienie/skarby_piratow_cienie_003.pdf",
+                  "thumb": "categories/Serie/Skarby_Piratów/Cienie/skarby_piratow_cienie_003_thumb.jpg",
+                  "solution": "categories/Serie/Skarby_Piratów/Cienie/skarby_piratow_cienie_003_solution.png",
+                  "type": "match_lines",
+                  "generator": "shadow_match",
+                  "date": "2026-05-23"
+                },
+                {
+                  "id": "skarby_piratow_cienie_004",
+                  "title": "Połącz z cieniem",
+                  "pdf": "categories/Serie/Skarby_Piratów/Cienie/skarby_piratow_cienie_004.pdf",
+                  "thumb": "categories/Serie/Skarby_Piratów/Cienie/skarby_piratow_cienie_004_thumb.jpg",
+                  "solution": "categories/Serie/Skarby_Piratów/Cienie/skarby_piratow_cienie_004_solution.png",
+                  "type": "match_lines",
+                  "generator": "shadow_match",
+                  "date": "2026-05-23"
+                },
+                {
+                  "id": "skarby_piratow_cienie_001",
+                  "title": "Połącz z cieniem",
+                  "pdf": "categories/Serie/Skarby_Piratów/Cienie/skarby_piratow_cienie_001.pdf",
+                  "thumb": "categories/Serie/Skarby_Piratów/Cienie/skarby_piratow_cienie_001_thumb.jpg",
+                  "solution": "categories/Serie/Skarby_Piratów/Cienie/skarby_piratow_cienie_001_solution.png",
+                  "type": "match_lines",
+                  "generator": "shadow_match",
+                  "date": "2026-05-23"
+                },
+                {
+                  "id": "skarby_piratow_cienie_002",
+                  "title": "Połącz z cieniem",
+                  "pdf": "categories/Serie/Skarby_Piratów/Cienie/skarby_piratow_cienie_002.pdf",
+                  "thumb": "categories/Serie/Skarby_Piratów/Cienie/skarby_piratow_cienie_002_thumb.jpg",
+                  "solution": "categories/Serie/Skarby_Piratów/Cienie/skarby_piratow_cienie_002_solution.png",
+                  "type": "match_lines",
+                  "generator": "shadow_match",
+                  "date": "2026-05-23"
+                }
+              ],
               "subcategories": []
             }
           ]
