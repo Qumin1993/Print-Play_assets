@@ -2300,7 +2300,11 @@
                   "solution": "categories/Serie/Skarby_Piratów/Cienie/skarby_piratow_cienie_003_solution.png",
                   "type": "match_lines",
                   "generator": "shadow_match",
-                  "date": "2026-05-23"
+                  "date": "2026-05-23",
+                  "instruction": {
+                  "pl": "Czy potrafisz połączyć zwierzęta z ich cieniami?",
+                  "en": "Can you match the animals with their shadows?"
+                  }
                 },
                 {
                   "id": "skarby_piratow_cienie_004",
@@ -2310,7 +2314,11 @@
                   "solution": "categories/Serie/Skarby_Piratów/Cienie/skarby_piratow_cienie_004_solution.png",
                   "type": "match_lines",
                   "generator": "shadow_match",
-                  "date": "2026-05-23"
+                  "date": "2026-05-23",
+                  "instruction": {
+                  "pl": "Czy potrafisz połączyć zwierzęta z ich cieniami?",
+                  "en": "Can you match the animals with their shadows?"
+                  }
                 },
                 {
                   "id": "skarby_piratow_cienie_001",
@@ -2320,7 +2328,11 @@
                   "solution": "categories/Serie/Skarby_Piratów/Cienie/skarby_piratow_cienie_001_solution.png",
                   "type": "match_lines",
                   "generator": "shadow_match",
-                  "date": "2026-05-23"
+                  "date": "2026-05-23",
+                  "instruction": {
+                  "pl": "Czy potrafisz połączyć zwierzęta z ich cieniami?",
+                  "en": "Can you match the animals with their shadows?"
+                  }
                 },
                 {
                   "id": "skarby_piratow_cienie_002",
