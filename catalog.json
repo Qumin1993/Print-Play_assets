@@ -2045,6 +2045,113 @@
                 }
               ],
               "subcategories": []
+            },
+            {
+              "id": "sladami_jungli",
+              "title": "Śladami Jungli",
+              "items": [
+                {
+                  "id": "jungle_dot_connect_001",
+                  "title": "Połącz kropki",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_001.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_001_thumb.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_001_solution.png",
+                  "type": "dot_connect",
+                  "generator": "dot_connect_lineart",
+                  "date": "2026-05-25"
+                },
+                {
+                  "id": "jungle_dot_connect_002",
+                  "title": "Połącz kropki",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_002.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_002_thumb.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_002_solution.png",
+                  "type": "dot_connect",
+                  "generator": "dot_connect_lineart",
+                  "date": "2026-05-25"
+                },
+                {
+                  "id": "jungle_dot_connect_003",
+                  "title": "Połącz kropki",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_003.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_003_thumb.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_003_solution.png",
+                  "type": "dot_connect",
+                  "generator": "dot_connect_lineart",
+                  "date": "2026-05-25"
+                },
+                {
+                  "id": "jungle_dot_connect_004",
+                  "title": "Połącz kropki",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_004.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_004_thumb.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_004_solution.png",
+                  "type": "dot_connect",
+                  "generator": "dot_connect_lineart",
+                  "date": "2026-05-25"
+                },
+                {
+                  "id": "jungle_dot_connect_005",
+                  "title": "Połącz kropki",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_005.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_005_thumb.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_005_solution.png",
+                  "type": "dot_connect",
+                  "generator": "dot_connect_lineart",
+                  "date": "2026-05-25"
+                },
+                {
+                  "id": "jungle_dot_connect_006",
+                  "title": "Połącz kropki",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_006.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_006_thumb.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_006_solution.png",
+                  "type": "dot_connect",
+                  "generator": "dot_connect_lineart",
+                  "date": "2026-05-25"
+                },
+                {
+                  "id": "jungle_dot_connect_007",
+                  "title": "Połącz kropki",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_007.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_007_thumb.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_007_solution.png",
+                  "type": "dot_connect",
+                  "generator": "dot_connect_lineart",
+                  "date": "2026-05-25"
+                },
+                {
+                  "id": "jungle_dot_connect_008",
+                  "title": "Połącz kropki",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_008.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_008_thumb.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_008_solution.png",
+                  "type": "dot_connect",
+                  "generator": "dot_connect_lineart",
+                  "date": "2026-05-25"
+                },
+                {
+                  "id": "jungle_dot_connect_009",
+                  "title": "Połącz kropki",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_009.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_009_thumb.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_009_solution.png",
+                  "type": "dot_connect",
+                  "generator": "dot_connect_lineart",
+                  "date": "2026-05-25"
+                },
+                {
+                  "id": "jungle_dot_connect_010",
+                  "title": "Połącz kropki",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_010.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_010_thumb.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_010_solution.png",
+                  "type": "dot_connect",
+                  "generator": "dot_connect_lineart",
+                  "date": "2026-05-25"
+                }
+              ],
+              "subcategories": []
             }
           ]
         },
