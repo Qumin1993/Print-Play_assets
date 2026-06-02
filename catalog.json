@@ -1400,93 +1400,6 @@
       "tile": "categories/zabawa/zabawa_tile.png",
       "subcategories": [
         {
-          "id": "Cienie",
-          "title": "Cienie",
-          "items": [
-            {
-              "id": "cienie_1",
-              "title": "Cienie 1",
-              "pdf": "categories/zabawa/Cienie/cienie_1_match_lines.pdf",
-              "thumb": "categories/zabawa/Cienie/cienie_1_match_lines.png",
-              "solution": "categories/zabawa/Cienie/cienie_1_match_lines_solution.png",
-              "type": "match_lines"
-            },
-            {
-              "id": "cienie_2",
-              "title": "Cienie2 ",
-              "pdf": "categories/zabawa/Cienie/cienie_2_match_lines.pdf",
-              "thumb": "categories/zabawa/Cienie/cienie_2_match_lines.png",
-              "solution": "categories/zabawa/Cienie/cienie_2_match_lines_solution.png",
-              "type": "match_lines"
-            },
-            {
-              "id": "cienie_3",
-              "title": "Cienie3 ",
-              "pdf": "categories/zabawa/Cienie/cienie_3_match_lines.pdf",
-              "thumb": "categories/zabawa/Cienie/cienie_3_match_lines.png",
-              "solution": "categories/zabawa/Cienie/cienie_3_match_lines_solution.png",
-              "type": "match_lines"
-            },
-            {
-              "id": "cienie_4",
-              "title": "Cienie4 ",
-              "pdf": "categories/zabawa/Cienie/cienie_4_match_lines.pdf",
-              "thumb": "categories/zabawa/Cienie/cienie_4_match_lines.png",
-              "solution": "categories/zabawa/Cienie/cienie_4_match_lines_solution.png",
-              "type": "match_lines"
-            },
-            {
-              "id": "cienie_5",
-              "title": "Cienie5 ",
-              "pdf": "categories/zabawa/Cienie/cienie_5_match_lines.pdf",
-              "thumb": "categories/zabawa/Cienie/cienie_5_match_lines.png",
-              "solution": "categories/zabawa/Cienie/cienie_5_match_lines_solution.png",
-              "type": "match_lines"
-            },
-            {
-              "id": "cienie_6",
-              "title": "Cienie6 ",
-              "pdf": "categories/zabawa/Cienie/cienie_6_match_lines.pdf",
-              "thumb": "categories/zabawa/Cienie/cienie_6_match_lines.png",
-              "solution": "categories/zabawa/Cienie/cienie_6_match_lines_solution.png",
-              "type": "match_lines"
-            },
-            {
-              "id": "cienie_7",
-              "title": "Cienie7 ",
-              "pdf": "categories/zabawa/Cienie/cienie_7_match_lines.pdf",
-              "thumb": "categories/zabawa/Cienie/cienie_7_match_lines.png",
-              "solution": "categories/zabawa/Cienie/cienie_7_match_lines_solution.png",
-              "type": "match_lines"
-            },
-            {
-              "id": "cienie_8",
-              "title": "Cienie8 ",
-              "pdf": "categories/zabawa/Cienie/cienie_8_match_lines.pdf",
-              "thumb": "categories/zabawa/Cienie/cienie_8_match_lines.png",
-              "solution": "categories/zabawa/Cienie/cienie_8_match_lines_solution.png",
-              "type": "match_lines"
-            },
-            {
-              "id": "cienie_9",
-              "title": "Cienie9 ",
-              "pdf": "categories/zabawa/Cienie/cienie_9_match_lines.pdf",
-              "thumb": "categories/zabawa/Cienie/cienie_9_match_lines.png",
-              "solution": "categories/zabawa/Cienie/cienie_9_match_lines_solution.png",
-              "type": "match_lines"
-            },
-            {
-              "id": "cienie_10",
-              "title": "Cienie10 ",
-              "pdf": "categories/zabawa/Cienie/cienie_10_match_lines.pdf",
-              "thumb": "categories/zabawa/Cienie/cienie_10_match_lines.png",
-              "solution": "categories/zabawa/Cienie/cienie_10_match_lines_solution.png",
-              "type": "match_lines"
-            }
-          ],
-          "subcategories": []
-        },
-        {
           "id": "Labirynty",
           "title": "Labirynty",
           "items": [
@@ -1812,7 +1725,32 @@
         {
           "id": "przygoda_w_jungli",
           "title": "Przygoda w jungli",
-          "items": [],
+          "items": [
+            {
+              "id": "serie_przygoda_w_jungli_shadow_match_001",
+              "title": "Przygoda w jungli Shadow Match",
+              "pdf": "categories/Serie/Przygoda_w_Jungli/serie_przygoda_w_jungli_shadow_match_001.pdf",
+              "thumb": "categories/Serie/Przygoda_w_Jungli/serie_przygoda_w_jungli_shadow_match_001_thumb.jpg",
+              "solution": "categories/Serie/Przygoda_w_Jungli/serie_przygoda_w_jungli_shadow_match_001_solution.png",
+              "type": "match_lines",
+              "generator": "shadow_match",
+              "date": "2026-06-02",
+              "title_pl": "Przygoda w jungli Shadow Match",
+              "title_en": "Shadow Match",
+              "instruction_pl": "Połącz obrazki z ich cieniami",
+              "instruction_en": "Match the pictures to their shadows",
+              "texts": {
+                "pl": {
+                  "title": "Przygoda w jungli Shadow Match",
+                  "instruction": "Połącz obrazki z ich cieniami"
+                },
+                "en": {
+                  "title": "Shadow Match",
+                  "instruction": "Match the pictures to their shadows"
+                }
+              }
+            }
+          ],
           "subcategories": [
             {
               "id": "jungla_cienie",
@@ -2302,8 +2240,8 @@
                   "generator": "shadow_match",
                   "date": "2026-05-23",
                   "instruction": {
-                  "pl": "Czy potrafisz połączyć zwierzęta z ich cieniami?",
-                  "en": "Can you match the animals with their shadows?"
+                    "pl": "Czy potrafisz połączyć zwierzęta z ich cieniami?",
+                    "en": "Can you match the animals with their shadows?"
                   }
                 },
                 {
@@ -2316,8 +2254,8 @@
                   "generator": "shadow_match",
                   "date": "2026-05-23",
                   "instruction": {
-                  "pl": "Czy potrafisz połączyć zwierzęta z ich cieniami?",
-                  "en": "Can you match the animals with their shadows?"
+                    "pl": "Czy potrafisz połączyć zwierzęta z ich cieniami?",
+                    "en": "Can you match the animals with their shadows?"
                   }
                 },
                 {
@@ -2330,8 +2268,8 @@
                   "generator": "shadow_match",
                   "date": "2026-05-23",
                   "instruction": {
-                  "pl": "Czy potrafisz połączyć zwierzęta z ich cieniami?",
-                  "en": "Can you match the animals with their shadows?"
+                    "pl": "Czy potrafisz połączyć zwierzęta z ich cieniami?",
+                    "en": "Can you match the animals with their shadows?"
                   }
                 },
                 {
@@ -2344,14 +2282,45 @@
                   "generator": "shadow_match",
                   "date": "2026-05-23",
                   "instruction": {
-                  "pl": "Czy potrafisz połączyć zwierzęta z ich cieniami?",
-                  "en": "Can you match the animals with their shadows?"
+                    "pl": "Czy potrafisz połączyć zwierzęta z ich cieniami?",
+                    "en": "Can you match the animals with their shadows?"
                   }
                 }
               ],
               "subcategories": []
             }
           ]
+        },
+        {
+          "id": "jungla_cienie",
+          "title": "Cienie",
+          "items": [
+            {
+              "id": "serie_cienie_shadow_match_001",
+              "title": "Cienie Shadow Match",
+              "pdf": "categories/Serie/jungla_cienie/serie_cienie_shadow_match_001.pdf",
+              "thumb": "categories/Serie/jungla_cienie/serie_cienie_shadow_match_001_thumb.jpg",
+              "solution": "categories/Serie/jungla_cienie/serie_cienie_shadow_match_001_solution.png",
+              "type": "match_lines",
+              "generator": "shadow_match",
+              "date": "2026-06-02",
+              "title_pl": "Cienie Shadow Match",
+              "title_en": "Shadow Match",
+              "instruction_pl": "Połącz obrazki z ich cieniami",
+              "instruction_en": "Match the pictures to their shadows",
+              "texts": {
+                "pl": {
+                  "title": "Cienie Shadow Match",
+                  "instruction": "Połącz obrazki z ich cieniami"
+                },
+                "en": {
+                  "title": "Shadow Match",
+                  "instruction": "Match the pictures to their shadows"
+                }
+              }
+            }
+          ],
+          "subcategories": []
         }
       ]
     }
