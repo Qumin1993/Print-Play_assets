@@ -2831,8 +2831,7 @@
                   "pdf": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej4.pdf",
                   "thumb": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej4.jpg",
                   "solution": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej4_solution.png",
-                  "type": "cut_paste",
-                  "premium": "true"
+                  "type": "cut_paste"
                 },
                 {
                   "id": "jungla_wytnij_przyklej_5",
@@ -2840,8 +2839,7 @@
                   "pdf": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej5.pdf",
                   "thumb": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej5.jpg",
                   "solution": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej5_solution.png",
-                  "type": "cut_paste",
-                  "premium": "true"
+                  "type": "cut_paste"
                 }
               ],
               "subcategories": []
@@ -2854,15 +2852,13 @@
                   "id": "jungla_Literki_A",
                   "title": "Jungla literki A",
                   "pdf": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_A.pdf",
-                  "thumb": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_A.jpg",
-                  "premium": "true"
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_A.jpg"
                 },
                 {
                   "id": "jungla_Literki_B",
                   "title": "Jungla literki B",
                   "pdf": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_B.pdf",
-                  "thumb": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_B.jpg",
-                  "premium": "true"
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_B.jpg"
                 },
                 {
                   "id": "jungla_Literki_C",
@@ -2880,8 +2876,7 @@
                   "id": "jungla_Literki_E",
                   "title": "Jungla literki E",
                   "pdf": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_E.pdf",
-                  "thumb": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_E.jpg",
-                  "premium": "true"
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_E.jpg"
                 },
                 {
                   "id": "jungla_Literki_F",
@@ -3069,8 +3064,7 @@
                   "solution": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_003_solution.png",
                   "type": "match_lines",
                   "generator": "shadow_match",
-                  "date": "2026-05-23",
-                  "premium": "true"
+                  "date": "2026-05-23"
                 },
                 {
                   "id": "kosmos_cienie_shadow_match_004",
@@ -3080,8 +3074,7 @@
                   "solution": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_004_solution.png",
                   "type": "match_lines",
                   "generator": "shadow_match",
-                  "date": "2026-05-23",
-                  "premium": "true"
+                  "date": "2026-05-23"
                 },
                 {
                   "id": "kosmos_cienie_shadow_match_005",
@@ -3101,8 +3094,7 @@
                   "solution": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_006_solution.png",
                   "type": "match_lines",
                   "generator": "shadow_match",
-                  "date": "2026-05-23",
-                  "premium": "true"
+                  "date": "2026-05-23"
                 }
               ],
               "subcategories": []
