@@ -2685,6 +2685,557 @@
         {
           "id": "dino_wiat",
           "title": "Dino Świat",
+          "subcategories": [
+            {
+              "id": "jungla_cienie",
+              "title": "Cienie",
+              "items": [
+                {
+                  "id": "jungla_cienie_1",
+                  "title": "Jungla cienie 1",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_1_match_lines.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_1_match_lines.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_1_match_lines_solution.png",
+                  "type": "match_lines"
+                },
+                {
+                  "id": "jungla_cienie_2",
+                  "title": "Jungla cienie 2",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_2_match_lines.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_2_match_lines.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_2_match_lines_solution.png",
+                  "type": "match_lines"
+                },
+                {
+                  "id": "jungla_cienie_3",
+                  "title": "Jungla cienie 3",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_3_match_lines.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_3_match_lines.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_3_match_lines_solution.png",
+                  "type": "match_lines"
+                },
+                {
+                  "id": "jungla_cienie_4",
+                  "title": "Jungla cienie 4",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_4_match_lines.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_4_match_lines.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_4_match_lines_solution.png",
+                  "type": "match_lines"
+                },
+                {
+                  "id": "jungla_cienie_5",
+                  "title": "Jungla cienie 5",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_5_match_lines.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_5_match_lines.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_5_match_lines_solution.png",
+                  "type": "match_lines"
+                },
+                {
+                  "id": "jungla_cienie_6",
+                  "title": "Jungla cienie 6",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_6_select_object.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_6_select_object.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_6_select_object_solution.png",
+                  "type": "select_object"
+                },
+                {
+                  "id": "jungla_cienie_7",
+                  "title": "Jungla cienie 7",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_7_select_object.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_7_select_object.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Cienie/Jungla_7_select_object_solution.png",
+                  "type": "select_object"
+                }
+              ],
+              "subcategories": []
+            },
+            {
+              "id": "jungla_labirynty",
+              "title": "Labirynty",
+              "items": [
+                {
+                  "id": "jungla_labirynt_1",
+                  "title": "Jungla labirynt 1",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_1_track.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_1_track.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_1_track_solution.png",
+                  "type": "track"
+                },
+                {
+                  "id": "jungla_labirynt_2",
+                  "title": "Jungla labirynt 2",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_2_track.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_2_track.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_2_track_solution.png",
+                  "type": "track"
+                },
+                {
+                  "id": "jungla_labirynt_3",
+                  "title": "Jungla labirynt 3",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_3_track.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_3_track.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_3_track_solution.png",
+                  "type": "track",
+                  "date": "2026-05-17"
+                },
+                {
+                  "id": "jungla_labirynt_4",
+                  "title": "Jungla labirynt 4",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_4_track.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_4_track.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_4_track_solution.png",
+                  "type": "track"
+                },
+                {
+                  "id": "jungla_labirynt_5",
+                  "title": "Jungla labirynt 5",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_5_track.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_5_track.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Labirynty/LabiryntJungla_5_track_solution.png",
+                  "type": "track"
+                }
+              ],
+              "subcategories": []
+            },
+            {
+              "id": "jungla_przyklejanki",
+              "title": "Przyklejanki",
+              "items": [
+                {
+                  "id": "jungla_wytnij_przyklej_1",
+                  "title": "Jungla wytnij i przyklej 1",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej1.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej1.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej1_solution.png",
+                  "type": "cut_paste"
+                },
+                {
+                  "id": "jungla_wytnij_przyklej_2",
+                  "title": "Jungla wytnij i przyklej 2",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej2.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej2.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej2_solution.png",
+                  "type": "cut_paste"
+                },
+                {
+                  "id": "jungla_wytnij_przyklej_3",
+                  "title": "Jungla wytnij i przyklej 3",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej3.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej3.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej3_solution.png",
+                  "type": "cut_paste"
+                },
+                {
+                  "id": "jungla_wytnij_przyklej_4",
+                  "title": "Jungla wytnij i przyklej 4",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej4.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej4.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej4_solution.png",
+                  "type": "cut_paste",
+                  "premium": "true"
+                },
+                {
+                  "id": "jungla_wytnij_przyklej_5",
+                  "title": "Jungla wytnij i przyklej 5",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej5.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej5.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Przyklejanki/jungla_wytnij_przyklej5_solution.png",
+                  "type": "cut_paste",
+                  "premium": "true"
+                }
+              ],
+              "subcategories": []
+            },
+            {
+              "id": "jungla_Literki",
+              "title": "Literki",
+              "items": [
+                {
+                  "id": "jungla_Literki_A",
+                  "title": "Jungla literki A",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_A.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_A.jpg",
+                  "premium": "true"
+                },
+                {
+                  "id": "jungla_Literki_B",
+                  "title": "Jungla literki B",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_B.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_B.jpg",
+                  "premium": "true"
+                },
+                {
+                  "id": "jungla_Literki_C",
+                  "title": "Jungla literki C",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_C.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_C.jpg"
+                },
+                {
+                  "id": "jungla_Literki_D",
+                  "title": "Jungla literki D",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_D.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_D.jpg"
+                },
+                {
+                  "id": "jungla_Literki_E",
+                  "title": "Jungla literki E",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_E.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_E.jpg",
+                  "premium": "true"
+                },
+                {
+                  "id": "jungla_Literki_F",
+                  "title": "Jungla literki F",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_F.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_F.jpg"
+                },
+                {
+                  "id": "jungla_Literki_G",
+                  "title": "Jungla literki G",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_G.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_G.jpg"
+                },
+                {
+                  "id": "jungla_Literki_H",
+                  "title": "Jungla literki H",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_H.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_H.jpg"
+                },
+                {
+                  "id": "jungla_Literki_I",
+                  "title": "Jungla literki I",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_I.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_I.jpg"
+                },
+                {
+                  "id": "jungla_Literki_J",
+                  "title": "Jungla literki J",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_J.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_J.jpg"
+                },
+                {
+                  "id": "jungla_Literki_K",
+                  "title": "Jungla literki K",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_K.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Literki/Jungla_K.jpg",
+                  "date": "2026-05-17"
+                }
+              ],
+              "subcategories": []
+            },
+            {
+              "id": "sladami_jungli",
+              "title": "Śladami Jungli",
+              "items": [
+                {
+                  "id": "jungle_dot_connect_001",
+                  "title": "Połącz kropki",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_001.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_001_thumb.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_001_solution.png",
+                  "type": "dot_connect",
+                  "generator": "dot_connect_lineart",
+                  "date": "2026-05-25"
+                },
+                {
+                  "id": "jungle_dot_connect_002",
+                  "title": "Połącz kropki",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_002.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_002_thumb.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_002_solution.png",
+                  "type": "dot_connect",
+                  "generator": "dot_connect_lineart",
+                  "date": "2026-05-25"
+                },
+                {
+                  "id": "jungle_dot_connect_003",
+                  "title": "Połącz kropki",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_003.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_003_thumb.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_003_solution.png",
+                  "type": "dot_connect",
+                  "generator": "dot_connect_lineart",
+                  "date": "2026-05-25"
+                },
+                {
+                  "id": "jungle_dot_connect_004",
+                  "title": "Połącz kropki",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_004.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_004_thumb.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_004_solution.png",
+                  "type": "dot_connect",
+                  "generator": "dot_connect_lineart",
+                  "date": "2026-05-25"
+                },
+                {
+                  "id": "jungle_dot_connect_005",
+                  "title": "Połącz kropki",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_005.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_005_thumb.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_005_solution.png",
+                  "type": "dot_connect",
+                  "generator": "dot_connect_lineart",
+                  "date": "2026-05-25"
+                },
+                {
+                  "id": "jungle_dot_connect_006",
+                  "title": "Połącz kropki",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_006.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_006_thumb.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_006_solution.png",
+                  "type": "dot_connect",
+                  "generator": "dot_connect_lineart",
+                  "date": "2026-05-25"
+                },
+                {
+                  "id": "jungle_dot_connect_007",
+                  "title": "Połącz kropki",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_007.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_007_thumb.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_007_solution.png",
+                  "type": "dot_connect",
+                  "generator": "dot_connect_lineart",
+                  "date": "2026-05-25"
+                },
+                {
+                  "id": "jungle_dot_connect_008",
+                  "title": "Połącz kropki",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_008.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_008_thumb.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_008_solution.png",
+                  "type": "dot_connect",
+                  "generator": "dot_connect_lineart",
+                  "date": "2026-05-25"
+                },
+                {
+                  "id": "jungle_dot_connect_009",
+                  "title": "Połącz kropki",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_009.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_009_thumb.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_009_solution.png",
+                  "type": "dot_connect",
+                  "generator": "dot_connect_lineart",
+                  "date": "2026-05-25"
+                },
+                {
+                  "id": "jungle_dot_connect_010",
+                  "title": "Połącz kropki",
+                  "pdf": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_010.pdf",
+                  "thumb": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_010_thumb.jpg",
+                  "solution": "categories/Serie/Przygoda_w_Jungli/Śladami_Jungli/jungle_dot_connect_010_solution.png",
+                  "type": "dot_connect",
+                  "generator": "dot_connect_lineart",
+                  "date": "2026-05-25"
+                }
+              ],
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "id": "kosmos",
+          "title": "Kosmiczna Przygoda",
+          "items": [],
+          "subcategories": [
+            {
+              "id": "kosmos_cienie",
+              "title": "Cienie",
+              "items": [
+                {
+                  "id": "kosmos_cienie_shadow_match_001",
+                  "title": "Połącz z cieniem",
+                  "pdf": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_001.pdf",
+                  "thumb": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_001_thumb.jpg",
+                  "solution": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_001_solution.png",
+                  "type": "match_lines",
+                  "generator": "shadow_match",
+                  "date": "2026-05-23"
+                },
+                {
+                  "id": "kosmos_cienie_shadow_match_002",
+                  "title": "Połącz z cieniem",
+                  "pdf": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_002.pdf",
+                  "thumb": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_002_thumb.jpg",
+                  "solution": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_002_solution.png",
+                  "type": "match_lines",
+                  "generator": "shadow_match",
+                  "date": "2026-05-23"
+                },
+                {
+                  "id": "kosmos_cienie_shadow_match_003",
+                  "title": "Połącz z cieniem",
+                  "pdf": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_003.pdf",
+                  "thumb": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_003_thumb.jpg",
+                  "solution": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_003_solution.png",
+                  "type": "match_lines",
+                  "generator": "shadow_match",
+                  "date": "2026-05-23",
+                  "premium": "true"
+                },
+                {
+                  "id": "kosmos_cienie_shadow_match_004",
+                  "title": "Połącz z cieniem",
+                  "pdf": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_004.pdf",
+                  "thumb": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_004_thumb.jpg",
+                  "solution": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_004_solution.png",
+                  "type": "match_lines",
+                  "generator": "shadow_match",
+                  "date": "2026-05-23",
+                  "premium": "true"
+                },
+                {
+                  "id": "kosmos_cienie_shadow_match_005",
+                  "title": "Połącz z cieniem",
+                  "pdf": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_005.pdf",
+                  "thumb": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_005_thumb.jpg",
+                  "solution": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_005_solution.png",
+                  "type": "match_lines",
+                  "generator": "shadow_match",
+                  "date": "2026-05-23"
+                },
+                {
+                  "id": "kosmos_cienie_shadow_match_006",
+                  "title": "Połącz z cieniem",
+                  "pdf": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_006.pdf",
+                  "thumb": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_006_thumb.jpg",
+                  "solution": "categories/Serie/Kosmiczna_Przygoda/Cienie/kosmos_cienie_shadow_match_006_solution.png",
+                  "type": "match_lines",
+                  "generator": "shadow_match",
+                  "date": "2026-05-23",
+                  "premium": "true"
+                }
+              ],
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "id": "pod_woda",
+          "title": "Pod Wodą",
+          "items": [],
+          "subcategories": [
+            {
+              "id": "cienie_pod_woda",
+              "title": "Cienie",
+              "items": [
+                {
+                  "id": "pod_woda_cienie_001",
+                  "title": "Połącz z cieniem",
+                  "pdf": "categories/Serie/Pod_Wodą/Cienie/pod_woda_cienie_001.pdf",
+                  "thumb": "categories/Serie/Pod_Wodą/Cienie/pod_woda_cienie_001_thumb.jpg",
+                  "solution": "categories/Serie/Pod_Wodą/Cienie/pod_woda_cienie_001_solution.png",
+                  "type": "match_lines",
+                  "generator": "shadow_match",
+                  "date": "2026-05-23"
+                },
+                {
+                  "id": "pod_woda_cienie_002",
+                  "title": "Połącz z cieniem",
+                  "pdf": "categories/Serie/Pod_Wodą/Cienie/pod_woda_cienie_002.pdf",
+                  "thumb": "categories/Serie/Pod_Wodą/Cienie/pod_woda_cienie_002_thumb.jpg",
+                  "solution": "categories/Serie/Pod_Wodą/Cienie/pod_woda_cienie_002_solution.png",
+                  "type": "match_lines",
+                  "generator": "shadow_match",
+                  "date": "2026-05-23"
+                },
+                {
+                  "id": "pod_woda_cienie_003",
+                  "title": "Połącz z cieniem",
+                  "pdf": "categories/Serie/Pod_Wodą/Cienie/pod_woda_cienie_003.pdf",
+                  "thumb": "categories/Serie/Pod_Wodą/Cienie/pod_woda_cienie_003_thumb.jpg",
+                  "solution": "categories/Serie/Pod_Wodą/Cienie/pod_woda_cienie_003_solution.png",
+                  "type": "match_lines",
+                  "generator": "shadow_match",
+                  "date": "2026-05-23"
+                },
+                {
+                  "id": "pod_woda_cienie_004",
+                  "title": "Połącz z cieniem",
+                  "pdf": "categories/Serie/Pod_Wodą/Cienie/pod_woda_cienie_004.pdf",
+                  "thumb": "categories/Serie/Pod_Wodą/Cienie/pod_woda_cienie_004_thumb.jpg",
+                  "solution": "categories/Serie/Pod_Wodą/Cienie/pod_woda_cienie_004_solution.png",
+                  "type": "match_lines",
+                  "generator": "shadow_match",
+                  "date": "2026-05-23"
+                }
+              ],
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "id": "skarby_piratow",
+          "title": "Skarby Piratów",
+          "items": [],
+          "subcategories": [
+            {
+              "id": "skarby_piratow_cienie",
+              "title": "Cienie",
+              "items": [
+                {
+                  "id": "skarby_piratow_cienie_003",
+                  "title": "Połącz z cieniem",
+                  "pdf": "categories/Serie/Skarby_Piratów/Cienie/skarby_piratow_cienie_003.pdf",
+                  "thumb": "categories/Serie/Skarby_Piratów/Cienie/skarby_piratow_cienie_003_thumb.jpg",
+                  "solution": "categories/Serie/Skarby_Piratów/Cienie/skarby_piratow_cienie_003_solution.png",
+                  "type": "match_lines",
+                  "generator": "shadow_match",
+                  "date": "2026-05-23",
+                  "instruction": {
+                    "pl": "Czy potrafisz połączyć zwierzęta z ich cieniami?",
+                    "en": "Can you match the animals with their shadows?"
+                  }
+                },
+                {
+                  "id": "skarby_piratow_cienie_004",
+                  "title": "Połącz z cieniem",
+                  "pdf": "categories/Serie/Skarby_Piratów/Cienie/skarby_piratow_cienie_004.pdf",
+                  "thumb": "categories/Serie/Skarby_Piratów/Cienie/skarby_piratow_cienie_004_thumb.jpg",
+                  "solution": "categories/Serie/Skarby_Piratów/Cienie/skarby_piratow_cienie_004_solution.png",
+                  "type": "match_lines",
+                  "generator": "shadow_match",
+                  "date": "2026-05-23",
+                  "instruction": {
+                    "pl": "Czy potrafisz połączyć zwierzęta z ich cieniami?",
+                    "en": "Can you match the animals with their shadows?"
+                  }
+                },
+                {
+                  "id": "skarby_piratow_cienie_001",
+                  "title": "Połącz z cieniem",
+                  "pdf": "categories/Serie/Skarby_Piratów/Cienie/skarby_piratow_cienie_001.pdf",
+                  "thumb": "categories/Serie/Skarby_Piratów/Cienie/skarby_piratow_cienie_001_thumb.jpg",
+                  "solution": "categories/Serie/Skarby_Piratów/Cienie/skarby_piratow_cienie_001_solution.png",
+                  "type": "match_lines",
+                  "generator": "shadow_match",
+                  "date": "2026-05-23",
+                  "instruction": {
+                    "pl": "Czy potrafisz połączyć zwierzęta z ich cieniami?",
+                    "en": "Can you match the animals with their shadows?"
+                  }
+                },
+                {
+                  "id": "skarby_piratow_cienie_002",
+                  "title": "Połącz z cieniem",
+                  "pdf": "categories/Serie/Skarby_Piratów/Cienie/skarby_piratow_cienie_002.pdf",
+                  "thumb": "categories/Serie/Skarby_Piratów/Cienie/skarby_piratow_cienie_002_thumb.jpg",
+                  "solution": "categories/Serie/Skarby_Piratów/Cienie/skarby_piratow_cienie_002_solution.png",
+                  "type": "match_lines",
+                  "generator": "shadow_match",
+                  "date": "2026-05-23",
+                  "instruction": {
+                    "pl": "Czy potrafisz połączyć zwierzęta z ich cieniami?",
+                    "en": "Can you match the animals with their shadows?"
+                  }
+                }
+              ],
+              "subcategories": []
+            }
+          ]
+        },
+        {
+          "id": "jungla_cienie",
+          "title": "Cienie",
           "items": [
             {
               "id": "labirynty_dino_wiat_maze_001",
