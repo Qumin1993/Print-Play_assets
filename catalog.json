@@ -92,7 +92,8 @@
           "subcategories": []
         }
       ],
-      "tile": "categories/pocz_cienie/pocz_cienie_tile.png"
+      "tile": "categories/pocz_cienie/pocz_cienie_tile.png",
+      "labelTile": "categories/category_tile_label.png"
     },
     {
       "id": "pocz_kropki",
@@ -155,7 +156,8 @@
           "subcategories": []
         }
       ],
-      "tile": "categories/pocz_kropki/pocz_kropki_tile.png"
+      "tile": "categories/pocz_kropki/pocz_kropki_tile.png",
+      "labelTile": "categories/category_tile_label.png"
     },
     {
       "id": "puzzle",
@@ -242,7 +244,8 @@
           "subcategories": []
         }
       ],
-      "tile": "categories/puzzle/puzzle_tile.png"
+      "tile": "categories/puzzle/puzzle_tile.png",
+      "labelTile": "categories/category_tile_label.png"
     },
     {
       "id": "kolorowanki",
@@ -305,7 +308,8 @@
           "subcategories": []
         }
       ],
-      "tile": "categories/kolorowanki/kolorowanki_tile.png"
+      "tile": "categories/kolorowanki/kolorowanki_tile.png",
+      "labelTile": "categories/category_tile_label.png"
     },
     {
       "id": "labirynty",
@@ -392,7 +396,8 @@
           "subcategories": []
         }
       ],
-      "tile": "categories/labirynty/labirynty_tile.png"
+      "tile": "categories/labirynty/labirynty_tile.png",
+      "labelTile": "categories/category_tile_label.png"
     },
     {
       "id": "rysowanie",
@@ -426,6 +431,102 @@
                   "instruction": "Trace or copy the picture"
                 }
               }
+            },
+            {
+              "id": "rysowanie_przygody_w_jungli_drawing_002",
+              "title": "Przygody w Jungli Drawing",
+              "pdf": "categories/rysowanie/przygody_w_jungli/rysowanie_przygody_w_jungli_drawing_002.pdf",
+              "thumb": "categories/rysowanie/przygody_w_jungli/rysowanie_przygody_w_jungli_drawing_002_thumb.jpg",
+              "solution": "categories/rysowanie/przygody_w_jungli/rysowanie_przygody_w_jungli_drawing_002_solution.png",
+              "type": "drawing",
+              "generator": "drawing_trace",
+              "date": "2026-06-14",
+              "title_pl": "Przygody w Jungli Drawing",
+              "title_en": "Drawing",
+              "instruction_pl": "Odrysuj obrazek",
+              "instruction_en": "Trace or copy the picture",
+              "texts": {
+                "pl": {
+                  "title": "Przygody w Jungli Drawing",
+                  "instruction": "Odrysuj obrazek"
+                },
+                "en": {
+                  "title": "Drawing",
+                  "instruction": "Trace or copy the picture"
+                }
+              }
+            },
+            {
+              "id": "rysowanie_przygody_w_jungli_drawing_003",
+              "title": "Przygody w Jungli Drawing",
+              "pdf": "categories/rysowanie/przygody_w_jungli/rysowanie_przygody_w_jungli_drawing_003.pdf",
+              "thumb": "categories/rysowanie/przygody_w_jungli/rysowanie_przygody_w_jungli_drawing_003_thumb.jpg",
+              "solution": "categories/rysowanie/przygody_w_jungli/rysowanie_przygody_w_jungli_drawing_003_solution.png",
+              "type": "drawing",
+              "generator": "drawing_trace",
+              "date": "2026-06-14",
+              "title_pl": "Przygody w Jungli Drawing",
+              "title_en": "Drawing",
+              "instruction_pl": "Odrysuj obrazek",
+              "instruction_en": "Trace or copy the picture",
+              "texts": {
+                "pl": {
+                  "title": "Przygody w Jungli Drawing",
+                  "instruction": "Odrysuj obrazek"
+                },
+                "en": {
+                  "title": "Drawing",
+                  "instruction": "Trace or copy the picture"
+                }
+              }
+            },
+            {
+              "id": "rysowanie_przygody_w_jungli_drawing_004",
+              "title": "Przygody w Jungli Drawing",
+              "pdf": "categories/rysowanie/przygody_w_jungli/rysowanie_przygody_w_jungli_drawing_004.pdf",
+              "thumb": "categories/rysowanie/przygody_w_jungli/rysowanie_przygody_w_jungli_drawing_004_thumb.jpg",
+              "solution": "categories/rysowanie/przygody_w_jungli/rysowanie_przygody_w_jungli_drawing_004_solution.png",
+              "type": "drawing",
+              "generator": "drawing_trace",
+              "date": "2026-06-14",
+              "title_pl": "Przygody w Jungli Drawing",
+              "title_en": "Drawing",
+              "instruction_pl": "Odrysuj obrazek",
+              "instruction_en": "Trace or copy the picture",
+              "texts": {
+                "pl": {
+                  "title": "Przygody w Jungli Drawing",
+                  "instruction": "Odrysuj obrazek"
+                },
+                "en": {
+                  "title": "Drawing",
+                  "instruction": "Trace or copy the picture"
+                }
+              }
+            },
+            {
+              "id": "rysowanie_przygody_w_jungli_drawing_005",
+              "title": "Przygody w Jungli Drawing",
+              "pdf": "categories/rysowanie/przygody_w_jungli/rysowanie_przygody_w_jungli_drawing_005.pdf",
+              "thumb": "categories/rysowanie/przygody_w_jungli/rysowanie_przygody_w_jungli_drawing_005_thumb.jpg",
+              "solution": "categories/rysowanie/przygody_w_jungli/rysowanie_przygody_w_jungli_drawing_005_solution.png",
+              "type": "drawing",
+              "generator": "drawing_trace",
+              "date": "2026-06-14",
+              "title_pl": "Przygody w Jungli Drawing",
+              "title_en": "Drawing",
+              "instruction_pl": "Odrysuj obrazek",
+              "instruction_en": "Trace or copy the picture",
+              "texts": {
+                "pl": {
+                  "title": "Przygody w Jungli Drawing",
+                  "instruction": "Odrysuj obrazek"
+                },
+                "en": {
+                  "title": "Drawing",
+                  "instruction": "Trace or copy the picture"
+                }
+              }
             }
           ],
           "subcategories": []
@@ -433,7 +534,56 @@
         {
           "id": "dino_wiat",
           "title": "Dino Świat",
-          "items": [],
+          "items": [
+            {
+              "id": "rysowanie_dino_wiat_drawing_001",
+              "title": "Dino Świat Drawing",
+              "pdf": "categories/rysowanie/dino_wiat/rysowanie_dino_wiat_drawing_001.pdf",
+              "thumb": "categories/rysowanie/dino_wiat/rysowanie_dino_wiat_drawing_001_thumb.jpg",
+              "solution": "categories/rysowanie/dino_wiat/rysowanie_dino_wiat_drawing_001_solution.png",
+              "type": "drawing",
+              "generator": "drawing_trace",
+              "date": "2026-06-14",
+              "title_pl": "Dino Świat Drawing",
+              "title_en": "Drawing",
+              "instruction_pl": "Odrysuj obrazek",
+              "instruction_en": "Trace or copy the picture",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Drawing",
+                  "instruction": "Odrysuj obrazek"
+                },
+                "en": {
+                  "title": "Drawing",
+                  "instruction": "Trace or copy the picture"
+                }
+              }
+            },
+            {
+              "id": "rysowanie_dino_wiat_drawing_002",
+              "title": "Dino Świat Drawing",
+              "pdf": "categories/rysowanie/dino_wiat/rysowanie_dino_wiat_drawing_002.pdf",
+              "thumb": "categories/rysowanie/dino_wiat/rysowanie_dino_wiat_drawing_002_thumb.jpg",
+              "solution": "categories/rysowanie/dino_wiat/rysowanie_dino_wiat_drawing_002_solution.png",
+              "type": "drawing",
+              "generator": "drawing_trace",
+              "date": "2026-06-14",
+              "title_pl": "Dino Świat Drawing",
+              "title_en": "Drawing",
+              "instruction_pl": "Odrysuj obrazek",
+              "instruction_en": "Trace or copy the picture",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Drawing",
+                  "instruction": "Odrysuj obrazek"
+                },
+                "en": {
+                  "title": "Drawing",
+                  "instruction": "Trace or copy the picture"
+                }
+              }
+            }
+          ],
           "subcategories": []
         },
         {
@@ -455,7 +605,8 @@
           "subcategories": []
         }
       ],
-      "tile": "categories/rysowanie/rysowanie_tile.png"
+      "tile": "categories/rysowanie/rysowanie_tile.png",
+      "labelTile": "categories/category_tile_label.png"
     },
     {
       "id": "liczenie",
@@ -542,7 +693,8 @@
           "subcategories": []
         }
       ],
-      "tile": "categories/liczenie/liczenie_tile.png"
+      "tile": "categories/liczenie/liczenie_tile.png",
+      "labelTile": "categories/category_tile_label.png"
     }
   ],
   "idCounters": {
