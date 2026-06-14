@@ -189,6 +189,30 @@
                   "instruction": "Cut out the pieces and rebuild the picture"
                 }
               }
+            },
+            {
+              "id": "puzzle_przygody_w_jungli_cut_paste_006",
+              "title": "Przygody w Jungli Puzzle",
+              "pdf": "categories/puzzle/przygody_w_jungli/puzzle_przygody_w_jungli_cut_paste_006.pdf",
+              "thumb": "categories/puzzle/przygody_w_jungli/puzzle_przygody_w_jungli_cut_paste_006_thumb.jpg",
+              "solution": "categories/puzzle/przygody_w_jungli/puzzle_przygody_w_jungli_cut_paste_006_solution.png",
+              "type": "cut_paste",
+              "generator": "cut_paste_grid",
+              "date": "2026-06-14",
+              "title_pl": "Przygody w Jungli Puzzle",
+              "title_en": "Puzzle",
+              "instruction_pl": "Wytnij puzzle i ułóż obrazek",
+              "instruction_en": "Cut out the pieces and rebuild the picture",
+              "texts": {
+                "pl": {
+                  "title": "Przygody w Jungli Puzzle",
+                  "instruction": "Wytnij puzzle i ułóż obrazek"
+                },
+                "en": {
+                  "title": "Puzzle",
+                  "instruction": "Cut out the pieces and rebuild the picture"
+                }
+              }
             }
           ],
           "subcategories": []
