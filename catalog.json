@@ -15,7 +15,56 @@
         {
           "id": "przygody_w_jungli",
           "title": "Przygody w Jungli",
-          "items": [],
+          "items": [
+            {
+              "id": "pocz_cienie_przygody_w_jungli_shadow_match_022",
+              "title": "Przygody w Jungli Shadow Match",
+              "pdf": "categories/pocz_cienie/przygody_w_jungli/pocz_cienie_przygody_w_jungli_shadow_match_022.pdf",
+              "thumb": "categories/pocz_cienie/przygody_w_jungli/pocz_cienie_przygody_w_jungli_shadow_match_022_thumb.jpg",
+              "solution": "categories/pocz_cienie/przygody_w_jungli/pocz_cienie_przygody_w_jungli_shadow_match_022_solution.png",
+              "type": "match_lines",
+              "generator": "shadow_match",
+              "date": "2026-06-14",
+              "title_pl": "Przygody w Jungli Shadow Match",
+              "title_en": "Shadow Match",
+              "instruction_pl": "Połącz obrazki z ich cieniami",
+              "instruction_en": "Match the pictures to their shadows",
+              "texts": {
+                "pl": {
+                  "title": "Przygody w Jungli Shadow Match",
+                  "instruction": "Połącz obrazki z ich cieniami"
+                },
+                "en": {
+                  "title": "Shadow Match",
+                  "instruction": "Match the pictures to their shadows"
+                }
+              }
+            },
+            {
+              "id": "pocz_cienie_przygody_w_jungli_pick_shadow_001",
+              "title": "Przygody w Jungli Pick Shadow",
+              "pdf": "categories/pocz_cienie/przygody_w_jungli/pocz_cienie_przygody_w_jungli_pick_shadow_001.pdf",
+              "thumb": "categories/pocz_cienie/przygody_w_jungli/pocz_cienie_przygody_w_jungli_pick_shadow_001_thumb.jpg",
+              "solution": "categories/pocz_cienie/przygody_w_jungli/pocz_cienie_przygody_w_jungli_pick_shadow_001_solution.png",
+              "type": "select_object",
+              "generator": "pick_shadow",
+              "date": "2026-06-14",
+              "title_pl": "Przygody w Jungli Pick Shadow",
+              "title_en": "Pick Shadow",
+              "instruction_pl": "Znajdź właściwy cień",
+              "instruction_en": "Find the correct shadow",
+              "texts": {
+                "pl": {
+                  "title": "Przygody w Jungli Pick Shadow",
+                  "instruction": "Znajdź właściwy cień"
+                },
+                "en": {
+                  "title": "Pick Shadow",
+                  "instruction": "Find the correct shadow"
+                }
+              }
+            }
+          ],
           "subcategories": []
         },
         {
@@ -53,7 +102,32 @@
         {
           "id": "przygody_w_jungli",
           "title": "Przygody w Jungli",
-          "items": [],
+          "items": [
+            {
+              "id": "pocz_kropki_przygody_w_jungli_dot_connect_016",
+              "title": "Przygody w Jungli Dot Connect",
+              "pdf": "categories/pocz_kropki/przygody_w_jungli/pocz_kropki_przygody_w_jungli_dot_connect_016.pdf",
+              "thumb": "categories/pocz_kropki/przygody_w_jungli/pocz_kropki_przygody_w_jungli_dot_connect_016_thumb.jpg",
+              "solution": "categories/pocz_kropki/przygody_w_jungli/pocz_kropki_przygody_w_jungli_dot_connect_016_solution.png",
+              "type": "dot_connect",
+              "generator": "dot_connect_lineart",
+              "date": "2026-06-14",
+              "title_pl": "Przygody w Jungli Dot Connect",
+              "title_en": "Dot Connect",
+              "instruction_pl": "Połącz kropki po kolei",
+              "instruction_en": "Connect the dots in order",
+              "texts": {
+                "pl": {
+                  "title": "Przygody w Jungli Dot Connect",
+                  "instruction": "Połącz kropki po kolei"
+                },
+                "en": {
+                  "title": "Dot Connect",
+                  "instruction": "Connect the dots in order"
+                }
+              }
+            }
+          ],
           "subcategories": []
         },
         {
@@ -91,7 +165,32 @@
         {
           "id": "przygody_w_jungli",
           "title": "Przygody w Jungli",
-          "items": [],
+          "items": [
+            {
+              "id": "puzzle_przygody_w_jungli_cut_paste_005",
+              "title": "Przygody w Jungli Puzzle",
+              "pdf": "categories/puzzle/przygody_w_jungli/puzzle_przygody_w_jungli_cut_paste_005.pdf",
+              "thumb": "categories/puzzle/przygody_w_jungli/puzzle_przygody_w_jungli_cut_paste_005_thumb.jpg",
+              "solution": "categories/puzzle/przygody_w_jungli/puzzle_przygody_w_jungli_cut_paste_005_solution.png",
+              "type": "cut_paste",
+              "generator": "cut_paste_grid",
+              "date": "2026-06-14",
+              "title_pl": "Przygody w Jungli Puzzle",
+              "title_en": "Puzzle",
+              "instruction_pl": "Wytnij puzzle i ułóż obrazek",
+              "instruction_en": "Cut out the pieces and rebuild the picture",
+              "texts": {
+                "pl": {
+                  "title": "Przygody w Jungli Puzzle",
+                  "instruction": "Wytnij puzzle i ułóż obrazek"
+                },
+                "en": {
+                  "title": "Puzzle",
+                  "instruction": "Cut out the pieces and rebuild the picture"
+                }
+              }
+            }
+          ],
           "subcategories": []
         },
         {
@@ -129,7 +228,32 @@
         {
           "id": "przygody_w_jungli",
           "title": "Przygody w Jungli",
-          "items": [],
+          "items": [
+            {
+              "id": "kolorowanki_przygody_w_jungli_coloring_001",
+              "title": "Przygody w Jungli Coloring",
+              "pdf": "categories/kolorowanki/przygody_w_jungli/kolorowanki_przygody_w_jungli_coloring_001.pdf",
+              "thumb": "categories/kolorowanki/przygody_w_jungli/kolorowanki_przygody_w_jungli_coloring_001_thumb.jpg",
+              "solution": "categories/kolorowanki/przygody_w_jungli/kolorowanki_przygody_w_jungli_coloring_001_solution.png",
+              "type": "paint",
+              "generator": "coloring",
+              "date": "2026-06-14",
+              "title_pl": "Przygody w Jungli Coloring",
+              "title_en": "Coloring",
+              "instruction_pl": "Pokoloruj obrazek",
+              "instruction_en": "Color the picture",
+              "texts": {
+                "pl": {
+                  "title": "Przygody w Jungli Coloring",
+                  "instruction": "Pokoloruj obrazek"
+                },
+                "en": {
+                  "title": "Coloring",
+                  "instruction": "Color the picture"
+                }
+              }
+            }
+          ],
           "subcategories": []
         },
         {
@@ -167,7 +291,56 @@
         {
           "id": "przygody_w_jungli",
           "title": "Przygody w Jungli",
-          "items": [],
+          "items": [
+            {
+              "id": "labirynty_przygody_w_jungli_maze_007",
+              "title": "Przygody w Jungli Maze",
+              "pdf": "categories/labirynty/przygody_w_jungli/labirynty_przygody_w_jungli_maze_007.pdf",
+              "thumb": "categories/labirynty/przygody_w_jungli/labirynty_przygody_w_jungli_maze_007_thumb.jpg",
+              "solution": "categories/labirynty/przygody_w_jungli/labirynty_przygody_w_jungli_maze_007_solution.png",
+              "type": "track",
+              "generator": "square_maze",
+              "date": "2026-06-14",
+              "title_pl": "Przygody w Jungli Maze",
+              "title_en": "Maze",
+              "instruction_pl": "Przejdź przez labirynt",
+              "instruction_en": "Follow the maze path",
+              "texts": {
+                "pl": {
+                  "title": "Przygody w Jungli Maze",
+                  "instruction": "Przejdź przez labirynt"
+                },
+                "en": {
+                  "title": "Maze",
+                  "instruction": "Follow the maze path"
+                }
+              }
+            },
+            {
+              "id": "labirynty_przygody_w_jungli_maze_008",
+              "title": "Przygody w Jungli Maze",
+              "pdf": "categories/labirynty/przygody_w_jungli/labirynty_przygody_w_jungli_maze_008.pdf",
+              "thumb": "categories/labirynty/przygody_w_jungli/labirynty_przygody_w_jungli_maze_008_thumb.jpg",
+              "solution": "categories/labirynty/przygody_w_jungli/labirynty_przygody_w_jungli_maze_008_solution.png",
+              "type": "track",
+              "generator": "circular_maze",
+              "date": "2026-06-14",
+              "title_pl": "Przygody w Jungli Maze",
+              "title_en": "Maze",
+              "instruction_pl": "Przejdź przez labirynt",
+              "instruction_en": "Follow the maze path",
+              "texts": {
+                "pl": {
+                  "title": "Przygody w Jungli Maze",
+                  "instruction": "Przejdź przez labirynt"
+                },
+                "en": {
+                  "title": "Maze",
+                  "instruction": "Follow the maze path"
+                }
+              }
+            }
+          ],
           "subcategories": []
         },
         {
@@ -205,7 +378,32 @@
         {
           "id": "przygody_w_jungli",
           "title": "Przygody w Jungli",
-          "items": [],
+          "items": [
+            {
+              "id": "rysowanie_przygody_w_jungli_drawing_001",
+              "title": "Przygody w Jungli Drawing",
+              "pdf": "categories/rysowanie/przygody_w_jungli/rysowanie_przygody_w_jungli_drawing_001.pdf",
+              "thumb": "categories/rysowanie/przygody_w_jungli/rysowanie_przygody_w_jungli_drawing_001_thumb.jpg",
+              "solution": "categories/rysowanie/przygody_w_jungli/rysowanie_przygody_w_jungli_drawing_001_solution.png",
+              "type": "drawing",
+              "generator": "drawing_trace",
+              "date": "2026-06-14",
+              "title_pl": "Przygody w Jungli Drawing",
+              "title_en": "Drawing",
+              "instruction_pl": "Odrysuj obrazek",
+              "instruction_en": "Trace or copy the picture",
+              "texts": {
+                "pl": {
+                  "title": "Przygody w Jungli Drawing",
+                  "instruction": "Odrysuj obrazek"
+                },
+                "en": {
+                  "title": "Drawing",
+                  "instruction": "Trace or copy the picture"
+                }
+              }
+            }
+          ],
           "subcategories": []
         },
         {
@@ -243,7 +441,56 @@
         {
           "id": "przygody_w_jungli",
           "title": "Przygody w Jungli",
-          "items": [],
+          "items": [
+            {
+              "id": "liczenie_przygody_w_jungli_counting_001",
+              "title": "Przygody w Jungli Counting",
+              "pdf": "categories/liczenie/przygody_w_jungli/liczenie_przygody_w_jungli_counting_001.pdf",
+              "thumb": "categories/liczenie/przygody_w_jungli/liczenie_przygody_w_jungli_counting_001_thumb.jpg",
+              "solution": "categories/liczenie/przygody_w_jungli/liczenie_przygody_w_jungli_counting_001_solution.png",
+              "type": "counting",
+              "generator": "counting_scatter",
+              "date": "2026-06-14",
+              "title_pl": "Przygody w Jungli Counting",
+              "title_en": "Counting",
+              "instruction_pl": "Policz obrazki i wpisz liczby",
+              "instruction_en": "Count the pictures and write the numbers",
+              "texts": {
+                "pl": {
+                  "title": "Przygody w Jungli Counting",
+                  "instruction": "Policz obrazki i wpisz liczby"
+                },
+                "en": {
+                  "title": "Counting",
+                  "instruction": "Count the pictures and write the numbers"
+                }
+              }
+            },
+            {
+              "id": "liczenie_przygody_w_jungli_counting_rows_001",
+              "title": "Przygody w Jungli Counting Rows",
+              "pdf": "categories/liczenie/przygody_w_jungli/liczenie_przygody_w_jungli_counting_rows_001.pdf",
+              "thumb": "categories/liczenie/przygody_w_jungli/liczenie_przygody_w_jungli_counting_rows_001_thumb.jpg",
+              "solution": "categories/liczenie/przygody_w_jungli/liczenie_przygody_w_jungli_counting_rows_001_solution.png",
+              "type": "counting",
+              "generator": "counting_rows",
+              "date": "2026-06-14",
+              "title_pl": "Przygody w Jungli Counting Rows",
+              "title_en": "Counting Rows",
+              "instruction_pl": "Policz obrazki w każdym rzędzie",
+              "instruction_en": "Count the pictures in each row",
+              "texts": {
+                "pl": {
+                  "title": "Przygody w Jungli Counting Rows",
+                  "instruction": "Policz obrazki w każdym rzędzie"
+                },
+                "en": {
+                  "title": "Counting Rows",
+                  "instruction": "Count the pictures in each row"
+                }
+              }
+            }
+          ],
           "subcategories": []
         },
         {
