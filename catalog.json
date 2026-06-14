@@ -11,7 +11,38 @@
       "id": "pocz_cienie",
       "title": "Połącz Cienie",
       "items": [],
-      "subcategories": [],
+      "subcategories": [
+        {
+          "id": "przygody_w_jungli",
+          "title": "Przygody w Jungli",
+          "items": [],
+          "subcategories": []
+        },
+        {
+          "id": "dino_wiat",
+          "title": "Dino Świat",
+          "items": [],
+          "subcategories": []
+        },
+        {
+          "id": "wrd_gwiazd",
+          "title": "Wśród Gwiazd",
+          "items": [],
+          "subcategories": []
+        },
+        {
+          "id": "bkitna_przygoda",
+          "title": "Błękitna Przygoda",
+          "items": [],
+          "subcategories": []
+        },
+        {
+          "id": "ahoooj_kapitanie",
+          "title": "Ahoooj Kapitanie",
+          "items": [],
+          "subcategories": []
+        }
+      ],
       "tile": "categories/pocz_cienie/pocz_cienie_tile.png"
     },
     {
@@ -132,7 +163,38 @@
       "id": "labirynty",
       "title": "Labirynty",
       "items": [],
-      "subcategories": [],
+      "subcategories": [
+        {
+          "id": "przygody_w_jungli",
+          "title": "Przygody w Jungli",
+          "items": [],
+          "subcategories": []
+        },
+        {
+          "id": "dino_wiat",
+          "title": "Dino Świat",
+          "items": [],
+          "subcategories": []
+        },
+        {
+          "id": "wrd_gwiazd",
+          "title": "Wśród Gwiazd",
+          "items": [],
+          "subcategories": []
+        },
+        {
+          "id": "bkitna_przygoda",
+          "title": "Błękitna Przygoda",
+          "items": [],
+          "subcategories": []
+        },
+        {
+          "id": "ahoooj_kapitanie",
+          "title": "Ahoooj Kapitanie",
+          "items": [],
+          "subcategories": []
+        }
+      ],
       "tile": "categories/labirynty/labirynty_tile.png"
     },
     {
