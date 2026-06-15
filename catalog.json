@@ -24,7 +24,7 @@
               "solution": "categories/pocz_cienie/przygody_w_jungli/pocz_cienie_przygody_w_jungli_shadow_match_022_solution.png",
               "type": "match_lines",
               "generator": "shadow_match",
-              "date": "2026-06-14",
+              "date": "2026-06-15",
               "title_pl": "Przygody w Jungli Shadow Match",
               "title_en": "Shadow Match",
               "instruction_pl": "Połącz obrazki z ich cieniami",
@@ -41,21 +41,220 @@
               }
             },
             {
-              "id": "pocz_cienie_przygody_w_jungli_pick_shadow_001",
-              "title": "Przygody w Jungli Pick Shadow",
-              "pdf": "categories/pocz_cienie/przygody_w_jungli/pocz_cienie_przygody_w_jungli_pick_shadow_001.pdf",
-              "thumb": "categories/pocz_cienie/przygody_w_jungli/pocz_cienie_przygody_w_jungli_pick_shadow_001_thumb.jpg",
-              "solution": "categories/pocz_cienie/przygody_w_jungli/pocz_cienie_przygody_w_jungli_pick_shadow_001_solution.png",
+              "id": "pocz_cienie_przygody_w_jungli_shadow_match_023",
+              "title": "Przygody w Jungli Shadow Match",
+              "pdf": "categories/pocz_cienie/przygody_w_jungli/pocz_cienie_przygody_w_jungli_shadow_match_023.pdf",
+              "thumb": "categories/pocz_cienie/przygody_w_jungli/pocz_cienie_przygody_w_jungli_shadow_match_023_thumb.jpg",
+              "solution": "categories/pocz_cienie/przygody_w_jungli/pocz_cienie_przygody_w_jungli_shadow_match_023_solution.png",
+              "type": "match_lines",
+              "generator": "shadow_match",
+              "date": "2026-06-15",
+              "title_pl": "Przygody w Jungli Shadow Match",
+              "title_en": "Shadow Match",
+              "instruction_pl": "Połącz obrazki z ich cieniami",
+              "instruction_en": "Match the pictures to their shadows",
+              "texts": {
+                "pl": {
+                  "title": "Przygody w Jungli Shadow Match",
+                  "instruction": "Połącz obrazki z ich cieniami"
+                },
+                "en": {
+                  "title": "Shadow Match",
+                  "instruction": "Match the pictures to their shadows"
+                }
+              }
+            },
+            {
+              "id": "pocz_cienie_przygody_w_jungli_shadow_match_024",
+              "title": "Przygody w Jungli Shadow Match",
+              "pdf": "categories/pocz_cienie/przygody_w_jungli/pocz_cienie_przygody_w_jungli_shadow_match_024.pdf",
+              "thumb": "categories/pocz_cienie/przygody_w_jungli/pocz_cienie_przygody_w_jungli_shadow_match_024_thumb.jpg",
+              "solution": "categories/pocz_cienie/przygody_w_jungli/pocz_cienie_przygody_w_jungli_shadow_match_024_solution.png",
+              "type": "match_lines",
+              "generator": "shadow_match",
+              "date": "2026-06-15",
+              "title_pl": "Przygody w Jungli Shadow Match",
+              "title_en": "Shadow Match",
+              "instruction_pl": "Połącz obrazki z ich cieniami",
+              "instruction_en": "Match the pictures to their shadows",
+              "texts": {
+                "pl": {
+                  "title": "Przygody w Jungli Shadow Match",
+                  "instruction": "Połącz obrazki z ich cieniami"
+                },
+                "en": {
+                  "title": "Shadow Match",
+                  "instruction": "Match the pictures to their shadows"
+                }
+              }
+            },
+            {
+              "id": "pocz_cienie_przygody_w_jungli_shadow_match_025",
+              "title": "Przygody w Jungli Shadow Match",
+              "pdf": "categories/pocz_cienie/przygody_w_jungli/pocz_cienie_przygody_w_jungli_shadow_match_025.pdf",
+              "thumb": "categories/pocz_cienie/przygody_w_jungli/pocz_cienie_przygody_w_jungli_shadow_match_025_thumb.jpg",
+              "solution": "categories/pocz_cienie/przygody_w_jungli/pocz_cienie_przygody_w_jungli_shadow_match_025_solution.png",
+              "type": "match_lines",
+              "generator": "shadow_match",
+              "date": "2026-06-15",
+              "title_pl": "Przygody w Jungli Shadow Match",
+              "title_en": "Shadow Match",
+              "instruction_pl": "Połącz obrazki z ich cieniami",
+              "instruction_en": "Match the pictures to their shadows",
+              "texts": {
+                "pl": {
+                  "title": "Przygody w Jungli Shadow Match",
+                  "instruction": "Połącz obrazki z ich cieniami"
+                },
+                "en": {
+                  "title": "Shadow Match",
+                  "instruction": "Match the pictures to their shadows"
+                }
+              }
+            },
+            {
+              "id": "pocz_cienie_przygody_w_jungli_shadow_match_026",
+              "title": "Przygody w Jungli Shadow Match",
+              "pdf": "categories/pocz_cienie/przygody_w_jungli/pocz_cienie_przygody_w_jungli_shadow_match_026.pdf",
+              "thumb": "categories/pocz_cienie/przygody_w_jungli/pocz_cienie_przygody_w_jungli_shadow_match_026_thumb.jpg",
+              "solution": "categories/pocz_cienie/przygody_w_jungli/pocz_cienie_przygody_w_jungli_shadow_match_026_solution.png",
+              "type": "match_lines",
+              "generator": "shadow_match",
+              "date": "2026-06-15",
+              "title_pl": "Przygody w Jungli Shadow Match",
+              "title_en": "Shadow Match",
+              "instruction_pl": "Połącz obrazki z ich cieniami",
+              "instruction_en": "Match the pictures to their shadows",
+              "texts": {
+                "pl": {
+                  "title": "Przygody w Jungli Shadow Match",
+                  "instruction": "Połącz obrazki z ich cieniami"
+                },
+                "en": {
+                  "title": "Shadow Match",
+                  "instruction": "Match the pictures to their shadows"
+                }
+              }
+            }
+          ],
+          "subcategories": []
+        },
+        {
+          "id": "dino_wiat",
+          "title": "Dino Świat",
+          "items": [
+            {
+              "id": "pocz_cienie_dino_wiat_pick_shadow_004",
+              "title": "Dino Świat Pick Shadow",
+              "pdf": "categories/pocz_cienie/dino_wiat/pocz_cienie_dino_wiat_pick_shadow_004.pdf",
+              "thumb": "categories/pocz_cienie/dino_wiat/pocz_cienie_dino_wiat_pick_shadow_004_thumb.jpg",
+              "solution": "categories/pocz_cienie/dino_wiat/pocz_cienie_dino_wiat_pick_shadow_004_solution.png",
               "type": "select_object",
               "generator": "pick_shadow",
-              "date": "2026-06-14",
-              "title_pl": "Przygody w Jungli Pick Shadow",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Pick Shadow",
               "title_en": "Pick Shadow",
               "instruction_pl": "Znajdź właściwy cień",
               "instruction_en": "Find the correct shadow",
               "texts": {
                 "pl": {
-                  "title": "Przygody w Jungli Pick Shadow",
+                  "title": "Dino Świat Pick Shadow",
+                  "instruction": "Znajdź właściwy cień"
+                },
+                "en": {
+                  "title": "Pick Shadow",
+                  "instruction": "Find the correct shadow"
+                }
+              }
+            },
+            {
+              "id": "pocz_cienie_dino_wiat_pick_shadow_005",
+              "title": "Dino Świat Pick Shadow",
+              "pdf": "categories/pocz_cienie/dino_wiat/pocz_cienie_dino_wiat_pick_shadow_005.pdf",
+              "thumb": "categories/pocz_cienie/dino_wiat/pocz_cienie_dino_wiat_pick_shadow_005_thumb.jpg",
+              "solution": "categories/pocz_cienie/dino_wiat/pocz_cienie_dino_wiat_pick_shadow_005_solution.png",
+              "type": "select_object",
+              "generator": "pick_shadow",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Pick Shadow",
+              "title_en": "Pick Shadow",
+              "instruction_pl": "Znajdź właściwy cień",
+              "instruction_en": "Find the correct shadow",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Pick Shadow",
+                  "instruction": "Znajdź właściwy cień"
+                },
+                "en": {
+                  "title": "Pick Shadow",
+                  "instruction": "Find the correct shadow"
+                }
+              }
+            },
+            {
+              "id": "pocz_cienie_dino_wiat_pick_shadow_006",
+              "title": "Dino Świat Pick Shadow",
+              "pdf": "categories/pocz_cienie/dino_wiat/pocz_cienie_dino_wiat_pick_shadow_006.pdf",
+              "thumb": "categories/pocz_cienie/dino_wiat/pocz_cienie_dino_wiat_pick_shadow_006_thumb.jpg",
+              "solution": "categories/pocz_cienie/dino_wiat/pocz_cienie_dino_wiat_pick_shadow_006_solution.png",
+              "type": "select_object",
+              "generator": "pick_shadow",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Pick Shadow",
+              "title_en": "Pick Shadow",
+              "instruction_pl": "Znajdź właściwy cień",
+              "instruction_en": "Find the correct shadow",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Pick Shadow",
+                  "instruction": "Znajdź właściwy cień"
+                },
+                "en": {
+                  "title": "Pick Shadow",
+                  "instruction": "Find the correct shadow"
+                }
+              }
+            },
+            {
+              "id": "pocz_cienie_dino_wiat_pick_shadow_007",
+              "title": "Dino Świat Pick Shadow",
+              "pdf": "categories/pocz_cienie/dino_wiat/pocz_cienie_dino_wiat_pick_shadow_007.pdf",
+              "thumb": "categories/pocz_cienie/dino_wiat/pocz_cienie_dino_wiat_pick_shadow_007_thumb.jpg",
+              "solution": "categories/pocz_cienie/dino_wiat/pocz_cienie_dino_wiat_pick_shadow_007_solution.png",
+              "type": "select_object",
+              "generator": "pick_shadow",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Pick Shadow",
+              "title_en": "Pick Shadow",
+              "instruction_pl": "Znajdź właściwy cień",
+              "instruction_en": "Find the correct shadow",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Pick Shadow",
+                  "instruction": "Znajdź właściwy cień"
+                },
+                "en": {
+                  "title": "Pick Shadow",
+                  "instruction": "Find the correct shadow"
+                }
+              }
+            },
+            {
+              "id": "pocz_cienie_dino_wiat_pick_shadow_008",
+              "title": "Dino Świat Pick Shadow",
+              "pdf": "categories/pocz_cienie/dino_wiat/pocz_cienie_dino_wiat_pick_shadow_008.pdf",
+              "thumb": "categories/pocz_cienie/dino_wiat/pocz_cienie_dino_wiat_pick_shadow_008_thumb.jpg",
+              "solution": "categories/pocz_cienie/dino_wiat/pocz_cienie_dino_wiat_pick_shadow_008_solution.png",
+              "type": "select_object",
+              "generator": "pick_shadow",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Pick Shadow",
+              "title_en": "Pick Shadow",
+              "instruction_pl": "Znajdź właściwy cień",
+              "instruction_en": "Find the correct shadow",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Pick Shadow",
                   "instruction": "Znajdź właściwy cień"
                 },
                 "en": {
@@ -68,27 +267,384 @@
           "subcategories": []
         },
         {
-          "id": "dino_wiat",
-          "title": "Dino Świat",
-          "items": [],
-          "subcategories": []
-        },
-        {
           "id": "wrd_gwiazd",
           "title": "Wśród Gwiazd",
-          "items": [],
+          "items": [
+            {
+              "id": "pocz_cienie_wrd_gwiazd_shadow_match_006",
+              "title": "Wśród Gwiazd Shadow Match",
+              "pdf": "categories/pocz_cienie/wrd_gwiazd/pocz_cienie_wrd_gwiazd_shadow_match_006.pdf",
+              "thumb": "categories/pocz_cienie/wrd_gwiazd/pocz_cienie_wrd_gwiazd_shadow_match_006_thumb.jpg",
+              "solution": "categories/pocz_cienie/wrd_gwiazd/pocz_cienie_wrd_gwiazd_shadow_match_006_solution.png",
+              "type": "match_lines",
+              "generator": "shadow_match",
+              "date": "2026-06-15",
+              "title_pl": "Wśród Gwiazd Shadow Match",
+              "title_en": "Shadow Match",
+              "instruction_pl": "Połącz obrazki z właściwym Cieniem",
+              "instruction_en": "Match the pictures to their shadows",
+              "texts": {
+                "pl": {
+                  "title": "Wśród Gwiazd Shadow Match",
+                  "instruction": "Połącz obrazki z właściwym Cieniem"
+                },
+                "en": {
+                  "title": "Shadow Match",
+                  "instruction": "Match the pictures to their shadows"
+                }
+              }
+            },
+            {
+              "id": "pocz_cienie_wrd_gwiazd_shadow_match_007",
+              "title": "Wśród Gwiazd Shadow Match",
+              "pdf": "categories/pocz_cienie/wrd_gwiazd/pocz_cienie_wrd_gwiazd_shadow_match_007.pdf",
+              "thumb": "categories/pocz_cienie/wrd_gwiazd/pocz_cienie_wrd_gwiazd_shadow_match_007_thumb.jpg",
+              "solution": "categories/pocz_cienie/wrd_gwiazd/pocz_cienie_wrd_gwiazd_shadow_match_007_solution.png",
+              "type": "match_lines",
+              "generator": "shadow_match",
+              "date": "2026-06-15",
+              "title_pl": "Wśród Gwiazd Shadow Match",
+              "title_en": "Shadow Match",
+              "instruction_pl": "Połącz obrazki z właściwym Cieniem",
+              "instruction_en": "Match the pictures to their shadows",
+              "texts": {
+                "pl": {
+                  "title": "Wśród Gwiazd Shadow Match",
+                  "instruction": "Połącz obrazki z właściwym Cieniem"
+                },
+                "en": {
+                  "title": "Shadow Match",
+                  "instruction": "Match the pictures to their shadows"
+                }
+              }
+            },
+            {
+              "id": "pocz_cienie_wrd_gwiazd_shadow_match_008",
+              "title": "Wśród Gwiazd Shadow Match",
+              "pdf": "categories/pocz_cienie/wrd_gwiazd/pocz_cienie_wrd_gwiazd_shadow_match_008.pdf",
+              "thumb": "categories/pocz_cienie/wrd_gwiazd/pocz_cienie_wrd_gwiazd_shadow_match_008_thumb.jpg",
+              "solution": "categories/pocz_cienie/wrd_gwiazd/pocz_cienie_wrd_gwiazd_shadow_match_008_solution.png",
+              "type": "match_lines",
+              "generator": "shadow_match",
+              "date": "2026-06-15",
+              "title_pl": "Wśród Gwiazd Shadow Match",
+              "title_en": "Shadow Match",
+              "instruction_pl": "Połącz obrazki z właściwym Cieniem",
+              "instruction_en": "Match the pictures to their shadows",
+              "texts": {
+                "pl": {
+                  "title": "Wśród Gwiazd Shadow Match",
+                  "instruction": "Połącz obrazki z właściwym Cieniem"
+                },
+                "en": {
+                  "title": "Shadow Match",
+                  "instruction": "Match the pictures to their shadows"
+                }
+              }
+            },
+            {
+              "id": "pocz_cienie_wrd_gwiazd_pick_shadow_006",
+              "title": "Wśród Gwiazd Pick Shadow",
+              "pdf": "categories/pocz_cienie/wrd_gwiazd/pocz_cienie_wrd_gwiazd_pick_shadow_006.pdf",
+              "thumb": "categories/pocz_cienie/wrd_gwiazd/pocz_cienie_wrd_gwiazd_pick_shadow_006_thumb.jpg",
+              "solution": "categories/pocz_cienie/wrd_gwiazd/pocz_cienie_wrd_gwiazd_pick_shadow_006_solution.png",
+              "type": "select_object",
+              "generator": "pick_shadow",
+              "date": "2026-06-15",
+              "title_pl": "Wśród Gwiazd Pick Shadow",
+              "title_en": "Pick Shadow",
+              "instruction_pl": "Odszukaj i zaznacz właściwy cień",
+              "instruction_en": "Find the correct shadow",
+              "texts": {
+                "pl": {
+                  "title": "Wśród Gwiazd Pick Shadow",
+                  "instruction": "Odszukaj i zaznacz właściwy cień"
+                },
+                "en": {
+                  "title": "Pick Shadow",
+                  "instruction": "Find the correct shadow"
+                }
+              }
+            },
+            {
+              "id": "pocz_cienie_wrd_gwiazd_pick_shadow_007",
+              "title": "Wśród Gwiazd Pick Shadow",
+              "pdf": "categories/pocz_cienie/wrd_gwiazd/pocz_cienie_wrd_gwiazd_pick_shadow_007.pdf",
+              "thumb": "categories/pocz_cienie/wrd_gwiazd/pocz_cienie_wrd_gwiazd_pick_shadow_007_thumb.jpg",
+              "solution": "categories/pocz_cienie/wrd_gwiazd/pocz_cienie_wrd_gwiazd_pick_shadow_007_solution.png",
+              "type": "select_object",
+              "generator": "pick_shadow",
+              "date": "2026-06-15",
+              "title_pl": "Wśród Gwiazd Pick Shadow",
+              "title_en": "Pick Shadow",
+              "instruction_pl": "Odszukaj i zaznacz właściwy cień",
+              "instruction_en": "Find the correct shadow",
+              "texts": {
+                "pl": {
+                  "title": "Wśród Gwiazd Pick Shadow",
+                  "instruction": "Odszukaj i zaznacz właściwy cień"
+                },
+                "en": {
+                  "title": "Pick Shadow",
+                  "instruction": "Find the correct shadow"
+                }
+              }
+            }
+          ],
           "subcategories": []
         },
         {
           "id": "bkitna_przygoda",
           "title": "Błękitna Przygoda",
-          "items": [],
+          "items": [
+            {
+              "id": "pocz_cienie_bkitna_przygoda_shadow_match_006",
+              "title": "Błękitna Przygoda Shadow Match",
+              "pdf": "categories/pocz_cienie/bkitna_przygoda/pocz_cienie_bkitna_przygoda_shadow_match_006.pdf",
+              "thumb": "categories/pocz_cienie/bkitna_przygoda/pocz_cienie_bkitna_przygoda_shadow_match_006_thumb.jpg",
+              "solution": "categories/pocz_cienie/bkitna_przygoda/pocz_cienie_bkitna_przygoda_shadow_match_006_solution.png",
+              "type": "match_lines",
+              "generator": "shadow_match",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Shadow Match",
+              "title_en": "Shadow Match",
+              "instruction_pl": "Połącz obrazki z ich cieniami",
+              "instruction_en": "Match the pictures to their shadows",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Shadow Match",
+                  "instruction": "Połącz obrazki z ich cieniami"
+                },
+                "en": {
+                  "title": "Shadow Match",
+                  "instruction": "Match the pictures to their shadows"
+                }
+              }
+            },
+            {
+              "id": "pocz_cienie_bkitna_przygoda_shadow_match_007",
+              "title": "Błękitna Przygoda Shadow Match",
+              "pdf": "categories/pocz_cienie/bkitna_przygoda/pocz_cienie_bkitna_przygoda_shadow_match_007.pdf",
+              "thumb": "categories/pocz_cienie/bkitna_przygoda/pocz_cienie_bkitna_przygoda_shadow_match_007_thumb.jpg",
+              "solution": "categories/pocz_cienie/bkitna_przygoda/pocz_cienie_bkitna_przygoda_shadow_match_007_solution.png",
+              "type": "match_lines",
+              "generator": "shadow_match",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Shadow Match",
+              "title_en": "Shadow Match",
+              "instruction_pl": "Połącz obrazki z ich cieniami",
+              "instruction_en": "Match the pictures to their shadows",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Shadow Match",
+                  "instruction": "Połącz obrazki z ich cieniami"
+                },
+                "en": {
+                  "title": "Shadow Match",
+                  "instruction": "Match the pictures to their shadows"
+                }
+              }
+            },
+            {
+              "id": "pocz_cienie_bkitna_przygoda_shadow_match_008",
+              "title": "Błękitna Przygoda Shadow Match",
+              "pdf": "categories/pocz_cienie/bkitna_przygoda/pocz_cienie_bkitna_przygoda_shadow_match_008.pdf",
+              "thumb": "categories/pocz_cienie/bkitna_przygoda/pocz_cienie_bkitna_przygoda_shadow_match_008_thumb.jpg",
+              "solution": "categories/pocz_cienie/bkitna_przygoda/pocz_cienie_bkitna_przygoda_shadow_match_008_solution.png",
+              "type": "match_lines",
+              "generator": "shadow_match",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Shadow Match",
+              "title_en": "Shadow Match",
+              "instruction_pl": "Połącz obrazki z ich cieniami",
+              "instruction_en": "Match the pictures to their shadows",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Shadow Match",
+                  "instruction": "Połącz obrazki z ich cieniami"
+                },
+                "en": {
+                  "title": "Shadow Match",
+                  "instruction": "Match the pictures to their shadows"
+                }
+              }
+            },
+            {
+              "id": "pocz_cienie_bkitna_przygoda_shadow_match_009",
+              "title": "Błękitna Przygoda Shadow Match",
+              "pdf": "categories/pocz_cienie/bkitna_przygoda/pocz_cienie_bkitna_przygoda_shadow_match_009.pdf",
+              "thumb": "categories/pocz_cienie/bkitna_przygoda/pocz_cienie_bkitna_przygoda_shadow_match_009_thumb.jpg",
+              "solution": "categories/pocz_cienie/bkitna_przygoda/pocz_cienie_bkitna_przygoda_shadow_match_009_solution.png",
+              "type": "match_lines",
+              "generator": "shadow_match",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Shadow Match",
+              "title_en": "Shadow Match",
+              "instruction_pl": "Połącz obrazki z ich cieniami",
+              "instruction_en": "Match the pictures to their shadows",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Shadow Match",
+                  "instruction": "Połącz obrazki z ich cieniami"
+                },
+                "en": {
+                  "title": "Shadow Match",
+                  "instruction": "Match the pictures to their shadows"
+                }
+              }
+            },
+            {
+              "id": "pocz_cienie_bkitna_przygoda_shadow_match_010",
+              "title": "Błękitna Przygoda Shadow Match",
+              "pdf": "categories/pocz_cienie/bkitna_przygoda/pocz_cienie_bkitna_przygoda_shadow_match_010.pdf",
+              "thumb": "categories/pocz_cienie/bkitna_przygoda/pocz_cienie_bkitna_przygoda_shadow_match_010_thumb.jpg",
+              "solution": "categories/pocz_cienie/bkitna_przygoda/pocz_cienie_bkitna_przygoda_shadow_match_010_solution.png",
+              "type": "match_lines",
+              "generator": "shadow_match",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Shadow Match",
+              "title_en": "Shadow Match",
+              "instruction_pl": "Połącz obrazki z ich cieniami",
+              "instruction_en": "Match the pictures to their shadows",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Shadow Match",
+                  "instruction": "Połącz obrazki z ich cieniami"
+                },
+                "en": {
+                  "title": "Shadow Match",
+                  "instruction": "Match the pictures to their shadows"
+                }
+              }
+            }
+          ],
           "subcategories": []
         },
         {
           "id": "ahoooj_kapitanie",
           "title": "Ahoooj Kapitanie",
-          "items": [],
+          "items": [
+            {
+              "id": "pocz_cienie_ahoooj_kapitanie_pick_shadow_007",
+              "title": "Ahoooj Kapitanie Pick Shadow",
+              "pdf": "categories/pocz_cienie/ahoooj_kapitanie/pocz_cienie_ahoooj_kapitanie_pick_shadow_007.pdf",
+              "thumb": "categories/pocz_cienie/ahoooj_kapitanie/pocz_cienie_ahoooj_kapitanie_pick_shadow_007_thumb.jpg",
+              "solution": "categories/pocz_cienie/ahoooj_kapitanie/pocz_cienie_ahoooj_kapitanie_pick_shadow_007_solution.png",
+              "type": "select_object",
+              "generator": "pick_shadow",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Pick Shadow",
+              "title_en": "Pick Shadow",
+              "instruction_pl": "Znajdź właściwy cień",
+              "instruction_en": "Find the correct shadow",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Pick Shadow",
+                  "instruction": "Znajdź właściwy cień"
+                },
+                "en": {
+                  "title": "Pick Shadow",
+                  "instruction": "Find the correct shadow"
+                }
+              }
+            },
+            {
+              "id": "pocz_cienie_ahoooj_kapitanie_pick_shadow_008",
+              "title": "Ahoooj Kapitanie Pick Shadow",
+              "pdf": "categories/pocz_cienie/ahoooj_kapitanie/pocz_cienie_ahoooj_kapitanie_pick_shadow_008.pdf",
+              "thumb": "categories/pocz_cienie/ahoooj_kapitanie/pocz_cienie_ahoooj_kapitanie_pick_shadow_008_thumb.jpg",
+              "solution": "categories/pocz_cienie/ahoooj_kapitanie/pocz_cienie_ahoooj_kapitanie_pick_shadow_008_solution.png",
+              "type": "select_object",
+              "generator": "pick_shadow",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Pick Shadow",
+              "title_en": "Pick Shadow",
+              "instruction_pl": "Znajdź właściwy cień",
+              "instruction_en": "Find the correct shadow",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Pick Shadow",
+                  "instruction": "Znajdź właściwy cień"
+                },
+                "en": {
+                  "title": "Pick Shadow",
+                  "instruction": "Find the correct shadow"
+                }
+              }
+            },
+            {
+              "id": "pocz_cienie_ahoooj_kapitanie_pick_shadow_009",
+              "title": "Ahoooj Kapitanie Pick Shadow",
+              "pdf": "categories/pocz_cienie/ahoooj_kapitanie/pocz_cienie_ahoooj_kapitanie_pick_shadow_009.pdf",
+              "thumb": "categories/pocz_cienie/ahoooj_kapitanie/pocz_cienie_ahoooj_kapitanie_pick_shadow_009_thumb.jpg",
+              "solution": "categories/pocz_cienie/ahoooj_kapitanie/pocz_cienie_ahoooj_kapitanie_pick_shadow_009_solution.png",
+              "type": "select_object",
+              "generator": "pick_shadow",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Pick Shadow",
+              "title_en": "Pick Shadow",
+              "instruction_pl": "Znajdź właściwy cień",
+              "instruction_en": "Find the correct shadow",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Pick Shadow",
+                  "instruction": "Znajdź właściwy cień"
+                },
+                "en": {
+                  "title": "Pick Shadow",
+                  "instruction": "Find the correct shadow"
+                }
+              }
+            },
+            {
+              "id": "pocz_cienie_ahoooj_kapitanie_pick_shadow_010",
+              "title": "Ahoooj Kapitanie Pick Shadow",
+              "pdf": "categories/pocz_cienie/ahoooj_kapitanie/pocz_cienie_ahoooj_kapitanie_pick_shadow_010.pdf",
+              "thumb": "categories/pocz_cienie/ahoooj_kapitanie/pocz_cienie_ahoooj_kapitanie_pick_shadow_010_thumb.jpg",
+              "solution": "categories/pocz_cienie/ahoooj_kapitanie/pocz_cienie_ahoooj_kapitanie_pick_shadow_010_solution.png",
+              "type": "select_object",
+              "generator": "pick_shadow",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Pick Shadow",
+              "title_en": "Pick Shadow",
+              "instruction_pl": "Znajdź właściwy cień",
+              "instruction_en": "Find the correct shadow",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Pick Shadow",
+                  "instruction": "Znajdź właściwy cień"
+                },
+                "en": {
+                  "title": "Pick Shadow",
+                  "instruction": "Find the correct shadow"
+                }
+              }
+            },
+            {
+              "id": "pocz_cienie_ahoooj_kapitanie_pick_shadow_011",
+              "title": "Ahoooj Kapitanie Pick Shadow",
+              "pdf": "categories/pocz_cienie/ahoooj_kapitanie/pocz_cienie_ahoooj_kapitanie_pick_shadow_011.pdf",
+              "thumb": "categories/pocz_cienie/ahoooj_kapitanie/pocz_cienie_ahoooj_kapitanie_pick_shadow_011_thumb.jpg",
+              "solution": "categories/pocz_cienie/ahoooj_kapitanie/pocz_cienie_ahoooj_kapitanie_pick_shadow_011_solution.png",
+              "type": "select_object",
+              "generator": "pick_shadow",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Pick Shadow",
+              "title_en": "Pick Shadow",
+              "instruction_pl": "Znajdź właściwy cień",
+              "instruction_en": "Find the correct shadow",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Pick Shadow",
+                  "instruction": "Znajdź właściwy cień"
+                },
+                "en": {
+                  "title": "Pick Shadow",
+                  "instruction": "Find the correct shadow"
+                }
+              }
+            }
+          ],
           "subcategories": []
         }
       ],
@@ -103,32 +659,7 @@
         {
           "id": "przygody_w_jungli",
           "title": "Przygody w Jungli",
-          "items": [
-            {
-              "id": "pocz_kropki_przygody_w_jungli_dot_connect_016",
-              "title": "Przygody w Jungli Dot Connect",
-              "pdf": "categories/pocz_kropki/przygody_w_jungli/pocz_kropki_przygody_w_jungli_dot_connect_016.pdf",
-              "thumb": "categories/pocz_kropki/przygody_w_jungli/pocz_kropki_przygody_w_jungli_dot_connect_016_thumb.jpg",
-              "solution": "categories/pocz_kropki/przygody_w_jungli/pocz_kropki_przygody_w_jungli_dot_connect_016_solution.png",
-              "type": "dot_connect",
-              "generator": "dot_connect_lineart",
-              "date": "2026-06-14",
-              "title_pl": "Przygody w Jungli Dot Connect",
-              "title_en": "Dot Connect",
-              "instruction_pl": "Połącz kropki po kolei",
-              "instruction_en": "Connect the dots in order",
-              "texts": {
-                "pl": {
-                  "title": "Przygody w Jungli Dot Connect",
-                  "instruction": "Połącz kropki po kolei"
-                },
-                "en": {
-                  "title": "Dot Connect",
-                  "instruction": "Connect the dots in order"
-                }
-              }
-            }
-          ],
+          "items": [],
           "subcategories": []
         },
         {
@@ -176,7 +707,7 @@
               "solution": "categories/puzzle/przygody_w_jungli/puzzle_przygody_w_jungli_cut_paste_005_solution.png",
               "type": "cut_paste",
               "generator": "cut_paste_grid",
-              "date": "2026-06-14",
+              "date": "2026-06-15",
               "title_pl": "Przygody w Jungli Puzzle",
               "title_en": "Puzzle",
               "instruction_pl": "Wytnij puzzle i ułóż obrazek",
@@ -200,7 +731,79 @@
               "solution": "categories/puzzle/przygody_w_jungli/puzzle_przygody_w_jungli_cut_paste_006_solution.png",
               "type": "cut_paste",
               "generator": "cut_paste_grid",
-              "date": "2026-06-14",
+              "date": "2026-06-15",
+              "title_pl": "Przygody w Jungli Puzzle",
+              "title_en": "Puzzle",
+              "instruction_pl": "Wytnij puzzle i ułóż obrazek",
+              "instruction_en": "Cut out the pieces and rebuild the picture",
+              "texts": {
+                "pl": {
+                  "title": "Przygody w Jungli Puzzle",
+                  "instruction": "Wytnij puzzle i ułóż obrazek"
+                },
+                "en": {
+                  "title": "Puzzle",
+                  "instruction": "Cut out the pieces and rebuild the picture"
+                }
+              }
+            },
+            {
+              "id": "puzzle_przygody_w_jungli_cut_paste_007",
+              "title": "Przygody w Jungli Puzzle",
+              "pdf": "categories/puzzle/przygody_w_jungli/puzzle_przygody_w_jungli_cut_paste_007.pdf",
+              "thumb": "categories/puzzle/przygody_w_jungli/puzzle_przygody_w_jungli_cut_paste_007_thumb.jpg",
+              "solution": "categories/puzzle/przygody_w_jungli/puzzle_przygody_w_jungli_cut_paste_007_solution.png",
+              "type": "cut_paste",
+              "generator": "cut_paste_grid",
+              "date": "2026-06-15",
+              "title_pl": "Przygody w Jungli Puzzle",
+              "title_en": "Puzzle",
+              "instruction_pl": "Wytnij puzzle i ułóż obrazek",
+              "instruction_en": "Cut out the pieces and rebuild the picture",
+              "texts": {
+                "pl": {
+                  "title": "Przygody w Jungli Puzzle",
+                  "instruction": "Wytnij puzzle i ułóż obrazek"
+                },
+                "en": {
+                  "title": "Puzzle",
+                  "instruction": "Cut out the pieces and rebuild the picture"
+                }
+              }
+            },
+            {
+              "id": "puzzle_przygody_w_jungli_cut_paste_008",
+              "title": "Przygody w Jungli Puzzle",
+              "pdf": "categories/puzzle/przygody_w_jungli/puzzle_przygody_w_jungli_cut_paste_008.pdf",
+              "thumb": "categories/puzzle/przygody_w_jungli/puzzle_przygody_w_jungli_cut_paste_008_thumb.jpg",
+              "solution": "categories/puzzle/przygody_w_jungli/puzzle_przygody_w_jungli_cut_paste_008_solution.png",
+              "type": "cut_paste",
+              "generator": "cut_paste_grid",
+              "date": "2026-06-15",
+              "title_pl": "Przygody w Jungli Puzzle",
+              "title_en": "Puzzle",
+              "instruction_pl": "Wytnij puzzle i ułóż obrazek",
+              "instruction_en": "Cut out the pieces and rebuild the picture",
+              "texts": {
+                "pl": {
+                  "title": "Przygody w Jungli Puzzle",
+                  "instruction": "Wytnij puzzle i ułóż obrazek"
+                },
+                "en": {
+                  "title": "Puzzle",
+                  "instruction": "Cut out the pieces and rebuild the picture"
+                }
+              }
+            },
+            {
+              "id": "puzzle_przygody_w_jungli_cut_paste_009",
+              "title": "Przygody w Jungli Puzzle",
+              "pdf": "categories/puzzle/przygody_w_jungli/puzzle_przygody_w_jungli_cut_paste_009.pdf",
+              "thumb": "categories/puzzle/przygody_w_jungli/puzzle_przygody_w_jungli_cut_paste_009_thumb.jpg",
+              "solution": "categories/puzzle/przygody_w_jungli/puzzle_przygody_w_jungli_cut_paste_009_solution.png",
+              "type": "cut_paste",
+              "generator": "cut_paste_grid",
+              "date": "2026-06-15",
               "title_pl": "Przygody w Jungli Puzzle",
               "title_en": "Puzzle",
               "instruction_pl": "Wytnij puzzle i ułóż obrazek",
@@ -222,25 +825,509 @@
         {
           "id": "dino_wiat",
           "title": "Dino Świat",
-          "items": [],
+          "items": [
+            {
+              "id": "puzzle_dino_wiat_cut_paste_006",
+              "title": "Dino Świat Puzzle",
+              "pdf": "categories/puzzle/dino_wiat/puzzle_dino_wiat_cut_paste_006.pdf",
+              "thumb": "categories/puzzle/dino_wiat/puzzle_dino_wiat_cut_paste_006_thumb.jpg",
+              "solution": "categories/puzzle/dino_wiat/puzzle_dino_wiat_cut_paste_006_solution.png",
+              "type": "cut_paste",
+              "generator": "cut_paste_grid",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Puzzle",
+              "title_en": "Puzzle",
+              "instruction_pl": "Wytnij puzzle i ułóż obrazek",
+              "instruction_en": "Cut out the pieces and rebuild the picture",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Puzzle",
+                  "instruction": "Wytnij puzzle i ułóż obrazek"
+                },
+                "en": {
+                  "title": "Puzzle",
+                  "instruction": "Cut out the pieces and rebuild the picture"
+                }
+              }
+            },
+            {
+              "id": "puzzle_dino_wiat_cut_paste_007",
+              "title": "Dino Świat Puzzle",
+              "pdf": "categories/puzzle/dino_wiat/puzzle_dino_wiat_cut_paste_007.pdf",
+              "thumb": "categories/puzzle/dino_wiat/puzzle_dino_wiat_cut_paste_007_thumb.jpg",
+              "solution": "categories/puzzle/dino_wiat/puzzle_dino_wiat_cut_paste_007_solution.png",
+              "type": "cut_paste",
+              "generator": "cut_paste_grid",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Puzzle",
+              "title_en": "Puzzle",
+              "instruction_pl": "Wytnij puzzle i ułóż obrazek",
+              "instruction_en": "Cut out the pieces and rebuild the picture",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Puzzle",
+                  "instruction": "Wytnij puzzle i ułóż obrazek"
+                },
+                "en": {
+                  "title": "Puzzle",
+                  "instruction": "Cut out the pieces and rebuild the picture"
+                }
+              }
+            },
+            {
+              "id": "puzzle_dino_wiat_cut_paste_008",
+              "title": "Dino Świat Puzzle",
+              "pdf": "categories/puzzle/dino_wiat/puzzle_dino_wiat_cut_paste_008.pdf",
+              "thumb": "categories/puzzle/dino_wiat/puzzle_dino_wiat_cut_paste_008_thumb.jpg",
+              "solution": "categories/puzzle/dino_wiat/puzzle_dino_wiat_cut_paste_008_solution.png",
+              "type": "cut_paste",
+              "generator": "cut_paste_grid",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Puzzle",
+              "title_en": "Puzzle",
+              "instruction_pl": "Wytnij puzzle i ułóż obrazek",
+              "instruction_en": "Cut out the pieces and rebuild the picture",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Puzzle",
+                  "instruction": "Wytnij puzzle i ułóż obrazek"
+                },
+                "en": {
+                  "title": "Puzzle",
+                  "instruction": "Cut out the pieces and rebuild the picture"
+                }
+              }
+            },
+            {
+              "id": "puzzle_dino_wiat_cut_paste_009",
+              "title": "Dino Świat Puzzle",
+              "pdf": "categories/puzzle/dino_wiat/puzzle_dino_wiat_cut_paste_009.pdf",
+              "thumb": "categories/puzzle/dino_wiat/puzzle_dino_wiat_cut_paste_009_thumb.jpg",
+              "solution": "categories/puzzle/dino_wiat/puzzle_dino_wiat_cut_paste_009_solution.png",
+              "type": "cut_paste",
+              "generator": "cut_paste_grid",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Puzzle",
+              "title_en": "Puzzle",
+              "instruction_pl": "Wytnij puzzle i ułóż obrazek",
+              "instruction_en": "Cut out the pieces and rebuild the picture",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Puzzle",
+                  "instruction": "Wytnij puzzle i ułóż obrazek"
+                },
+                "en": {
+                  "title": "Puzzle",
+                  "instruction": "Cut out the pieces and rebuild the picture"
+                }
+              }
+            },
+            {
+              "id": "puzzle_dino_wiat_cut_paste_010",
+              "title": "Dino Świat Puzzle",
+              "pdf": "categories/puzzle/dino_wiat/puzzle_dino_wiat_cut_paste_010.pdf",
+              "thumb": "categories/puzzle/dino_wiat/puzzle_dino_wiat_cut_paste_010_thumb.jpg",
+              "solution": "categories/puzzle/dino_wiat/puzzle_dino_wiat_cut_paste_010_solution.png",
+              "type": "cut_paste",
+              "generator": "cut_paste_grid",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Puzzle",
+              "title_en": "Puzzle",
+              "instruction_pl": "Wytnij puzzle i ułóż obrazek",
+              "instruction_en": "Cut out the pieces and rebuild the picture",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Puzzle",
+                  "instruction": "Wytnij puzzle i ułóż obrazek"
+                },
+                "en": {
+                  "title": "Puzzle",
+                  "instruction": "Cut out the pieces and rebuild the picture"
+                }
+              }
+            }
+          ],
           "subcategories": []
         },
         {
           "id": "wrd_gwiazd",
           "title": "Wśród Gwiazd",
-          "items": [],
+          "items": [
+            {
+              "id": "puzzle_wrd_gwiazd_cut_paste_006",
+              "title": "Wśród Gwiazd Puzzle",
+              "pdf": "categories/puzzle/wrd_gwiazd/puzzle_wrd_gwiazd_cut_paste_006.pdf",
+              "thumb": "categories/puzzle/wrd_gwiazd/puzzle_wrd_gwiazd_cut_paste_006_thumb.jpg",
+              "solution": "categories/puzzle/wrd_gwiazd/puzzle_wrd_gwiazd_cut_paste_006_solution.png",
+              "type": "cut_paste",
+              "generator": "cut_paste_grid",
+              "date": "2026-06-15",
+              "title_pl": "Wśród Gwiazd Puzzle",
+              "title_en": "Puzzle",
+              "instruction_pl": "Wytnij puzzle i ułóż obrazek",
+              "instruction_en": "Cut out the pieces and rebuild the picture",
+              "texts": {
+                "pl": {
+                  "title": "Wśród Gwiazd Puzzle",
+                  "instruction": "Wytnij puzzle i ułóż obrazek"
+                },
+                "en": {
+                  "title": "Puzzle",
+                  "instruction": "Cut out the pieces and rebuild the picture"
+                }
+              }
+            },
+            {
+              "id": "puzzle_wrd_gwiazd_cut_paste_007",
+              "title": "Wśród Gwiazd Puzzle",
+              "pdf": "categories/puzzle/wrd_gwiazd/puzzle_wrd_gwiazd_cut_paste_007.pdf",
+              "thumb": "categories/puzzle/wrd_gwiazd/puzzle_wrd_gwiazd_cut_paste_007_thumb.jpg",
+              "solution": "categories/puzzle/wrd_gwiazd/puzzle_wrd_gwiazd_cut_paste_007_solution.png",
+              "type": "cut_paste",
+              "generator": "cut_paste_grid",
+              "date": "2026-06-15",
+              "title_pl": "Wśród Gwiazd Puzzle",
+              "title_en": "Puzzle",
+              "instruction_pl": "Wytnij puzzle i ułóż obrazek",
+              "instruction_en": "Cut out the pieces and rebuild the picture",
+              "texts": {
+                "pl": {
+                  "title": "Wśród Gwiazd Puzzle",
+                  "instruction": "Wytnij puzzle i ułóż obrazek"
+                },
+                "en": {
+                  "title": "Puzzle",
+                  "instruction": "Cut out the pieces and rebuild the picture"
+                }
+              }
+            },
+            {
+              "id": "puzzle_wrd_gwiazd_cut_paste_008",
+              "title": "Wśród Gwiazd Puzzle",
+              "pdf": "categories/puzzle/wrd_gwiazd/puzzle_wrd_gwiazd_cut_paste_008.pdf",
+              "thumb": "categories/puzzle/wrd_gwiazd/puzzle_wrd_gwiazd_cut_paste_008_thumb.jpg",
+              "solution": "categories/puzzle/wrd_gwiazd/puzzle_wrd_gwiazd_cut_paste_008_solution.png",
+              "type": "cut_paste",
+              "generator": "cut_paste_grid",
+              "date": "2026-06-15",
+              "title_pl": "Wśród Gwiazd Puzzle",
+              "title_en": "Puzzle",
+              "instruction_pl": "Wytnij puzzle i ułóż obrazek",
+              "instruction_en": "Cut out the pieces and rebuild the picture",
+              "texts": {
+                "pl": {
+                  "title": "Wśród Gwiazd Puzzle",
+                  "instruction": "Wytnij puzzle i ułóż obrazek"
+                },
+                "en": {
+                  "title": "Puzzle",
+                  "instruction": "Cut out the pieces and rebuild the picture"
+                }
+              }
+            },
+            {
+              "id": "puzzle_wrd_gwiazd_cut_paste_009",
+              "title": "Wśród Gwiazd Puzzle",
+              "pdf": "categories/puzzle/wrd_gwiazd/puzzle_wrd_gwiazd_cut_paste_009.pdf",
+              "thumb": "categories/puzzle/wrd_gwiazd/puzzle_wrd_gwiazd_cut_paste_009_thumb.jpg",
+              "solution": "categories/puzzle/wrd_gwiazd/puzzle_wrd_gwiazd_cut_paste_009_solution.png",
+              "type": "cut_paste",
+              "generator": "cut_paste_grid",
+              "date": "2026-06-15",
+              "title_pl": "Wśród Gwiazd Puzzle",
+              "title_en": "Puzzle",
+              "instruction_pl": "Wytnij puzzle i ułóż obrazek",
+              "instruction_en": "Cut out the pieces and rebuild the picture",
+              "texts": {
+                "pl": {
+                  "title": "Wśród Gwiazd Puzzle",
+                  "instruction": "Wytnij puzzle i ułóż obrazek"
+                },
+                "en": {
+                  "title": "Puzzle",
+                  "instruction": "Cut out the pieces and rebuild the picture"
+                }
+              }
+            },
+            {
+              "id": "puzzle_wrd_gwiazd_cut_paste_010",
+              "title": "Wśród Gwiazd Puzzle",
+              "pdf": "categories/puzzle/wrd_gwiazd/puzzle_wrd_gwiazd_cut_paste_010.pdf",
+              "thumb": "categories/puzzle/wrd_gwiazd/puzzle_wrd_gwiazd_cut_paste_010_thumb.jpg",
+              "solution": "categories/puzzle/wrd_gwiazd/puzzle_wrd_gwiazd_cut_paste_010_solution.png",
+              "type": "cut_paste",
+              "generator": "cut_paste_grid",
+              "date": "2026-06-15",
+              "title_pl": "Wśród Gwiazd Puzzle",
+              "title_en": "Puzzle",
+              "instruction_pl": "Wytnij puzzle i ułóż obrazek",
+              "instruction_en": "Cut out the pieces and rebuild the picture",
+              "texts": {
+                "pl": {
+                  "title": "Wśród Gwiazd Puzzle",
+                  "instruction": "Wytnij puzzle i ułóż obrazek"
+                },
+                "en": {
+                  "title": "Puzzle",
+                  "instruction": "Cut out the pieces and rebuild the picture"
+                }
+              }
+            }
+          ],
           "subcategories": []
         },
         {
           "id": "bkitna_przygoda",
           "title": "Błękitna Przygoda",
-          "items": [],
+          "items": [
+            {
+              "id": "puzzle_bkitna_przygoda_cut_paste_006",
+              "title": "Błękitna Przygoda Puzzle",
+              "pdf": "categories/puzzle/bkitna_przygoda/puzzle_bkitna_przygoda_cut_paste_006.pdf",
+              "thumb": "categories/puzzle/bkitna_przygoda/puzzle_bkitna_przygoda_cut_paste_006_thumb.jpg",
+              "solution": "categories/puzzle/bkitna_przygoda/puzzle_bkitna_przygoda_cut_paste_006_solution.png",
+              "type": "cut_paste",
+              "generator": "cut_paste_grid",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Puzzle",
+              "title_en": "Puzzle",
+              "instruction_pl": "Wytnij puzzle i ułóż obrazek",
+              "instruction_en": "Cut out the pieces and rebuild the picture",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Puzzle",
+                  "instruction": "Wytnij puzzle i ułóż obrazek"
+                },
+                "en": {
+                  "title": "Puzzle",
+                  "instruction": "Cut out the pieces and rebuild the picture"
+                }
+              }
+            },
+            {
+              "id": "puzzle_bkitna_przygoda_cut_paste_007",
+              "title": "Błękitna Przygoda Puzzle",
+              "pdf": "categories/puzzle/bkitna_przygoda/puzzle_bkitna_przygoda_cut_paste_007.pdf",
+              "thumb": "categories/puzzle/bkitna_przygoda/puzzle_bkitna_przygoda_cut_paste_007_thumb.jpg",
+              "solution": "categories/puzzle/bkitna_przygoda/puzzle_bkitna_przygoda_cut_paste_007_solution.png",
+              "type": "cut_paste",
+              "generator": "cut_paste_grid",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Puzzle",
+              "title_en": "Puzzle",
+              "instruction_pl": "Wytnij puzzle i ułóż obrazek",
+              "instruction_en": "Cut out the pieces and rebuild the picture",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Puzzle",
+                  "instruction": "Wytnij puzzle i ułóż obrazek"
+                },
+                "en": {
+                  "title": "Puzzle",
+                  "instruction": "Cut out the pieces and rebuild the picture"
+                }
+              }
+            },
+            {
+              "id": "puzzle_bkitna_przygoda_cut_paste_008",
+              "title": "Błękitna Przygoda Puzzle",
+              "pdf": "categories/puzzle/bkitna_przygoda/puzzle_bkitna_przygoda_cut_paste_008.pdf",
+              "thumb": "categories/puzzle/bkitna_przygoda/puzzle_bkitna_przygoda_cut_paste_008_thumb.jpg",
+              "solution": "categories/puzzle/bkitna_przygoda/puzzle_bkitna_przygoda_cut_paste_008_solution.png",
+              "type": "cut_paste",
+              "generator": "cut_paste_grid",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Puzzle",
+              "title_en": "Puzzle",
+              "instruction_pl": "Wytnij puzzle i ułóż obrazek",
+              "instruction_en": "Cut out the pieces and rebuild the picture",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Puzzle",
+                  "instruction": "Wytnij puzzle i ułóż obrazek"
+                },
+                "en": {
+                  "title": "Puzzle",
+                  "instruction": "Cut out the pieces and rebuild the picture"
+                }
+              }
+            },
+            {
+              "id": "puzzle_bkitna_przygoda_cut_paste_009",
+              "title": "Błękitna Przygoda Puzzle",
+              "pdf": "categories/puzzle/bkitna_przygoda/puzzle_bkitna_przygoda_cut_paste_009.pdf",
+              "thumb": "categories/puzzle/bkitna_przygoda/puzzle_bkitna_przygoda_cut_paste_009_thumb.jpg",
+              "solution": "categories/puzzle/bkitna_przygoda/puzzle_bkitna_przygoda_cut_paste_009_solution.png",
+              "type": "cut_paste",
+              "generator": "cut_paste_grid",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Puzzle",
+              "title_en": "Puzzle",
+              "instruction_pl": "Wytnij puzzle i ułóż obrazek",
+              "instruction_en": "Cut out the pieces and rebuild the picture",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Puzzle",
+                  "instruction": "Wytnij puzzle i ułóż obrazek"
+                },
+                "en": {
+                  "title": "Puzzle",
+                  "instruction": "Cut out the pieces and rebuild the picture"
+                }
+              }
+            },
+            {
+              "id": "puzzle_bkitna_przygoda_cut_paste_010",
+              "title": "Błękitna Przygoda Puzzle",
+              "pdf": "categories/puzzle/bkitna_przygoda/puzzle_bkitna_przygoda_cut_paste_010.pdf",
+              "thumb": "categories/puzzle/bkitna_przygoda/puzzle_bkitna_przygoda_cut_paste_010_thumb.jpg",
+              "solution": "categories/puzzle/bkitna_przygoda/puzzle_bkitna_przygoda_cut_paste_010_solution.png",
+              "type": "cut_paste",
+              "generator": "cut_paste_grid",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Puzzle",
+              "title_en": "Puzzle",
+              "instruction_pl": "Wytnij puzzle i ułóż obrazek",
+              "instruction_en": "Cut out the pieces and rebuild the picture",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Puzzle",
+                  "instruction": "Wytnij puzzle i ułóż obrazek"
+                },
+                "en": {
+                  "title": "Puzzle",
+                  "instruction": "Cut out the pieces and rebuild the picture"
+                }
+              }
+            }
+          ],
           "subcategories": []
         },
         {
           "id": "ahoooj_kapitanie",
           "title": "Ahoooj Kapitanie",
-          "items": [],
+          "items": [
+            {
+              "id": "puzzle_ahoooj_kapitanie_cut_paste_006",
+              "title": "Ahoooj Kapitanie Puzzle",
+              "pdf": "categories/puzzle/ahoooj_kapitanie/puzzle_ahoooj_kapitanie_cut_paste_006.pdf",
+              "thumb": "categories/puzzle/ahoooj_kapitanie/puzzle_ahoooj_kapitanie_cut_paste_006_thumb.jpg",
+              "solution": "categories/puzzle/ahoooj_kapitanie/puzzle_ahoooj_kapitanie_cut_paste_006_solution.png",
+              "type": "cut_paste",
+              "generator": "cut_paste_grid",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Puzzle",
+              "title_en": "Puzzle",
+              "instruction_pl": "Wytnij puzzle i ułóż obrazek",
+              "instruction_en": "Cut out the pieces and rebuild the picture",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Puzzle",
+                  "instruction": "Wytnij puzzle i ułóż obrazek"
+                },
+                "en": {
+                  "title": "Puzzle",
+                  "instruction": "Cut out the pieces and rebuild the picture"
+                }
+              }
+            },
+            {
+              "id": "puzzle_ahoooj_kapitanie_cut_paste_007",
+              "title": "Ahoooj Kapitanie Puzzle",
+              "pdf": "categories/puzzle/ahoooj_kapitanie/puzzle_ahoooj_kapitanie_cut_paste_007.pdf",
+              "thumb": "categories/puzzle/ahoooj_kapitanie/puzzle_ahoooj_kapitanie_cut_paste_007_thumb.jpg",
+              "solution": "categories/puzzle/ahoooj_kapitanie/puzzle_ahoooj_kapitanie_cut_paste_007_solution.png",
+              "type": "cut_paste",
+              "generator": "cut_paste_grid",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Puzzle",
+              "title_en": "Puzzle",
+              "instruction_pl": "Wytnij puzzle i ułóż obrazek",
+              "instruction_en": "Cut out the pieces and rebuild the picture",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Puzzle",
+                  "instruction": "Wytnij puzzle i ułóż obrazek"
+                },
+                "en": {
+                  "title": "Puzzle",
+                  "instruction": "Cut out the pieces and rebuild the picture"
+                }
+              }
+            },
+            {
+              "id": "puzzle_ahoooj_kapitanie_cut_paste_008",
+              "title": "Ahoooj Kapitanie Puzzle",
+              "pdf": "categories/puzzle/ahoooj_kapitanie/puzzle_ahoooj_kapitanie_cut_paste_008.pdf",
+              "thumb": "categories/puzzle/ahoooj_kapitanie/puzzle_ahoooj_kapitanie_cut_paste_008_thumb.jpg",
+              "solution": "categories/puzzle/ahoooj_kapitanie/puzzle_ahoooj_kapitanie_cut_paste_008_solution.png",
+              "type": "cut_paste",
+              "generator": "cut_paste_grid",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Puzzle",
+              "title_en": "Puzzle",
+              "instruction_pl": "Wytnij puzzle i ułóż obrazek",
+              "instruction_en": "Cut out the pieces and rebuild the picture",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Puzzle",
+                  "instruction": "Wytnij puzzle i ułóż obrazek"
+                },
+                "en": {
+                  "title": "Puzzle",
+                  "instruction": "Cut out the pieces and rebuild the picture"
+                }
+              }
+            },
+            {
+              "id": "puzzle_ahoooj_kapitanie_cut_paste_009",
+              "title": "Ahoooj Kapitanie Puzzle",
+              "pdf": "categories/puzzle/ahoooj_kapitanie/puzzle_ahoooj_kapitanie_cut_paste_009.pdf",
+              "thumb": "categories/puzzle/ahoooj_kapitanie/puzzle_ahoooj_kapitanie_cut_paste_009_thumb.jpg",
+              "solution": "categories/puzzle/ahoooj_kapitanie/puzzle_ahoooj_kapitanie_cut_paste_009_solution.png",
+              "type": "cut_paste",
+              "generator": "cut_paste_grid",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Puzzle",
+              "title_en": "Puzzle",
+              "instruction_pl": "Wytnij puzzle i ułóż obrazek",
+              "instruction_en": "Cut out the pieces and rebuild the picture",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Puzzle",
+                  "instruction": "Wytnij puzzle i ułóż obrazek"
+                },
+                "en": {
+                  "title": "Puzzle",
+                  "instruction": "Cut out the pieces and rebuild the picture"
+                }
+              }
+            },
+            {
+              "id": "puzzle_ahoooj_kapitanie_cut_paste_010",
+              "title": "Ahoooj Kapitanie Puzzle",
+              "pdf": "categories/puzzle/ahoooj_kapitanie/puzzle_ahoooj_kapitanie_cut_paste_010.pdf",
+              "thumb": "categories/puzzle/ahoooj_kapitanie/puzzle_ahoooj_kapitanie_cut_paste_010_thumb.jpg",
+              "solution": "categories/puzzle/ahoooj_kapitanie/puzzle_ahoooj_kapitanie_cut_paste_010_solution.png",
+              "type": "cut_paste",
+              "generator": "cut_paste_grid",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Puzzle",
+              "title_en": "Puzzle",
+              "instruction_pl": "Wytnij puzzle i ułóż obrazek",
+              "instruction_en": "Cut out the pieces and rebuild the picture",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Puzzle",
+                  "instruction": "Wytnij puzzle i ułóż obrazek"
+                },
+                "en": {
+                  "title": "Puzzle",
+                  "instruction": "Cut out the pieces and rebuild the picture"
+                }
+              }
+            }
+          ],
           "subcategories": []
         }
       ],
@@ -255,32 +1342,7 @@
         {
           "id": "przygody_w_jungli",
           "title": "Przygody w Jungli",
-          "items": [
-            {
-              "id": "kolorowanki_przygody_w_jungli_coloring_001",
-              "title": "Przygody w Jungli Coloring",
-              "pdf": "categories/kolorowanki/przygody_w_jungli/kolorowanki_przygody_w_jungli_coloring_001.pdf",
-              "thumb": "categories/kolorowanki/przygody_w_jungli/kolorowanki_przygody_w_jungli_coloring_001_thumb.jpg",
-              "solution": "categories/kolorowanki/przygody_w_jungli/kolorowanki_przygody_w_jungli_coloring_001_solution.png",
-              "type": "paint",
-              "generator": "coloring",
-              "date": "2026-06-14",
-              "title_pl": "Przygody w Jungli Coloring",
-              "title_en": "Coloring",
-              "instruction_pl": "Pokoloruj obrazek",
-              "instruction_en": "Color the picture",
-              "texts": {
-                "pl": {
-                  "title": "Przygody w Jungli Coloring",
-                  "instruction": "Pokoloruj obrazek"
-                },
-                "en": {
-                  "title": "Coloring",
-                  "instruction": "Color the picture"
-                }
-              }
-            }
-          ],
+          "items": [],
           "subcategories": []
         },
         {
@@ -319,56 +1381,7 @@
         {
           "id": "przygody_w_jungli",
           "title": "Przygody w Jungli",
-          "items": [
-            {
-              "id": "labirynty_przygody_w_jungli_maze_007",
-              "title": "Przygody w Jungli Maze",
-              "pdf": "categories/labirynty/przygody_w_jungli/labirynty_przygody_w_jungli_maze_007.pdf",
-              "thumb": "categories/labirynty/przygody_w_jungli/labirynty_przygody_w_jungli_maze_007_thumb.jpg",
-              "solution": "categories/labirynty/przygody_w_jungli/labirynty_przygody_w_jungli_maze_007_solution.png",
-              "type": "track",
-              "generator": "square_maze",
-              "date": "2026-06-14",
-              "title_pl": "Przygody w Jungli Maze",
-              "title_en": "Maze",
-              "instruction_pl": "Przejdź przez labirynt",
-              "instruction_en": "Follow the maze path",
-              "texts": {
-                "pl": {
-                  "title": "Przygody w Jungli Maze",
-                  "instruction": "Przejdź przez labirynt"
-                },
-                "en": {
-                  "title": "Maze",
-                  "instruction": "Follow the maze path"
-                }
-              }
-            },
-            {
-              "id": "labirynty_przygody_w_jungli_maze_008",
-              "title": "Przygody w Jungli Maze",
-              "pdf": "categories/labirynty/przygody_w_jungli/labirynty_przygody_w_jungli_maze_008.pdf",
-              "thumb": "categories/labirynty/przygody_w_jungli/labirynty_przygody_w_jungli_maze_008_thumb.jpg",
-              "solution": "categories/labirynty/przygody_w_jungli/labirynty_przygody_w_jungli_maze_008_solution.png",
-              "type": "track",
-              "generator": "circular_maze",
-              "date": "2026-06-14",
-              "title_pl": "Przygody w Jungli Maze",
-              "title_en": "Maze",
-              "instruction_pl": "Przejdź przez labirynt",
-              "instruction_en": "Follow the maze path",
-              "texts": {
-                "pl": {
-                  "title": "Przygody w Jungli Maze",
-                  "instruction": "Przejdź przez labirynt"
-                },
-                "en": {
-                  "title": "Maze",
-                  "instruction": "Follow the maze path"
-                }
-              }
-            }
-          ],
+          "items": [],
           "subcategories": []
         },
         {
@@ -407,183 +1420,13 @@
         {
           "id": "przygody_w_jungli",
           "title": "Przygody w Jungli",
-          "items": [
-            {
-              "id": "rysowanie_przygody_w_jungli_drawing_001",
-              "title": "Przygody w Jungli Drawing",
-              "pdf": "categories/rysowanie/przygody_w_jungli/rysowanie_przygody_w_jungli_drawing_001.pdf",
-              "thumb": "categories/rysowanie/przygody_w_jungli/rysowanie_przygody_w_jungli_drawing_001_thumb.jpg",
-              "solution": "categories/rysowanie/przygody_w_jungli/rysowanie_przygody_w_jungli_drawing_001_solution.png",
-              "type": "drawing",
-              "generator": "drawing_trace",
-              "date": "2026-06-14",
-              "title_pl": "Przygody w Jungli Drawing",
-              "title_en": "Drawing",
-              "instruction_pl": "Odrysuj obrazek",
-              "instruction_en": "Trace or copy the picture",
-              "texts": {
-                "pl": {
-                  "title": "Przygody w Jungli Drawing",
-                  "instruction": "Odrysuj obrazek"
-                },
-                "en": {
-                  "title": "Drawing",
-                  "instruction": "Trace or copy the picture"
-                }
-              }
-            },
-            {
-              "id": "rysowanie_przygody_w_jungli_drawing_002",
-              "title": "Przygody w Jungli Drawing",
-              "pdf": "categories/rysowanie/przygody_w_jungli/rysowanie_przygody_w_jungli_drawing_002.pdf",
-              "thumb": "categories/rysowanie/przygody_w_jungli/rysowanie_przygody_w_jungli_drawing_002_thumb.jpg",
-              "solution": "categories/rysowanie/przygody_w_jungli/rysowanie_przygody_w_jungli_drawing_002_solution.png",
-              "type": "drawing",
-              "generator": "drawing_trace",
-              "date": "2026-06-14",
-              "title_pl": "Przygody w Jungli Drawing",
-              "title_en": "Drawing",
-              "instruction_pl": "Odrysuj obrazek",
-              "instruction_en": "Trace or copy the picture",
-              "texts": {
-                "pl": {
-                  "title": "Przygody w Jungli Drawing",
-                  "instruction": "Odrysuj obrazek"
-                },
-                "en": {
-                  "title": "Drawing",
-                  "instruction": "Trace or copy the picture"
-                }
-              }
-            },
-            {
-              "id": "rysowanie_przygody_w_jungli_drawing_003",
-              "title": "Przygody w Jungli Drawing",
-              "pdf": "categories/rysowanie/przygody_w_jungli/rysowanie_przygody_w_jungli_drawing_003.pdf",
-              "thumb": "categories/rysowanie/przygody_w_jungli/rysowanie_przygody_w_jungli_drawing_003_thumb.jpg",
-              "solution": "categories/rysowanie/przygody_w_jungli/rysowanie_przygody_w_jungli_drawing_003_solution.png",
-              "type": "drawing",
-              "generator": "drawing_trace",
-              "date": "2026-06-14",
-              "title_pl": "Przygody w Jungli Drawing",
-              "title_en": "Drawing",
-              "instruction_pl": "Odrysuj obrazek",
-              "instruction_en": "Trace or copy the picture",
-              "texts": {
-                "pl": {
-                  "title": "Przygody w Jungli Drawing",
-                  "instruction": "Odrysuj obrazek"
-                },
-                "en": {
-                  "title": "Drawing",
-                  "instruction": "Trace or copy the picture"
-                }
-              }
-            },
-            {
-              "id": "rysowanie_przygody_w_jungli_drawing_004",
-              "title": "Przygody w Jungli Drawing",
-              "pdf": "categories/rysowanie/przygody_w_jungli/rysowanie_przygody_w_jungli_drawing_004.pdf",
-              "thumb": "categories/rysowanie/przygody_w_jungli/rysowanie_przygody_w_jungli_drawing_004_thumb.jpg",
-              "solution": "categories/rysowanie/przygody_w_jungli/rysowanie_przygody_w_jungli_drawing_004_solution.png",
-              "type": "drawing",
-              "generator": "drawing_trace",
-              "date": "2026-06-14",
-              "title_pl": "Przygody w Jungli Drawing",
-              "title_en": "Drawing",
-              "instruction_pl": "Odrysuj obrazek",
-              "instruction_en": "Trace or copy the picture",
-              "texts": {
-                "pl": {
-                  "title": "Przygody w Jungli Drawing",
-                  "instruction": "Odrysuj obrazek"
-                },
-                "en": {
-                  "title": "Drawing",
-                  "instruction": "Trace or copy the picture"
-                }
-              }
-            },
-            {
-              "id": "rysowanie_przygody_w_jungli_drawing_005",
-              "title": "Przygody w Jungli Drawing",
-              "pdf": "categories/rysowanie/przygody_w_jungli/rysowanie_przygody_w_jungli_drawing_005.pdf",
-              "thumb": "categories/rysowanie/przygody_w_jungli/rysowanie_przygody_w_jungli_drawing_005_thumb.jpg",
-              "solution": "categories/rysowanie/przygody_w_jungli/rysowanie_przygody_w_jungli_drawing_005_solution.png",
-              "type": "drawing",
-              "generator": "drawing_trace",
-              "date": "2026-06-14",
-              "title_pl": "Przygody w Jungli Drawing",
-              "title_en": "Drawing",
-              "instruction_pl": "Odrysuj obrazek",
-              "instruction_en": "Trace or copy the picture",
-              "texts": {
-                "pl": {
-                  "title": "Przygody w Jungli Drawing",
-                  "instruction": "Odrysuj obrazek"
-                },
-                "en": {
-                  "title": "Drawing",
-                  "instruction": "Trace or copy the picture"
-                }
-              }
-            }
-          ],
+          "items": [],
           "subcategories": []
         },
         {
           "id": "dino_wiat",
           "title": "Dino Świat",
-          "items": [
-            {
-              "id": "rysowanie_dino_wiat_drawing_001",
-              "title": "Dino Świat Drawing",
-              "pdf": "categories/rysowanie/dino_wiat/rysowanie_dino_wiat_drawing_001.pdf",
-              "thumb": "categories/rysowanie/dino_wiat/rysowanie_dino_wiat_drawing_001_thumb.jpg",
-              "solution": "categories/rysowanie/dino_wiat/rysowanie_dino_wiat_drawing_001_solution.png",
-              "type": "drawing",
-              "generator": "drawing_trace",
-              "date": "2026-06-14",
-              "title_pl": "Dino Świat Drawing",
-              "title_en": "Drawing",
-              "instruction_pl": "Odrysuj obrazek",
-              "instruction_en": "Trace or copy the picture",
-              "texts": {
-                "pl": {
-                  "title": "Dino Świat Drawing",
-                  "instruction": "Odrysuj obrazek"
-                },
-                "en": {
-                  "title": "Drawing",
-                  "instruction": "Trace or copy the picture"
-                }
-              }
-            },
-            {
-              "id": "rysowanie_dino_wiat_drawing_002",
-              "title": "Dino Świat Drawing",
-              "pdf": "categories/rysowanie/dino_wiat/rysowanie_dino_wiat_drawing_002.pdf",
-              "thumb": "categories/rysowanie/dino_wiat/rysowanie_dino_wiat_drawing_002_thumb.jpg",
-              "solution": "categories/rysowanie/dino_wiat/rysowanie_dino_wiat_drawing_002_solution.png",
-              "type": "drawing",
-              "generator": "drawing_trace",
-              "date": "2026-06-14",
-              "title_pl": "Dino Świat Drawing",
-              "title_en": "Drawing",
-              "instruction_pl": "Odrysuj obrazek",
-              "instruction_en": "Trace or copy the picture",
-              "texts": {
-                "pl": {
-                  "title": "Dino Świat Drawing",
-                  "instruction": "Odrysuj obrazek"
-                },
-                "en": {
-                  "title": "Drawing",
-                  "instruction": "Trace or copy the picture"
-                }
-              }
-            }
-          ],
+          "items": [],
           "subcategories": []
         },
         {
@@ -616,56 +1459,7 @@
         {
           "id": "przygody_w_jungli",
           "title": "Przygody w Jungli",
-          "items": [
-            {
-              "id": "liczenie_przygody_w_jungli_counting_001",
-              "title": "Przygody w Jungli Counting",
-              "pdf": "categories/liczenie/przygody_w_jungli/liczenie_przygody_w_jungli_counting_001.pdf",
-              "thumb": "categories/liczenie/przygody_w_jungli/liczenie_przygody_w_jungli_counting_001_thumb.jpg",
-              "solution": "categories/liczenie/przygody_w_jungli/liczenie_przygody_w_jungli_counting_001_solution.png",
-              "type": "counting",
-              "generator": "counting_scatter",
-              "date": "2026-06-14",
-              "title_pl": "Przygody w Jungli Counting",
-              "title_en": "Counting",
-              "instruction_pl": "Policz obrazki i wpisz liczby",
-              "instruction_en": "Count the pictures and write the numbers",
-              "texts": {
-                "pl": {
-                  "title": "Przygody w Jungli Counting",
-                  "instruction": "Policz obrazki i wpisz liczby"
-                },
-                "en": {
-                  "title": "Counting",
-                  "instruction": "Count the pictures and write the numbers"
-                }
-              }
-            },
-            {
-              "id": "liczenie_przygody_w_jungli_counting_rows_001",
-              "title": "Przygody w Jungli Counting Rows",
-              "pdf": "categories/liczenie/przygody_w_jungli/liczenie_przygody_w_jungli_counting_rows_001.pdf",
-              "thumb": "categories/liczenie/przygody_w_jungli/liczenie_przygody_w_jungli_counting_rows_001_thumb.jpg",
-              "solution": "categories/liczenie/przygody_w_jungli/liczenie_przygody_w_jungli_counting_rows_001_solution.png",
-              "type": "counting",
-              "generator": "counting_rows",
-              "date": "2026-06-14",
-              "title_pl": "Przygody w Jungli Counting Rows",
-              "title_en": "Counting Rows",
-              "instruction_pl": "Policz obrazki w każdym rzędzie",
-              "instruction_en": "Count the pictures in each row",
-              "texts": {
-                "pl": {
-                  "title": "Przygody w Jungli Counting Rows",
-                  "instruction": "Policz obrazki w każdym rzędzie"
-                },
-                "en": {
-                  "title": "Counting Rows",
-                  "instruction": "Count the pictures in each row"
-                }
-              }
-            }
-          ],
+          "items": [],
           "subcategories": []
         },
         {
