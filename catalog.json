@@ -1629,25 +1629,509 @@
         {
           "id": "dino_wiat",
           "title": "Dino Świat",
-          "items": [],
+          "items": [
+            {
+              "id": "labirynty_dino_wiat_maze_005",
+              "title": "Dino Świat Maze",
+              "pdf": "categories/labirynty/dino_wiat/labirynty_dino_wiat_maze_005.pdf",
+              "thumb": "categories/labirynty/dino_wiat/labirynty_dino_wiat_maze_005_thumb.jpg",
+              "solution": "categories/labirynty/dino_wiat/labirynty_dino_wiat_maze_005_solution.png",
+              "type": "track",
+              "generator": "circular_maze",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Maze",
+              "title_en": "Maze",
+              "instruction_pl": "Przejdź przez labirynt",
+              "instruction_en": "Follow the maze path",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Maze",
+                  "instruction": "Przejdź przez labirynt"
+                },
+                "en": {
+                  "title": "Maze",
+                  "instruction": "Follow the maze path"
+                }
+              }
+            },
+            {
+              "id": "labirynty_dino_wiat_maze_006",
+              "title": "Dino Świat Maze",
+              "pdf": "categories/labirynty/dino_wiat/labirynty_dino_wiat_maze_006.pdf",
+              "thumb": "categories/labirynty/dino_wiat/labirynty_dino_wiat_maze_006_thumb.jpg",
+              "solution": "categories/labirynty/dino_wiat/labirynty_dino_wiat_maze_006_solution.png",
+              "type": "track",
+              "generator": "circular_maze",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Maze",
+              "title_en": "Maze",
+              "instruction_pl": "Przejdź przez labirynt",
+              "instruction_en": "Follow the maze path",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Maze",
+                  "instruction": "Przejdź przez labirynt"
+                },
+                "en": {
+                  "title": "Maze",
+                  "instruction": "Follow the maze path"
+                }
+              }
+            },
+            {
+              "id": "labirynty_dino_wiat_maze_007",
+              "title": "Dino Świat Maze",
+              "pdf": "categories/labirynty/dino_wiat/labirynty_dino_wiat_maze_007.pdf",
+              "thumb": "categories/labirynty/dino_wiat/labirynty_dino_wiat_maze_007_thumb.jpg",
+              "solution": "categories/labirynty/dino_wiat/labirynty_dino_wiat_maze_007_solution.png",
+              "type": "track",
+              "generator": "circular_maze",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Maze",
+              "title_en": "Maze",
+              "instruction_pl": "Przejdź przez labirynt",
+              "instruction_en": "Follow the maze path",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Maze",
+                  "instruction": "Przejdź przez labirynt"
+                },
+                "en": {
+                  "title": "Maze",
+                  "instruction": "Follow the maze path"
+                }
+              }
+            },
+            {
+              "id": "labirynty_dino_wiat_maze_008",
+              "title": "Dino Świat Maze",
+              "pdf": "categories/labirynty/dino_wiat/labirynty_dino_wiat_maze_008.pdf",
+              "thumb": "categories/labirynty/dino_wiat/labirynty_dino_wiat_maze_008_thumb.jpg",
+              "solution": "categories/labirynty/dino_wiat/labirynty_dino_wiat_maze_008_solution.png",
+              "type": "track",
+              "generator": "circular_maze",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Maze",
+              "title_en": "Maze",
+              "instruction_pl": "Przejdź przez labirynt",
+              "instruction_en": "Follow the maze path",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Maze",
+                  "instruction": "Przejdź przez labirynt"
+                },
+                "en": {
+                  "title": "Maze",
+                  "instruction": "Follow the maze path"
+                }
+              }
+            },
+            {
+              "id": "labirynty_dino_wiat_maze_009",
+              "title": "Dino Świat Maze",
+              "pdf": "categories/labirynty/dino_wiat/labirynty_dino_wiat_maze_009.pdf",
+              "thumb": "categories/labirynty/dino_wiat/labirynty_dino_wiat_maze_009_thumb.jpg",
+              "solution": "categories/labirynty/dino_wiat/labirynty_dino_wiat_maze_009_solution.png",
+              "type": "track",
+              "generator": "circular_maze",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Maze",
+              "title_en": "Maze",
+              "instruction_pl": "Przejdź przez labirynt",
+              "instruction_en": "Follow the maze path",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Maze",
+                  "instruction": "Przejdź przez labirynt"
+                },
+                "en": {
+                  "title": "Maze",
+                  "instruction": "Follow the maze path"
+                }
+              }
+            }
+          ],
           "subcategories": []
         },
         {
           "id": "wrd_gwiazd",
           "title": "Wśród Gwiazd",
-          "items": [],
+          "items": [
+            {
+              "id": "labirynty_wrd_gwiazd_maze_005",
+              "title": "Wśród Gwiazd Maze",
+              "pdf": "categories/labirynty/wrd_gwiazd/labirynty_wrd_gwiazd_maze_005.pdf",
+              "thumb": "categories/labirynty/wrd_gwiazd/labirynty_wrd_gwiazd_maze_005_thumb.jpg",
+              "solution": "categories/labirynty/wrd_gwiazd/labirynty_wrd_gwiazd_maze_005_solution.png",
+              "type": "track",
+              "generator": "hex_ring_maze",
+              "date": "2026-06-15",
+              "title_pl": "Wśród Gwiazd Maze",
+              "title_en": "Maze",
+              "instruction_pl": "Przejdź przez labirynt",
+              "instruction_en": "Follow the maze path",
+              "texts": {
+                "pl": {
+                  "title": "Wśród Gwiazd Maze",
+                  "instruction": "Przejdź przez labirynt"
+                },
+                "en": {
+                  "title": "Maze",
+                  "instruction": "Follow the maze path"
+                }
+              }
+            },
+            {
+              "id": "labirynty_wrd_gwiazd_maze_006",
+              "title": "Wśród Gwiazd Maze",
+              "pdf": "categories/labirynty/wrd_gwiazd/labirynty_wrd_gwiazd_maze_006.pdf",
+              "thumb": "categories/labirynty/wrd_gwiazd/labirynty_wrd_gwiazd_maze_006_thumb.jpg",
+              "solution": "categories/labirynty/wrd_gwiazd/labirynty_wrd_gwiazd_maze_006_solution.png",
+              "type": "track",
+              "generator": "hex_ring_maze",
+              "date": "2026-06-15",
+              "title_pl": "Wśród Gwiazd Maze",
+              "title_en": "Maze",
+              "instruction_pl": "Przejdź przez labirynt",
+              "instruction_en": "Follow the maze path",
+              "texts": {
+                "pl": {
+                  "title": "Wśród Gwiazd Maze",
+                  "instruction": "Przejdź przez labirynt"
+                },
+                "en": {
+                  "title": "Maze",
+                  "instruction": "Follow the maze path"
+                }
+              }
+            },
+            {
+              "id": "labirynty_wrd_gwiazd_maze_007",
+              "title": "Wśród Gwiazd Maze",
+              "pdf": "categories/labirynty/wrd_gwiazd/labirynty_wrd_gwiazd_maze_007.pdf",
+              "thumb": "categories/labirynty/wrd_gwiazd/labirynty_wrd_gwiazd_maze_007_thumb.jpg",
+              "solution": "categories/labirynty/wrd_gwiazd/labirynty_wrd_gwiazd_maze_007_solution.png",
+              "type": "track",
+              "generator": "hex_ring_maze",
+              "date": "2026-06-15",
+              "title_pl": "Wśród Gwiazd Maze",
+              "title_en": "Maze",
+              "instruction_pl": "Przejdź przez labirynt",
+              "instruction_en": "Follow the maze path",
+              "texts": {
+                "pl": {
+                  "title": "Wśród Gwiazd Maze",
+                  "instruction": "Przejdź przez labirynt"
+                },
+                "en": {
+                  "title": "Maze",
+                  "instruction": "Follow the maze path"
+                }
+              }
+            },
+            {
+              "id": "labirynty_wrd_gwiazd_maze_008",
+              "title": "Wśród Gwiazd Maze",
+              "pdf": "categories/labirynty/wrd_gwiazd/labirynty_wrd_gwiazd_maze_008.pdf",
+              "thumb": "categories/labirynty/wrd_gwiazd/labirynty_wrd_gwiazd_maze_008_thumb.jpg",
+              "solution": "categories/labirynty/wrd_gwiazd/labirynty_wrd_gwiazd_maze_008_solution.png",
+              "type": "track",
+              "generator": "hex_ring_maze",
+              "date": "2026-06-15",
+              "title_pl": "Wśród Gwiazd Maze",
+              "title_en": "Maze",
+              "instruction_pl": "Przejdź przez labirynt",
+              "instruction_en": "Follow the maze path",
+              "texts": {
+                "pl": {
+                  "title": "Wśród Gwiazd Maze",
+                  "instruction": "Przejdź przez labirynt"
+                },
+                "en": {
+                  "title": "Maze",
+                  "instruction": "Follow the maze path"
+                }
+              }
+            },
+            {
+              "id": "labirynty_wrd_gwiazd_maze_009",
+              "title": "Wśród Gwiazd Maze",
+              "pdf": "categories/labirynty/wrd_gwiazd/labirynty_wrd_gwiazd_maze_009.pdf",
+              "thumb": "categories/labirynty/wrd_gwiazd/labirynty_wrd_gwiazd_maze_009_thumb.jpg",
+              "solution": "categories/labirynty/wrd_gwiazd/labirynty_wrd_gwiazd_maze_009_solution.png",
+              "type": "track",
+              "generator": "hex_ring_maze",
+              "date": "2026-06-15",
+              "title_pl": "Wśród Gwiazd Maze",
+              "title_en": "Maze",
+              "instruction_pl": "Przejdź przez labirynt",
+              "instruction_en": "Follow the maze path",
+              "texts": {
+                "pl": {
+                  "title": "Wśród Gwiazd Maze",
+                  "instruction": "Przejdź przez labirynt"
+                },
+                "en": {
+                  "title": "Maze",
+                  "instruction": "Follow the maze path"
+                }
+              }
+            }
+          ],
           "subcategories": []
         },
         {
           "id": "bkitna_przygoda",
           "title": "Błękitna Przygoda",
-          "items": [],
+          "items": [
+            {
+              "id": "labirynty_bkitna_przygoda_maze_007",
+              "title": "Błękitna Przygoda Maze",
+              "pdf": "categories/labirynty/bkitna_przygoda/labirynty_bkitna_przygoda_maze_007.pdf",
+              "thumb": "categories/labirynty/bkitna_przygoda/labirynty_bkitna_przygoda_maze_007_thumb.jpg",
+              "solution": "categories/labirynty/bkitna_przygoda/labirynty_bkitna_przygoda_maze_007_solution.png",
+              "type": "track",
+              "generator": "organic_maze",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Maze",
+              "title_en": "Maze",
+              "instruction_pl": "Przejdź przez labirynt",
+              "instruction_en": "Follow the maze path",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Maze",
+                  "instruction": "Przejdź przez labirynt"
+                },
+                "en": {
+                  "title": "Maze",
+                  "instruction": "Follow the maze path"
+                }
+              }
+            },
+            {
+              "id": "labirynty_bkitna_przygoda_maze_008",
+              "title": "Błękitna Przygoda Maze",
+              "pdf": "categories/labirynty/bkitna_przygoda/labirynty_bkitna_przygoda_maze_008.pdf",
+              "thumb": "categories/labirynty/bkitna_przygoda/labirynty_bkitna_przygoda_maze_008_thumb.jpg",
+              "solution": "categories/labirynty/bkitna_przygoda/labirynty_bkitna_przygoda_maze_008_solution.png",
+              "type": "track",
+              "generator": "organic_maze",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Maze",
+              "title_en": "Maze",
+              "instruction_pl": "Przejdź przez labirynt",
+              "instruction_en": "Follow the maze path",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Maze",
+                  "instruction": "Przejdź przez labirynt"
+                },
+                "en": {
+                  "title": "Maze",
+                  "instruction": "Follow the maze path"
+                }
+              }
+            },
+            {
+              "id": "labirynty_bkitna_przygoda_maze_009",
+              "title": "Błękitna Przygoda Maze",
+              "pdf": "categories/labirynty/bkitna_przygoda/labirynty_bkitna_przygoda_maze_009.pdf",
+              "thumb": "categories/labirynty/bkitna_przygoda/labirynty_bkitna_przygoda_maze_009_thumb.jpg",
+              "solution": "categories/labirynty/bkitna_przygoda/labirynty_bkitna_przygoda_maze_009_solution.png",
+              "type": "track",
+              "generator": "organic_maze",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Maze",
+              "title_en": "Maze",
+              "instruction_pl": "Przejdź przez labirynt",
+              "instruction_en": "Follow the maze path",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Maze",
+                  "instruction": "Przejdź przez labirynt"
+                },
+                "en": {
+                  "title": "Maze",
+                  "instruction": "Follow the maze path"
+                }
+              }
+            },
+            {
+              "id": "labirynty_bkitna_przygoda_maze_010",
+              "title": "Błękitna Przygoda Maze",
+              "pdf": "categories/labirynty/bkitna_przygoda/labirynty_bkitna_przygoda_maze_010.pdf",
+              "thumb": "categories/labirynty/bkitna_przygoda/labirynty_bkitna_przygoda_maze_010_thumb.jpg",
+              "solution": "categories/labirynty/bkitna_przygoda/labirynty_bkitna_przygoda_maze_010_solution.png",
+              "type": "track",
+              "generator": "organic_maze",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Maze",
+              "title_en": "Maze",
+              "instruction_pl": "Przejdź przez labirynt",
+              "instruction_en": "Follow the maze path",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Maze",
+                  "instruction": "Przejdź przez labirynt"
+                },
+                "en": {
+                  "title": "Maze",
+                  "instruction": "Follow the maze path"
+                }
+              }
+            },
+            {
+              "id": "labirynty_bkitna_przygoda_maze_011",
+              "title": "Błękitna Przygoda Maze",
+              "pdf": "categories/labirynty/bkitna_przygoda/labirynty_bkitna_przygoda_maze_011.pdf",
+              "thumb": "categories/labirynty/bkitna_przygoda/labirynty_bkitna_przygoda_maze_011_thumb.jpg",
+              "solution": "categories/labirynty/bkitna_przygoda/labirynty_bkitna_przygoda_maze_011_solution.png",
+              "type": "track",
+              "generator": "organic_maze",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Maze",
+              "title_en": "Maze",
+              "instruction_pl": "Przejdź przez labirynt",
+              "instruction_en": "Follow the maze path",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Maze",
+                  "instruction": "Przejdź przez labirynt"
+                },
+                "en": {
+                  "title": "Maze",
+                  "instruction": "Follow the maze path"
+                }
+              }
+            }
+          ],
           "subcategories": []
         },
         {
           "id": "ahoooj_kapitanie",
           "title": "Ahoooj Kapitanie",
-          "items": [],
+          "items": [
+            {
+              "id": "labirynty_ahoooj_kapitanie_maze_007",
+              "title": "Ahoooj Kapitanie Maze",
+              "pdf": "categories/labirynty/ahoooj_kapitanie/labirynty_ahoooj_kapitanie_maze_007.pdf",
+              "thumb": "categories/labirynty/ahoooj_kapitanie/labirynty_ahoooj_kapitanie_maze_007_thumb.jpg",
+              "solution": "categories/labirynty/ahoooj_kapitanie/labirynty_ahoooj_kapitanie_maze_007_solution.png",
+              "type": "track",
+              "generator": "square_maze",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Maze",
+              "title_en": "Maze",
+              "instruction_pl": "Przejdź przez labirynt",
+              "instruction_en": "Follow the maze path",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Maze",
+                  "instruction": "Przejdź przez labirynt"
+                },
+                "en": {
+                  "title": "Maze",
+                  "instruction": "Follow the maze path"
+                }
+              }
+            },
+            {
+              "id": "labirynty_ahoooj_kapitanie_maze_008",
+              "title": "Ahoooj Kapitanie Maze",
+              "pdf": "categories/labirynty/ahoooj_kapitanie/labirynty_ahoooj_kapitanie_maze_008.pdf",
+              "thumb": "categories/labirynty/ahoooj_kapitanie/labirynty_ahoooj_kapitanie_maze_008_thumb.jpg",
+              "solution": "categories/labirynty/ahoooj_kapitanie/labirynty_ahoooj_kapitanie_maze_008_solution.png",
+              "type": "track",
+              "generator": "square_maze",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Maze",
+              "title_en": "Maze",
+              "instruction_pl": "Przejdź przez labirynt",
+              "instruction_en": "Follow the maze path",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Maze",
+                  "instruction": "Przejdź przez labirynt"
+                },
+                "en": {
+                  "title": "Maze",
+                  "instruction": "Follow the maze path"
+                }
+              }
+            },
+            {
+              "id": "labirynty_ahoooj_kapitanie_maze_009",
+              "title": "Ahoooj Kapitanie Maze",
+              "pdf": "categories/labirynty/ahoooj_kapitanie/labirynty_ahoooj_kapitanie_maze_009.pdf",
+              "thumb": "categories/labirynty/ahoooj_kapitanie/labirynty_ahoooj_kapitanie_maze_009_thumb.jpg",
+              "solution": "categories/labirynty/ahoooj_kapitanie/labirynty_ahoooj_kapitanie_maze_009_solution.png",
+              "type": "track",
+              "generator": "square_maze",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Maze",
+              "title_en": "Maze",
+              "instruction_pl": "Przejdź przez labirynt",
+              "instruction_en": "Follow the maze path",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Maze",
+                  "instruction": "Przejdź przez labirynt"
+                },
+                "en": {
+                  "title": "Maze",
+                  "instruction": "Follow the maze path"
+                }
+              }
+            },
+            {
+              "id": "labirynty_ahoooj_kapitanie_maze_010",
+              "title": "Ahoooj Kapitanie Maze",
+              "pdf": "categories/labirynty/ahoooj_kapitanie/labirynty_ahoooj_kapitanie_maze_010.pdf",
+              "thumb": "categories/labirynty/ahoooj_kapitanie/labirynty_ahoooj_kapitanie_maze_010_thumb.jpg",
+              "solution": "categories/labirynty/ahoooj_kapitanie/labirynty_ahoooj_kapitanie_maze_010_solution.png",
+              "type": "track",
+              "generator": "square_maze",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Maze",
+              "title_en": "Maze",
+              "instruction_pl": "Przejdź przez labirynt",
+              "instruction_en": "Follow the maze path",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Maze",
+                  "instruction": "Przejdź przez labirynt"
+                },
+                "en": {
+                  "title": "Maze",
+                  "instruction": "Follow the maze path"
+                }
+              }
+            },
+            {
+              "id": "labirynty_ahoooj_kapitanie_maze_011",
+              "title": "Ahoooj Kapitanie Maze",
+              "pdf": "categories/labirynty/ahoooj_kapitanie/labirynty_ahoooj_kapitanie_maze_011.pdf",
+              "thumb": "categories/labirynty/ahoooj_kapitanie/labirynty_ahoooj_kapitanie_maze_011_thumb.jpg",
+              "solution": "categories/labirynty/ahoooj_kapitanie/labirynty_ahoooj_kapitanie_maze_011_solution.png",
+              "type": "track",
+              "generator": "square_maze",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Maze",
+              "title_en": "Maze",
+              "instruction_pl": "Przejdź przez labirynt",
+              "instruction_en": "Follow the maze path",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Maze",
+                  "instruction": "Przejdź przez labirynt"
+                },
+                "en": {
+                  "title": "Maze",
+                  "instruction": "Follow the maze path"
+                }
+              }
+            }
+          ],
           "subcategories": []
         }
       ],
@@ -1789,25 +2273,485 @@
         {
           "id": "dino_wiat",
           "title": "Dino Świat",
-          "items": [],
+          "items": [
+            {
+              "id": "rysowanie_dino_wiat_drawing_001",
+              "title": "Dino Świat Drawing",
+              "pdf": "categories/rysowanie/dino_wiat/rysowanie_dino_wiat_drawing_001.pdf",
+              "thumb": "categories/rysowanie/dino_wiat/rysowanie_dino_wiat_drawing_001_thumb.jpg",
+              "solution": "categories/rysowanie/dino_wiat/rysowanie_dino_wiat_drawing_001_solution.png",
+              "type": "drawing",
+              "generator": "drawing_trace",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Drawing",
+              "title_en": "Drawing",
+              "instruction_pl": "Odrysuj obrazek",
+              "instruction_en": "Trace or copy the picture",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Drawing",
+                  "instruction": "Odrysuj obrazek"
+                },
+                "en": {
+                  "title": "Drawing",
+                  "instruction": "Trace or copy the picture"
+                }
+              }
+            },
+            {
+              "id": "rysowanie_dino_wiat_drawing_002",
+              "title": "Dino Świat Drawing",
+              "pdf": "categories/rysowanie/dino_wiat/rysowanie_dino_wiat_drawing_002.pdf",
+              "thumb": "categories/rysowanie/dino_wiat/rysowanie_dino_wiat_drawing_002_thumb.jpg",
+              "solution": "categories/rysowanie/dino_wiat/rysowanie_dino_wiat_drawing_002_solution.png",
+              "type": "drawing",
+              "generator": "drawing_trace",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Drawing",
+              "title_en": "Drawing",
+              "instruction_pl": "Odrysuj obrazek",
+              "instruction_en": "Trace or copy the picture",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Drawing",
+                  "instruction": "Odrysuj obrazek"
+                },
+                "en": {
+                  "title": "Drawing",
+                  "instruction": "Trace or copy the picture"
+                }
+              }
+            },
+            {
+              "id": "rysowanie_dino_wiat_drawing_003",
+              "title": "Dino Świat Drawing",
+              "pdf": "categories/rysowanie/dino_wiat/rysowanie_dino_wiat_drawing_003.pdf",
+              "thumb": "categories/rysowanie/dino_wiat/rysowanie_dino_wiat_drawing_003_thumb.jpg",
+              "solution": "categories/rysowanie/dino_wiat/rysowanie_dino_wiat_drawing_003_solution.png",
+              "type": "drawing",
+              "generator": "drawing_trace",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Drawing",
+              "title_en": "Drawing",
+              "instruction_pl": "Odrysuj obrazek",
+              "instruction_en": "Trace or copy the picture",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Drawing",
+                  "instruction": "Odrysuj obrazek"
+                },
+                "en": {
+                  "title": "Drawing",
+                  "instruction": "Trace or copy the picture"
+                }
+              }
+            },
+            {
+              "id": "rysowanie_dino_wiat_drawing_004",
+              "title": "Dino Świat Drawing",
+              "pdf": "categories/rysowanie/dino_wiat/rysowanie_dino_wiat_drawing_004.pdf",
+              "thumb": "categories/rysowanie/dino_wiat/rysowanie_dino_wiat_drawing_004_thumb.jpg",
+              "solution": "categories/rysowanie/dino_wiat/rysowanie_dino_wiat_drawing_004_solution.png",
+              "type": "drawing",
+              "generator": "drawing_trace",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Drawing",
+              "title_en": "Drawing",
+              "instruction_pl": "Odrysuj obrazek",
+              "instruction_en": "Trace or copy the picture",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Drawing",
+                  "instruction": "Odrysuj obrazek"
+                },
+                "en": {
+                  "title": "Drawing",
+                  "instruction": "Trace or copy the picture"
+                }
+              }
+            },
+            {
+              "id": "rysowanie_dino_wiat_drawing_005",
+              "title": "Dino Świat Drawing",
+              "pdf": "categories/rysowanie/dino_wiat/rysowanie_dino_wiat_drawing_005.pdf",
+              "thumb": "categories/rysowanie/dino_wiat/rysowanie_dino_wiat_drawing_005_thumb.jpg",
+              "solution": "categories/rysowanie/dino_wiat/rysowanie_dino_wiat_drawing_005_solution.png",
+              "type": "drawing",
+              "generator": "drawing_trace",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Drawing",
+              "title_en": "Drawing",
+              "instruction_pl": "Odrysuj obrazek",
+              "instruction_en": "Trace or copy the picture",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Drawing",
+                  "instruction": "Odrysuj obrazek"
+                },
+                "en": {
+                  "title": "Drawing",
+                  "instruction": "Trace or copy the picture"
+                }
+              }
+            }
+          ],
           "subcategories": []
         },
         {
           "id": "wrd_gwiazd",
           "title": "Wśród Gwiazd",
-          "items": [],
+          "items": [
+            {
+              "id": "rysowanie_wrd_gwiazd_drawing_001",
+              "title": "Wśród Gwiazd Drawing",
+              "pdf": "categories/rysowanie/wrd_gwiazd/rysowanie_wrd_gwiazd_drawing_001.pdf",
+              "thumb": "categories/rysowanie/wrd_gwiazd/rysowanie_wrd_gwiazd_drawing_001_thumb.jpg",
+              "solution": "categories/rysowanie/wrd_gwiazd/rysowanie_wrd_gwiazd_drawing_001_solution.png",
+              "type": "drawing",
+              "generator": "drawing_trace",
+              "date": "2026-06-15",
+              "title_pl": "Wśród Gwiazd Drawing",
+              "title_en": "Drawing",
+              "instruction_pl": "Odrysuj obrazek",
+              "instruction_en": "Trace or copy the picture",
+              "texts": {
+                "pl": {
+                  "title": "Wśród Gwiazd Drawing",
+                  "instruction": "Odrysuj obrazek"
+                },
+                "en": {
+                  "title": "Drawing",
+                  "instruction": "Trace or copy the picture"
+                }
+              }
+            },
+            {
+              "id": "rysowanie_wrd_gwiazd_drawing_002",
+              "title": "Wśród Gwiazd Drawing",
+              "pdf": "categories/rysowanie/wrd_gwiazd/rysowanie_wrd_gwiazd_drawing_002.pdf",
+              "thumb": "categories/rysowanie/wrd_gwiazd/rysowanie_wrd_gwiazd_drawing_002_thumb.jpg",
+              "solution": "categories/rysowanie/wrd_gwiazd/rysowanie_wrd_gwiazd_drawing_002_solution.png",
+              "type": "drawing",
+              "generator": "drawing_trace",
+              "date": "2026-06-15",
+              "title_pl": "Wśród Gwiazd Drawing",
+              "title_en": "Drawing",
+              "instruction_pl": "Odrysuj obrazek",
+              "instruction_en": "Trace or copy the picture",
+              "texts": {
+                "pl": {
+                  "title": "Wśród Gwiazd Drawing",
+                  "instruction": "Odrysuj obrazek"
+                },
+                "en": {
+                  "title": "Drawing",
+                  "instruction": "Trace or copy the picture"
+                }
+              }
+            },
+            {
+              "id": "rysowanie_wrd_gwiazd_drawing_003",
+              "title": "Wśród Gwiazd Drawing",
+              "pdf": "categories/rysowanie/wrd_gwiazd/rysowanie_wrd_gwiazd_drawing_003.pdf",
+              "thumb": "categories/rysowanie/wrd_gwiazd/rysowanie_wrd_gwiazd_drawing_003_thumb.jpg",
+              "solution": "categories/rysowanie/wrd_gwiazd/rysowanie_wrd_gwiazd_drawing_003_solution.png",
+              "type": "drawing",
+              "generator": "drawing_trace",
+              "date": "2026-06-15",
+              "title_pl": "Wśród Gwiazd Drawing",
+              "title_en": "Drawing",
+              "instruction_pl": "Odrysuj obrazek",
+              "instruction_en": "Trace or copy the picture",
+              "texts": {
+                "pl": {
+                  "title": "Wśród Gwiazd Drawing",
+                  "instruction": "Odrysuj obrazek"
+                },
+                "en": {
+                  "title": "Drawing",
+                  "instruction": "Trace or copy the picture"
+                }
+              }
+            },
+            {
+              "id": "rysowanie_wrd_gwiazd_drawing_004",
+              "title": "Wśród Gwiazd Drawing",
+              "pdf": "categories/rysowanie/wrd_gwiazd/rysowanie_wrd_gwiazd_drawing_004.pdf",
+              "thumb": "categories/rysowanie/wrd_gwiazd/rysowanie_wrd_gwiazd_drawing_004_thumb.jpg",
+              "solution": "categories/rysowanie/wrd_gwiazd/rysowanie_wrd_gwiazd_drawing_004_solution.png",
+              "type": "drawing",
+              "generator": "drawing_trace",
+              "date": "2026-06-15",
+              "title_pl": "Wśród Gwiazd Drawing",
+              "title_en": "Drawing",
+              "instruction_pl": "Odrysuj obrazek",
+              "instruction_en": "Trace or copy the picture",
+              "texts": {
+                "pl": {
+                  "title": "Wśród Gwiazd Drawing",
+                  "instruction": "Odrysuj obrazek"
+                },
+                "en": {
+                  "title": "Drawing",
+                  "instruction": "Trace or copy the picture"
+                }
+              }
+            },
+            {
+              "id": "rysowanie_wrd_gwiazd_drawing_005",
+              "title": "Wśród Gwiazd Drawing",
+              "pdf": "categories/rysowanie/wrd_gwiazd/rysowanie_wrd_gwiazd_drawing_005.pdf",
+              "thumb": "categories/rysowanie/wrd_gwiazd/rysowanie_wrd_gwiazd_drawing_005_thumb.jpg",
+              "solution": "categories/rysowanie/wrd_gwiazd/rysowanie_wrd_gwiazd_drawing_005_solution.png",
+              "type": "drawing",
+              "generator": "drawing_trace",
+              "date": "2026-06-15",
+              "title_pl": "Wśród Gwiazd Drawing",
+              "title_en": "Drawing",
+              "instruction_pl": "Odrysuj obrazek",
+              "instruction_en": "Trace or copy the picture",
+              "texts": {
+                "pl": {
+                  "title": "Wśród Gwiazd Drawing",
+                  "instruction": "Odrysuj obrazek"
+                },
+                "en": {
+                  "title": "Drawing",
+                  "instruction": "Trace or copy the picture"
+                }
+              }
+            }
+          ],
           "subcategories": []
         },
         {
           "id": "bkitna_przygoda",
           "title": "Błękitna Przygoda",
-          "items": [],
+          "items": [
+            {
+              "id": "rysowanie_bkitna_przygoda_drawing_001",
+              "title": "Błękitna Przygoda Drawing",
+              "pdf": "categories/rysowanie/bkitna_przygoda/rysowanie_bkitna_przygoda_drawing_001.pdf",
+              "thumb": "categories/rysowanie/bkitna_przygoda/rysowanie_bkitna_przygoda_drawing_001_thumb.jpg",
+              "solution": "categories/rysowanie/bkitna_przygoda/rysowanie_bkitna_przygoda_drawing_001_solution.png",
+              "type": "drawing",
+              "generator": "drawing_trace",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Drawing",
+              "title_en": "Drawing",
+              "instruction_pl": "Odrysuj obrazek",
+              "instruction_en": "Trace or copy the picture",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Drawing",
+                  "instruction": "Odrysuj obrazek"
+                },
+                "en": {
+                  "title": "Drawing",
+                  "instruction": "Trace or copy the picture"
+                }
+              }
+            },
+            {
+              "id": "rysowanie_bkitna_przygoda_drawing_002",
+              "title": "Błękitna Przygoda Drawing",
+              "pdf": "categories/rysowanie/bkitna_przygoda/rysowanie_bkitna_przygoda_drawing_002.pdf",
+              "thumb": "categories/rysowanie/bkitna_przygoda/rysowanie_bkitna_przygoda_drawing_002_thumb.jpg",
+              "solution": "categories/rysowanie/bkitna_przygoda/rysowanie_bkitna_przygoda_drawing_002_solution.png",
+              "type": "drawing",
+              "generator": "drawing_trace",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Drawing",
+              "title_en": "Drawing",
+              "instruction_pl": "Odrysuj obrazek",
+              "instruction_en": "Trace or copy the picture",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Drawing",
+                  "instruction": "Odrysuj obrazek"
+                },
+                "en": {
+                  "title": "Drawing",
+                  "instruction": "Trace or copy the picture"
+                }
+              }
+            },
+            {
+              "id": "rysowanie_bkitna_przygoda_drawing_003",
+              "title": "Błękitna Przygoda Drawing",
+              "pdf": "categories/rysowanie/bkitna_przygoda/rysowanie_bkitna_przygoda_drawing_003.pdf",
+              "thumb": "categories/rysowanie/bkitna_przygoda/rysowanie_bkitna_przygoda_drawing_003_thumb.jpg",
+              "solution": "categories/rysowanie/bkitna_przygoda/rysowanie_bkitna_przygoda_drawing_003_solution.png",
+              "type": "drawing",
+              "generator": "drawing_trace",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Drawing",
+              "title_en": "Drawing",
+              "instruction_pl": "Odrysuj obrazek",
+              "instruction_en": "Trace or copy the picture",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Drawing",
+                  "instruction": "Odrysuj obrazek"
+                },
+                "en": {
+                  "title": "Drawing",
+                  "instruction": "Trace or copy the picture"
+                }
+              }
+            },
+            {
+              "id": "rysowanie_bkitna_przygoda_drawing_004",
+              "title": "Błękitna Przygoda Drawing",
+              "pdf": "categories/rysowanie/bkitna_przygoda/rysowanie_bkitna_przygoda_drawing_004.pdf",
+              "thumb": "categories/rysowanie/bkitna_przygoda/rysowanie_bkitna_przygoda_drawing_004_thumb.jpg",
+              "solution": "categories/rysowanie/bkitna_przygoda/rysowanie_bkitna_przygoda_drawing_004_solution.png",
+              "type": "drawing",
+              "generator": "drawing_trace",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Drawing",
+              "title_en": "Drawing",
+              "instruction_pl": "Odrysuj obrazek",
+              "instruction_en": "Trace or copy the picture",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Drawing",
+                  "instruction": "Odrysuj obrazek"
+                },
+                "en": {
+                  "title": "Drawing",
+                  "instruction": "Trace or copy the picture"
+                }
+              }
+            }
+          ],
           "subcategories": []
         },
         {
           "id": "ahoooj_kapitanie",
           "title": "Ahoooj Kapitanie",
-          "items": [],
+          "items": [
+            {
+              "id": "rysowanie_ahoooj_kapitanie_drawing_001",
+              "title": "Ahoooj Kapitanie Drawing",
+              "pdf": "categories/rysowanie/ahoooj_kapitanie/rysowanie_ahoooj_kapitanie_drawing_001.pdf",
+              "thumb": "categories/rysowanie/ahoooj_kapitanie/rysowanie_ahoooj_kapitanie_drawing_001_thumb.jpg",
+              "solution": "categories/rysowanie/ahoooj_kapitanie/rysowanie_ahoooj_kapitanie_drawing_001_solution.png",
+              "type": "drawing",
+              "generator": "drawing_trace",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Drawing",
+              "title_en": "Drawing",
+              "instruction_pl": "Odrysuj obrazek",
+              "instruction_en": "Trace or copy the picture",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Drawing",
+                  "instruction": "Odrysuj obrazek"
+                },
+                "en": {
+                  "title": "Drawing",
+                  "instruction": "Trace or copy the picture"
+                }
+              }
+            },
+            {
+              "id": "rysowanie_ahoooj_kapitanie_drawing_002",
+              "title": "Ahoooj Kapitanie Drawing",
+              "pdf": "categories/rysowanie/ahoooj_kapitanie/rysowanie_ahoooj_kapitanie_drawing_002.pdf",
+              "thumb": "categories/rysowanie/ahoooj_kapitanie/rysowanie_ahoooj_kapitanie_drawing_002_thumb.jpg",
+              "solution": "categories/rysowanie/ahoooj_kapitanie/rysowanie_ahoooj_kapitanie_drawing_002_solution.png",
+              "type": "drawing",
+              "generator": "drawing_trace",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Drawing",
+              "title_en": "Drawing",
+              "instruction_pl": "Odrysuj obrazek",
+              "instruction_en": "Trace or copy the picture",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Drawing",
+                  "instruction": "Odrysuj obrazek"
+                },
+                "en": {
+                  "title": "Drawing",
+                  "instruction": "Trace or copy the picture"
+                }
+              }
+            },
+            {
+              "id": "rysowanie_ahoooj_kapitanie_drawing_003",
+              "title": "Ahoooj Kapitanie Drawing",
+              "pdf": "categories/rysowanie/ahoooj_kapitanie/rysowanie_ahoooj_kapitanie_drawing_003.pdf",
+              "thumb": "categories/rysowanie/ahoooj_kapitanie/rysowanie_ahoooj_kapitanie_drawing_003_thumb.jpg",
+              "solution": "categories/rysowanie/ahoooj_kapitanie/rysowanie_ahoooj_kapitanie_drawing_003_solution.png",
+              "type": "drawing",
+              "generator": "drawing_trace",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Drawing",
+              "title_en": "Drawing",
+              "instruction_pl": "Odrysuj obrazek",
+              "instruction_en": "Trace or copy the picture",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Drawing",
+                  "instruction": "Odrysuj obrazek"
+                },
+                "en": {
+                  "title": "Drawing",
+                  "instruction": "Trace or copy the picture"
+                }
+              }
+            },
+            {
+              "id": "rysowanie_ahoooj_kapitanie_drawing_004",
+              "title": "Ahoooj Kapitanie Drawing",
+              "pdf": "categories/rysowanie/ahoooj_kapitanie/rysowanie_ahoooj_kapitanie_drawing_004.pdf",
+              "thumb": "categories/rysowanie/ahoooj_kapitanie/rysowanie_ahoooj_kapitanie_drawing_004_thumb.jpg",
+              "solution": "categories/rysowanie/ahoooj_kapitanie/rysowanie_ahoooj_kapitanie_drawing_004_solution.png",
+              "type": "drawing",
+              "generator": "drawing_trace",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Drawing",
+              "title_en": "Drawing",
+              "instruction_pl": "Odrysuj obrazek",
+              "instruction_en": "Trace or copy the picture",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Drawing",
+                  "instruction": "Odrysuj obrazek"
+                },
+                "en": {
+                  "title": "Drawing",
+                  "instruction": "Trace or copy the picture"
+                }
+              }
+            },
+            {
+              "id": "rysowanie_ahoooj_kapitanie_drawing_005",
+              "title": "Ahoooj Kapitanie Drawing",
+              "pdf": "categories/rysowanie/ahoooj_kapitanie/rysowanie_ahoooj_kapitanie_drawing_005.pdf",
+              "thumb": "categories/rysowanie/ahoooj_kapitanie/rysowanie_ahoooj_kapitanie_drawing_005_thumb.jpg",
+              "solution": "categories/rysowanie/ahoooj_kapitanie/rysowanie_ahoooj_kapitanie_drawing_005_solution.png",
+              "type": "drawing",
+              "generator": "drawing_trace",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Drawing",
+              "title_en": "Drawing",
+              "instruction_pl": "Odrysuj obrazek",
+              "instruction_en": "Trace or copy the picture",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Drawing",
+                  "instruction": "Odrysuj obrazek"
+                },
+                "en": {
+                  "title": "Drawing",
+                  "instruction": "Trace or copy the picture"
+                }
+              }
+            }
+          ],
           "subcategories": []
         }
       ],
@@ -1822,31 +2766,1016 @@
         {
           "id": "przygody_w_jungli",
           "title": "Przygody w Jungli",
-          "items": [],
+          "items": [
+            {
+              "id": "liczenie_przygody_w_jungli_counting_001",
+              "title": "Przygody w Jungli Counting",
+              "pdf": "categories/liczenie/przygody_w_jungli/liczenie_przygody_w_jungli_counting_001.pdf",
+              "thumb": "categories/liczenie/przygody_w_jungli/liczenie_przygody_w_jungli_counting_001_thumb.jpg",
+              "solution": "categories/liczenie/przygody_w_jungli/liczenie_przygody_w_jungli_counting_001_solution.png",
+              "type": "counting",
+              "generator": "counting_scatter",
+              "date": "2026-06-15",
+              "title_pl": "Przygody w Jungli Counting",
+              "title_en": "Counting",
+              "instruction_pl": "Policz obrazki i wpisz liczby",
+              "instruction_en": "Count the pictures and write the numbers",
+              "texts": {
+                "pl": {
+                  "title": "Przygody w Jungli Counting",
+                  "instruction": "Policz obrazki i wpisz liczby"
+                },
+                "en": {
+                  "title": "Counting",
+                  "instruction": "Count the pictures and write the numbers"
+                }
+              },
+              "premium": true
+            },
+            {
+              "id": "liczenie_przygody_w_jungli_counting_002",
+              "title": "Przygody w Jungli Counting",
+              "pdf": "categories/liczenie/przygody_w_jungli/liczenie_przygody_w_jungli_counting_002.pdf",
+              "thumb": "categories/liczenie/przygody_w_jungli/liczenie_przygody_w_jungli_counting_002_thumb.jpg",
+              "solution": "categories/liczenie/przygody_w_jungli/liczenie_przygody_w_jungli_counting_002_solution.png",
+              "type": "counting",
+              "generator": "counting_scatter",
+              "date": "2026-06-15",
+              "title_pl": "Przygody w Jungli Counting",
+              "title_en": "Counting",
+              "instruction_pl": "Policz obrazki i wpisz liczby",
+              "instruction_en": "Count the pictures and write the numbers",
+              "texts": {
+                "pl": {
+                  "title": "Przygody w Jungli Counting",
+                  "instruction": "Policz obrazki i wpisz liczby"
+                },
+                "en": {
+                  "title": "Counting",
+                  "instruction": "Count the pictures and write the numbers"
+                }
+              },
+              "premium": true
+            },
+            {
+              "id": "liczenie_przygody_w_jungli_counting_003",
+              "title": "Przygody w Jungli Counting",
+              "pdf": "categories/liczenie/przygody_w_jungli/liczenie_przygody_w_jungli_counting_003.pdf",
+              "thumb": "categories/liczenie/przygody_w_jungli/liczenie_przygody_w_jungli_counting_003_thumb.jpg",
+              "solution": "categories/liczenie/przygody_w_jungli/liczenie_przygody_w_jungli_counting_003_solution.png",
+              "type": "counting",
+              "generator": "counting_scatter",
+              "date": "2026-06-15",
+              "title_pl": "Przygody w Jungli Counting",
+              "title_en": "Counting",
+              "instruction_pl": "Policz obrazki i wpisz liczby",
+              "instruction_en": "Count the pictures and write the numbers",
+              "texts": {
+                "pl": {
+                  "title": "Przygody w Jungli Counting",
+                  "instruction": "Policz obrazki i wpisz liczby"
+                },
+                "en": {
+                  "title": "Counting",
+                  "instruction": "Count the pictures and write the numbers"
+                }
+              },
+              "premium": true
+            },
+            {
+              "id": "liczenie_przygody_w_jungli_counting_004",
+              "title": "Przygody w Jungli Counting",
+              "pdf": "categories/liczenie/przygody_w_jungli/liczenie_przygody_w_jungli_counting_004.pdf",
+              "thumb": "categories/liczenie/przygody_w_jungli/liczenie_przygody_w_jungli_counting_004_thumb.jpg",
+              "solution": "categories/liczenie/przygody_w_jungli/liczenie_przygody_w_jungli_counting_004_solution.png",
+              "type": "counting",
+              "generator": "counting_scatter",
+              "date": "2026-06-15",
+              "title_pl": "Przygody w Jungli Counting",
+              "title_en": "Counting",
+              "instruction_pl": "Policz obrazki i wpisz liczby",
+              "instruction_en": "Count the pictures and write the numbers",
+              "texts": {
+                "pl": {
+                  "title": "Przygody w Jungli Counting",
+                  "instruction": "Policz obrazki i wpisz liczby"
+                },
+                "en": {
+                  "title": "Counting",
+                  "instruction": "Count the pictures and write the numbers"
+                }
+              },
+              "premium": true
+            },
+            {
+              "id": "liczenie_przygody_w_jungli_counting_005",
+              "title": "Przygody w Jungli Counting",
+              "pdf": "categories/liczenie/przygody_w_jungli/liczenie_przygody_w_jungli_counting_005.pdf",
+              "thumb": "categories/liczenie/przygody_w_jungli/liczenie_przygody_w_jungli_counting_005_thumb.jpg",
+              "solution": "categories/liczenie/przygody_w_jungli/liczenie_przygody_w_jungli_counting_005_solution.png",
+              "type": "counting",
+              "generator": "counting_scatter",
+              "date": "2026-06-15",
+              "title_pl": "Przygody w Jungli Counting",
+              "title_en": "Counting",
+              "instruction_pl": "Policz obrazki i wpisz liczby",
+              "instruction_en": "Count the pictures and write the numbers",
+              "texts": {
+                "pl": {
+                  "title": "Przygody w Jungli Counting",
+                  "instruction": "Policz obrazki i wpisz liczby"
+                },
+                "en": {
+                  "title": "Counting",
+                  "instruction": "Count the pictures and write the numbers"
+                }
+              },
+              "premium": true
+            }
+          ],
           "subcategories": []
         },
         {
           "id": "dino_wiat",
           "title": "Dino Świat",
-          "items": [],
+          "items": [
+            {
+              "id": "liczenie_dino_wiat_counting_rows_001",
+              "title": "Dino Świat Counting Rows",
+              "pdf": "categories/liczenie/dino_wiat/liczenie_dino_wiat_counting_rows_001.pdf",
+              "thumb": "categories/liczenie/dino_wiat/liczenie_dino_wiat_counting_rows_001_thumb.jpg",
+              "solution": "categories/liczenie/dino_wiat/liczenie_dino_wiat_counting_rows_001_solution.png",
+              "type": "counting",
+              "generator": "counting_rows",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Counting Rows",
+              "title_en": "Counting Rows",
+              "instruction_pl": "Policz obrazki w każdym rzędzie",
+              "instruction_en": "Count the pictures in each row",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Counting Rows",
+                  "instruction": "Policz obrazki w każdym rzędzie"
+                },
+                "en": {
+                  "title": "Counting Rows",
+                  "instruction": "Count the pictures in each row"
+                }
+              },
+              "premium": true
+            },
+            {
+              "id": "liczenie_dino_wiat_counting_rows_002",
+              "title": "Dino Świat Counting Rows",
+              "pdf": "categories/liczenie/dino_wiat/liczenie_dino_wiat_counting_rows_002.pdf",
+              "thumb": "categories/liczenie/dino_wiat/liczenie_dino_wiat_counting_rows_002_thumb.jpg",
+              "solution": "categories/liczenie/dino_wiat/liczenie_dino_wiat_counting_rows_002_solution.png",
+              "type": "counting",
+              "generator": "counting_rows",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Counting Rows",
+              "title_en": "Counting Rows",
+              "instruction_pl": "Policz obrazki w każdym rzędzie",
+              "instruction_en": "Count the pictures in each row",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Counting Rows",
+                  "instruction": "Policz obrazki w każdym rzędzie"
+                },
+                "en": {
+                  "title": "Counting Rows",
+                  "instruction": "Count the pictures in each row"
+                }
+              },
+              "premium": true
+            },
+            {
+              "id": "liczenie_dino_wiat_counting_rows_003",
+              "title": "Dino Świat Counting Rows",
+              "pdf": "categories/liczenie/dino_wiat/liczenie_dino_wiat_counting_rows_003.pdf",
+              "thumb": "categories/liczenie/dino_wiat/liczenie_dino_wiat_counting_rows_003_thumb.jpg",
+              "solution": "categories/liczenie/dino_wiat/liczenie_dino_wiat_counting_rows_003_solution.png",
+              "type": "counting",
+              "generator": "counting_rows",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Counting Rows",
+              "title_en": "Counting Rows",
+              "instruction_pl": "Policz obrazki w każdym rzędzie",
+              "instruction_en": "Count the pictures in each row",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Counting Rows",
+                  "instruction": "Policz obrazki w każdym rzędzie"
+                },
+                "en": {
+                  "title": "Counting Rows",
+                  "instruction": "Count the pictures in each row"
+                }
+              },
+              "premium": true
+            },
+            {
+              "id": "liczenie_dino_wiat_counting_rows_004",
+              "title": "Dino Świat Counting Rows",
+              "pdf": "categories/liczenie/dino_wiat/liczenie_dino_wiat_counting_rows_004.pdf",
+              "thumb": "categories/liczenie/dino_wiat/liczenie_dino_wiat_counting_rows_004_thumb.jpg",
+              "solution": "categories/liczenie/dino_wiat/liczenie_dino_wiat_counting_rows_004_solution.png",
+              "type": "counting",
+              "generator": "counting_rows",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Counting Rows",
+              "title_en": "Counting Rows",
+              "instruction_pl": "Policz obrazki w każdym rzędzie",
+              "instruction_en": "Count the pictures in each row",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Counting Rows",
+                  "instruction": "Policz obrazki w każdym rzędzie"
+                },
+                "en": {
+                  "title": "Counting Rows",
+                  "instruction": "Count the pictures in each row"
+                }
+              },
+              "premium": true
+            },
+            {
+              "id": "liczenie_dino_wiat_counting_rows_005",
+              "title": "Dino Świat Counting Rows",
+              "pdf": "categories/liczenie/dino_wiat/liczenie_dino_wiat_counting_rows_005.pdf",
+              "thumb": "categories/liczenie/dino_wiat/liczenie_dino_wiat_counting_rows_005_thumb.jpg",
+              "solution": "categories/liczenie/dino_wiat/liczenie_dino_wiat_counting_rows_005_solution.png",
+              "type": "counting",
+              "generator": "counting_rows",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Counting Rows",
+              "title_en": "Counting Rows",
+              "instruction_pl": "Policz obrazki w każdym rzędzie",
+              "instruction_en": "Count the pictures in each row",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Counting Rows",
+                  "instruction": "Policz obrazki w każdym rzędzie"
+                },
+                "en": {
+                  "title": "Counting Rows",
+                  "instruction": "Count the pictures in each row"
+                }
+              },
+              "premium": true
+            },
+            {
+              "id": "liczenie_dino_wiat_counting_rows_006",
+              "title": "Dino Świat Counting Rows",
+              "pdf": "categories/liczenie/dino_wiat/liczenie_dino_wiat_counting_rows_006.pdf",
+              "thumb": "categories/liczenie/dino_wiat/liczenie_dino_wiat_counting_rows_006_thumb.jpg",
+              "solution": "categories/liczenie/dino_wiat/liczenie_dino_wiat_counting_rows_006_solution.png",
+              "type": "counting",
+              "generator": "counting_rows",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Counting Rows",
+              "title_en": "Counting Rows",
+              "instruction_pl": "Policz obrazki w każdym rzędzie",
+              "instruction_en": "Count the pictures in each row",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Counting Rows",
+                  "instruction": "Policz obrazki w każdym rzędzie"
+                },
+                "en": {
+                  "title": "Counting Rows",
+                  "instruction": "Count the pictures in each row"
+                }
+              },
+              "premium": true
+            },
+            {
+              "id": "liczenie_dino_wiat_counting_rows_007",
+              "title": "Dino Świat Counting Rows",
+              "pdf": "categories/liczenie/dino_wiat/liczenie_dino_wiat_counting_rows_007.pdf",
+              "thumb": "categories/liczenie/dino_wiat/liczenie_dino_wiat_counting_rows_007_thumb.jpg",
+              "solution": "categories/liczenie/dino_wiat/liczenie_dino_wiat_counting_rows_007_solution.png",
+              "type": "counting",
+              "generator": "counting_rows",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Counting Rows",
+              "title_en": "Counting Rows",
+              "instruction_pl": "Policz obrazki w każdym rzędzie",
+              "instruction_en": "Count the pictures in each row",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Counting Rows",
+                  "instruction": "Policz obrazki w każdym rzędzie"
+                },
+                "en": {
+                  "title": "Counting Rows",
+                  "instruction": "Count the pictures in each row"
+                }
+              },
+              "premium": true
+            },
+            {
+              "id": "liczenie_dino_wiat_counting_rows_008",
+              "title": "Dino Świat Counting Rows",
+              "pdf": "categories/liczenie/dino_wiat/liczenie_dino_wiat_counting_rows_008.pdf",
+              "thumb": "categories/liczenie/dino_wiat/liczenie_dino_wiat_counting_rows_008_thumb.jpg",
+              "solution": "categories/liczenie/dino_wiat/liczenie_dino_wiat_counting_rows_008_solution.png",
+              "type": "counting",
+              "generator": "counting_rows",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Counting Rows",
+              "title_en": "Counting Rows",
+              "instruction_pl": "Policz obrazki w każdym rzędzie",
+              "instruction_en": "Count the pictures in each row",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Counting Rows",
+                  "instruction": "Policz obrazki w każdym rzędzie"
+                },
+                "en": {
+                  "title": "Counting Rows",
+                  "instruction": "Count the pictures in each row"
+                }
+              },
+              "premium": true
+            },
+            {
+              "id": "liczenie_dino_wiat_counting_rows_009",
+              "title": "Dino Świat Counting Rows",
+              "pdf": "categories/liczenie/dino_wiat/liczenie_dino_wiat_counting_rows_009.pdf",
+              "thumb": "categories/liczenie/dino_wiat/liczenie_dino_wiat_counting_rows_009_thumb.jpg",
+              "solution": "categories/liczenie/dino_wiat/liczenie_dino_wiat_counting_rows_009_solution.png",
+              "type": "counting",
+              "generator": "counting_rows",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Counting Rows",
+              "title_en": "Counting Rows",
+              "instruction_pl": "Policz obrazki w każdym rzędzie",
+              "instruction_en": "Count the pictures in each row",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Counting Rows",
+                  "instruction": "Policz obrazki w każdym rzędzie"
+                },
+                "en": {
+                  "title": "Counting Rows",
+                  "instruction": "Count the pictures in each row"
+                }
+              },
+              "premium": true
+            },
+            {
+              "id": "liczenie_dino_wiat_counting_rows_010",
+              "title": "Dino Świat Counting Rows",
+              "pdf": "categories/liczenie/dino_wiat/liczenie_dino_wiat_counting_rows_010.pdf",
+              "thumb": "categories/liczenie/dino_wiat/liczenie_dino_wiat_counting_rows_010_thumb.jpg",
+              "solution": "categories/liczenie/dino_wiat/liczenie_dino_wiat_counting_rows_010_solution.png",
+              "type": "counting",
+              "generator": "counting_rows",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Counting Rows",
+              "title_en": "Counting Rows",
+              "instruction_pl": "Policz obrazki w każdym rzędzie",
+              "instruction_en": "Count the pictures in each row",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Counting Rows",
+                  "instruction": "Policz obrazki w każdym rzędzie"
+                },
+                "en": {
+                  "title": "Counting Rows",
+                  "instruction": "Count the pictures in each row"
+                }
+              },
+              "premium": true
+            }
+          ],
           "subcategories": []
         },
         {
           "id": "wrd_gwiazd",
           "title": "Wśród Gwiazd",
-          "items": [],
+          "items": [
+            {
+              "id": "liczenie_wrd_gwiazd_counting_rows_001",
+              "title": "Wśród Gwiazd Counting Rows",
+              "pdf": "categories/liczenie/wrd_gwiazd/liczenie_wrd_gwiazd_counting_rows_001.pdf",
+              "thumb": "categories/liczenie/wrd_gwiazd/liczenie_wrd_gwiazd_counting_rows_001_thumb.jpg",
+              "solution": "categories/liczenie/wrd_gwiazd/liczenie_wrd_gwiazd_counting_rows_001_solution.png",
+              "type": "counting",
+              "generator": "counting_rows",
+              "date": "2026-06-15",
+              "title_pl": "Wśród Gwiazd Counting Rows",
+              "title_en": "Counting Rows",
+              "instruction_pl": "Policz obrazki w każdym rzędzie",
+              "instruction_en": "Count the pictures in each row",
+              "texts": {
+                "pl": {
+                  "title": "Wśród Gwiazd Counting Rows",
+                  "instruction": "Policz obrazki w każdym rzędzie"
+                },
+                "en": {
+                  "title": "Counting Rows",
+                  "instruction": "Count the pictures in each row"
+                }
+              },
+              "premium": true
+            },
+            {
+              "id": "liczenie_wrd_gwiazd_counting_rows_002",
+              "title": "Wśród Gwiazd Counting Rows",
+              "pdf": "categories/liczenie/wrd_gwiazd/liczenie_wrd_gwiazd_counting_rows_002.pdf",
+              "thumb": "categories/liczenie/wrd_gwiazd/liczenie_wrd_gwiazd_counting_rows_002_thumb.jpg",
+              "solution": "categories/liczenie/wrd_gwiazd/liczenie_wrd_gwiazd_counting_rows_002_solution.png",
+              "type": "counting",
+              "generator": "counting_rows",
+              "date": "2026-06-15",
+              "title_pl": "Wśród Gwiazd Counting Rows",
+              "title_en": "Counting Rows",
+              "instruction_pl": "Policz obrazki w każdym rzędzie",
+              "instruction_en": "Count the pictures in each row",
+              "texts": {
+                "pl": {
+                  "title": "Wśród Gwiazd Counting Rows",
+                  "instruction": "Policz obrazki w każdym rzędzie"
+                },
+                "en": {
+                  "title": "Counting Rows",
+                  "instruction": "Count the pictures in each row"
+                }
+              },
+              "premium": true
+            },
+            {
+              "id": "liczenie_wrd_gwiazd_counting_rows_003",
+              "title": "Wśród Gwiazd Counting Rows",
+              "pdf": "categories/liczenie/wrd_gwiazd/liczenie_wrd_gwiazd_counting_rows_003.pdf",
+              "thumb": "categories/liczenie/wrd_gwiazd/liczenie_wrd_gwiazd_counting_rows_003_thumb.jpg",
+              "solution": "categories/liczenie/wrd_gwiazd/liczenie_wrd_gwiazd_counting_rows_003_solution.png",
+              "type": "counting",
+              "generator": "counting_rows",
+              "date": "2026-06-15",
+              "title_pl": "Wśród Gwiazd Counting Rows",
+              "title_en": "Counting Rows",
+              "instruction_pl": "Policz obrazki w każdym rzędzie",
+              "instruction_en": "Count the pictures in each row",
+              "texts": {
+                "pl": {
+                  "title": "Wśród Gwiazd Counting Rows",
+                  "instruction": "Policz obrazki w każdym rzędzie"
+                },
+                "en": {
+                  "title": "Counting Rows",
+                  "instruction": "Count the pictures in each row"
+                }
+              },
+              "premium": true
+            },
+            {
+              "id": "liczenie_wrd_gwiazd_counting_rows_004",
+              "title": "Wśród Gwiazd Counting Rows",
+              "pdf": "categories/liczenie/wrd_gwiazd/liczenie_wrd_gwiazd_counting_rows_004.pdf",
+              "thumb": "categories/liczenie/wrd_gwiazd/liczenie_wrd_gwiazd_counting_rows_004_thumb.jpg",
+              "solution": "categories/liczenie/wrd_gwiazd/liczenie_wrd_gwiazd_counting_rows_004_solution.png",
+              "type": "counting",
+              "generator": "counting_rows",
+              "date": "2026-06-15",
+              "title_pl": "Wśród Gwiazd Counting Rows",
+              "title_en": "Counting Rows",
+              "instruction_pl": "Policz obrazki w każdym rzędzie",
+              "instruction_en": "Count the pictures in each row",
+              "texts": {
+                "pl": {
+                  "title": "Wśród Gwiazd Counting Rows",
+                  "instruction": "Policz obrazki w każdym rzędzie"
+                },
+                "en": {
+                  "title": "Counting Rows",
+                  "instruction": "Count the pictures in each row"
+                }
+              },
+              "premium": true
+            },
+            {
+              "id": "liczenie_wrd_gwiazd_counting_rows_005",
+              "title": "Wśród Gwiazd Counting Rows",
+              "pdf": "categories/liczenie/wrd_gwiazd/liczenie_wrd_gwiazd_counting_rows_005.pdf",
+              "thumb": "categories/liczenie/wrd_gwiazd/liczenie_wrd_gwiazd_counting_rows_005_thumb.jpg",
+              "solution": "categories/liczenie/wrd_gwiazd/liczenie_wrd_gwiazd_counting_rows_005_solution.png",
+              "type": "counting",
+              "generator": "counting_rows",
+              "date": "2026-06-15",
+              "title_pl": "Wśród Gwiazd Counting Rows",
+              "title_en": "Counting Rows",
+              "instruction_pl": "Policz obrazki w każdym rzędzie",
+              "instruction_en": "Count the pictures in each row",
+              "texts": {
+                "pl": {
+                  "title": "Wśród Gwiazd Counting Rows",
+                  "instruction": "Policz obrazki w każdym rzędzie"
+                },
+                "en": {
+                  "title": "Counting Rows",
+                  "instruction": "Count the pictures in each row"
+                }
+              },
+              "premium": true
+            }
+          ],
           "subcategories": []
         },
         {
           "id": "bkitna_przygoda",
           "title": "Błękitna Przygoda",
-          "items": [],
+          "items": [
+            {
+              "id": "liczenie_bkitna_przygoda_counting_001",
+              "title": "Błękitna Przygoda Counting",
+              "pdf": "categories/liczenie/bkitna_przygoda/liczenie_bkitna_przygoda_counting_001.pdf",
+              "thumb": "categories/liczenie/bkitna_przygoda/liczenie_bkitna_przygoda_counting_001_thumb.jpg",
+              "solution": "categories/liczenie/bkitna_przygoda/liczenie_bkitna_przygoda_counting_001_solution.png",
+              "type": "counting",
+              "generator": "counting_scatter",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Counting",
+              "title_en": "Counting",
+              "instruction_pl": "Policz obrazki i wpisz liczby",
+              "instruction_en": "Count the pictures and write the numbers",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Counting",
+                  "instruction": "Policz obrazki i wpisz liczby"
+                },
+                "en": {
+                  "title": "Counting",
+                  "instruction": "Count the pictures and write the numbers"
+                }
+              }
+            },
+            {
+              "id": "liczenie_bkitna_przygoda_counting_002",
+              "title": "Błękitna Przygoda Counting",
+              "pdf": "categories/liczenie/bkitna_przygoda/liczenie_bkitna_przygoda_counting_002.pdf",
+              "thumb": "categories/liczenie/bkitna_przygoda/liczenie_bkitna_przygoda_counting_002_thumb.jpg",
+              "solution": "categories/liczenie/bkitna_przygoda/liczenie_bkitna_przygoda_counting_002_solution.png",
+              "type": "counting",
+              "generator": "counting_scatter",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Counting",
+              "title_en": "Counting",
+              "instruction_pl": "Policz obrazki i wpisz liczby",
+              "instruction_en": "Count the pictures and write the numbers",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Counting",
+                  "instruction": "Policz obrazki i wpisz liczby"
+                },
+                "en": {
+                  "title": "Counting",
+                  "instruction": "Count the pictures and write the numbers"
+                }
+              }
+            },
+            {
+              "id": "liczenie_bkitna_przygoda_counting_003",
+              "title": "Błękitna Przygoda Counting",
+              "pdf": "categories/liczenie/bkitna_przygoda/liczenie_bkitna_przygoda_counting_003.pdf",
+              "thumb": "categories/liczenie/bkitna_przygoda/liczenie_bkitna_przygoda_counting_003_thumb.jpg",
+              "solution": "categories/liczenie/bkitna_przygoda/liczenie_bkitna_przygoda_counting_003_solution.png",
+              "type": "counting",
+              "generator": "counting_scatter",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Counting",
+              "title_en": "Counting",
+              "instruction_pl": "Policz obrazki i wpisz liczby",
+              "instruction_en": "Count the pictures and write the numbers",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Counting",
+                  "instruction": "Policz obrazki i wpisz liczby"
+                },
+                "en": {
+                  "title": "Counting",
+                  "instruction": "Count the pictures and write the numbers"
+                }
+              }
+            },
+            {
+              "id": "liczenie_bkitna_przygoda_counting_004",
+              "title": "Błękitna Przygoda Counting",
+              "pdf": "categories/liczenie/bkitna_przygoda/liczenie_bkitna_przygoda_counting_004.pdf",
+              "thumb": "categories/liczenie/bkitna_przygoda/liczenie_bkitna_przygoda_counting_004_thumb.jpg",
+              "solution": "categories/liczenie/bkitna_przygoda/liczenie_bkitna_przygoda_counting_004_solution.png",
+              "type": "counting",
+              "generator": "counting_scatter",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Counting",
+              "title_en": "Counting",
+              "instruction_pl": "Policz obrazki i wpisz liczby",
+              "instruction_en": "Count the pictures and write the numbers",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Counting",
+                  "instruction": "Policz obrazki i wpisz liczby"
+                },
+                "en": {
+                  "title": "Counting",
+                  "instruction": "Count the pictures and write the numbers"
+                }
+              }
+            },
+            {
+              "id": "liczenie_bkitna_przygoda_counting_005",
+              "title": "Błękitna Przygoda Counting",
+              "pdf": "categories/liczenie/bkitna_przygoda/liczenie_bkitna_przygoda_counting_005.pdf",
+              "thumb": "categories/liczenie/bkitna_przygoda/liczenie_bkitna_przygoda_counting_005_thumb.jpg",
+              "solution": "categories/liczenie/bkitna_przygoda/liczenie_bkitna_przygoda_counting_005_solution.png",
+              "type": "counting",
+              "generator": "counting_scatter",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Counting",
+              "title_en": "Counting",
+              "instruction_pl": "Policz obrazki i wpisz liczby",
+              "instruction_en": "Count the pictures and write the numbers",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Counting",
+                  "instruction": "Policz obrazki i wpisz liczby"
+                },
+                "en": {
+                  "title": "Counting",
+                  "instruction": "Count the pictures and write the numbers"
+                }
+              }
+            },
+            {
+              "id": "liczenie_bkitna_przygoda_counting_006",
+              "title": "Błękitna Przygoda Counting",
+              "pdf": "categories/liczenie/bkitna_przygoda/liczenie_bkitna_przygoda_counting_006.pdf",
+              "thumb": "categories/liczenie/bkitna_przygoda/liczenie_bkitna_przygoda_counting_006_thumb.jpg",
+              "solution": "categories/liczenie/bkitna_przygoda/liczenie_bkitna_przygoda_counting_006_solution.png",
+              "type": "counting",
+              "generator": "counting_scatter",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Counting",
+              "title_en": "Counting",
+              "instruction_pl": "Policz obrazki i wpisz liczby",
+              "instruction_en": "Count the pictures and write the numbers",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Counting",
+                  "instruction": "Policz obrazki i wpisz liczby"
+                },
+                "en": {
+                  "title": "Counting",
+                  "instruction": "Count the pictures and write the numbers"
+                }
+              }
+            },
+            {
+              "id": "liczenie_bkitna_przygoda_counting_007",
+              "title": "Błękitna Przygoda Counting",
+              "pdf": "categories/liczenie/bkitna_przygoda/liczenie_bkitna_przygoda_counting_007.pdf",
+              "thumb": "categories/liczenie/bkitna_przygoda/liczenie_bkitna_przygoda_counting_007_thumb.jpg",
+              "solution": "categories/liczenie/bkitna_przygoda/liczenie_bkitna_przygoda_counting_007_solution.png",
+              "type": "counting",
+              "generator": "counting_scatter",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Counting",
+              "title_en": "Counting",
+              "instruction_pl": "Policz obrazki i wpisz liczby",
+              "instruction_en": "Count the pictures and write the numbers",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Counting",
+                  "instruction": "Policz obrazki i wpisz liczby"
+                },
+                "en": {
+                  "title": "Counting",
+                  "instruction": "Count the pictures and write the numbers"
+                }
+              }
+            },
+            {
+              "id": "liczenie_bkitna_przygoda_counting_008",
+              "title": "Błękitna Przygoda Counting",
+              "pdf": "categories/liczenie/bkitna_przygoda/liczenie_bkitna_przygoda_counting_008.pdf",
+              "thumb": "categories/liczenie/bkitna_przygoda/liczenie_bkitna_przygoda_counting_008_thumb.jpg",
+              "solution": "categories/liczenie/bkitna_przygoda/liczenie_bkitna_przygoda_counting_008_solution.png",
+              "type": "counting",
+              "generator": "counting_scatter",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Counting",
+              "title_en": "Counting",
+              "instruction_pl": "Policz obrazki i wpisz liczby",
+              "instruction_en": "Count the pictures and write the numbers",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Counting",
+                  "instruction": "Policz obrazki i wpisz liczby"
+                },
+                "en": {
+                  "title": "Counting",
+                  "instruction": "Count the pictures and write the numbers"
+                }
+              }
+            },
+            {
+              "id": "liczenie_bkitna_przygoda_counting_009",
+              "title": "Błękitna Przygoda Counting",
+              "pdf": "categories/liczenie/bkitna_przygoda/liczenie_bkitna_przygoda_counting_009.pdf",
+              "thumb": "categories/liczenie/bkitna_przygoda/liczenie_bkitna_przygoda_counting_009_thumb.jpg",
+              "solution": "categories/liczenie/bkitna_przygoda/liczenie_bkitna_przygoda_counting_009_solution.png",
+              "type": "counting",
+              "generator": "counting_scatter",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Counting",
+              "title_en": "Counting",
+              "instruction_pl": "Policz obrazki i wpisz liczby",
+              "instruction_en": "Count the pictures and write the numbers",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Counting",
+                  "instruction": "Policz obrazki i wpisz liczby"
+                },
+                "en": {
+                  "title": "Counting",
+                  "instruction": "Count the pictures and write the numbers"
+                }
+              }
+            },
+            {
+              "id": "liczenie_bkitna_przygoda_counting_010",
+              "title": "Błękitna Przygoda Counting",
+              "pdf": "categories/liczenie/bkitna_przygoda/liczenie_bkitna_przygoda_counting_010.pdf",
+              "thumb": "categories/liczenie/bkitna_przygoda/liczenie_bkitna_przygoda_counting_010_thumb.jpg",
+              "solution": "categories/liczenie/bkitna_przygoda/liczenie_bkitna_przygoda_counting_010_solution.png",
+              "type": "counting",
+              "generator": "counting_scatter",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Counting",
+              "title_en": "Counting",
+              "instruction_pl": "Policz obrazki i wpisz liczby",
+              "instruction_en": "Count the pictures and write the numbers",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Counting",
+                  "instruction": "Policz obrazki i wpisz liczby"
+                },
+                "en": {
+                  "title": "Counting",
+                  "instruction": "Count the pictures and write the numbers"
+                }
+              }
+            }
+          ],
           "subcategories": []
         },
         {
           "id": "ahoooj_kapitanie",
           "title": "Ahoooj Kapitanie",
-          "items": [],
+          "items": [
+            {
+              "id": "liczenie_ahoooj_kapitanie_counting_001",
+              "title": "Ahoooj Kapitanie Counting",
+              "pdf": "categories/liczenie/ahoooj_kapitanie/liczenie_ahoooj_kapitanie_counting_001.pdf",
+              "thumb": "categories/liczenie/ahoooj_kapitanie/liczenie_ahoooj_kapitanie_counting_001_thumb.jpg",
+              "solution": "categories/liczenie/ahoooj_kapitanie/liczenie_ahoooj_kapitanie_counting_001_solution.png",
+              "type": "counting",
+              "generator": "counting_scatter",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Counting",
+              "title_en": "Counting",
+              "instruction_pl": "Policz obrazki i wpisz liczby",
+              "instruction_en": "Count the pictures and write the numbers",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Counting",
+                  "instruction": "Policz obrazki i wpisz liczby"
+                },
+                "en": {
+                  "title": "Counting",
+                  "instruction": "Count the pictures and write the numbers"
+                }
+              }
+            },
+            {
+              "id": "liczenie_ahoooj_kapitanie_counting_002",
+              "title": "Ahoooj Kapitanie Counting",
+              "pdf": "categories/liczenie/ahoooj_kapitanie/liczenie_ahoooj_kapitanie_counting_002.pdf",
+              "thumb": "categories/liczenie/ahoooj_kapitanie/liczenie_ahoooj_kapitanie_counting_002_thumb.jpg",
+              "solution": "categories/liczenie/ahoooj_kapitanie/liczenie_ahoooj_kapitanie_counting_002_solution.png",
+              "type": "counting",
+              "generator": "counting_scatter",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Counting",
+              "title_en": "Counting",
+              "instruction_pl": "Policz obrazki i wpisz liczby",
+              "instruction_en": "Count the pictures and write the numbers",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Counting",
+                  "instruction": "Policz obrazki i wpisz liczby"
+                },
+                "en": {
+                  "title": "Counting",
+                  "instruction": "Count the pictures and write the numbers"
+                }
+              }
+            },
+            {
+              "id": "liczenie_ahoooj_kapitanie_counting_003",
+              "title": "Ahoooj Kapitanie Counting",
+              "pdf": "categories/liczenie/ahoooj_kapitanie/liczenie_ahoooj_kapitanie_counting_003.pdf",
+              "thumb": "categories/liczenie/ahoooj_kapitanie/liczenie_ahoooj_kapitanie_counting_003_thumb.jpg",
+              "solution": "categories/liczenie/ahoooj_kapitanie/liczenie_ahoooj_kapitanie_counting_003_solution.png",
+              "type": "counting",
+              "generator": "counting_scatter",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Counting",
+              "title_en": "Counting",
+              "instruction_pl": "Policz obrazki i wpisz liczby",
+              "instruction_en": "Count the pictures and write the numbers",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Counting",
+                  "instruction": "Policz obrazki i wpisz liczby"
+                },
+                "en": {
+                  "title": "Counting",
+                  "instruction": "Count the pictures and write the numbers"
+                }
+              }
+            },
+            {
+              "id": "liczenie_ahoooj_kapitanie_counting_004",
+              "title": "Ahoooj Kapitanie Counting",
+              "pdf": "categories/liczenie/ahoooj_kapitanie/liczenie_ahoooj_kapitanie_counting_004.pdf",
+              "thumb": "categories/liczenie/ahoooj_kapitanie/liczenie_ahoooj_kapitanie_counting_004_thumb.jpg",
+              "solution": "categories/liczenie/ahoooj_kapitanie/liczenie_ahoooj_kapitanie_counting_004_solution.png",
+              "type": "counting",
+              "generator": "counting_scatter",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Counting",
+              "title_en": "Counting",
+              "instruction_pl": "Policz obrazki i wpisz liczby",
+              "instruction_en": "Count the pictures and write the numbers",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Counting",
+                  "instruction": "Policz obrazki i wpisz liczby"
+                },
+                "en": {
+                  "title": "Counting",
+                  "instruction": "Count the pictures and write the numbers"
+                }
+              }
+            },
+            {
+              "id": "liczenie_ahoooj_kapitanie_counting_005",
+              "title": "Ahoooj Kapitanie Counting",
+              "pdf": "categories/liczenie/ahoooj_kapitanie/liczenie_ahoooj_kapitanie_counting_005.pdf",
+              "thumb": "categories/liczenie/ahoooj_kapitanie/liczenie_ahoooj_kapitanie_counting_005_thumb.jpg",
+              "solution": "categories/liczenie/ahoooj_kapitanie/liczenie_ahoooj_kapitanie_counting_005_solution.png",
+              "type": "counting",
+              "generator": "counting_scatter",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Counting",
+              "title_en": "Counting",
+              "instruction_pl": "Policz obrazki i wpisz liczby",
+              "instruction_en": "Count the pictures and write the numbers",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Counting",
+                  "instruction": "Policz obrazki i wpisz liczby"
+                },
+                "en": {
+                  "title": "Counting",
+                  "instruction": "Count the pictures and write the numbers"
+                }
+              }
+            },
+            {
+              "id": "liczenie_ahoooj_kapitanie_counting_006",
+              "title": "Ahoooj Kapitanie Counting",
+              "pdf": "categories/liczenie/ahoooj_kapitanie/liczenie_ahoooj_kapitanie_counting_006.pdf",
+              "thumb": "categories/liczenie/ahoooj_kapitanie/liczenie_ahoooj_kapitanie_counting_006_thumb.jpg",
+              "solution": "categories/liczenie/ahoooj_kapitanie/liczenie_ahoooj_kapitanie_counting_006_solution.png",
+              "type": "counting",
+              "generator": "counting_scatter",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Counting",
+              "title_en": "Counting",
+              "instruction_pl": "Policz obrazki i wpisz liczby",
+              "instruction_en": "Count the pictures and write the numbers",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Counting",
+                  "instruction": "Policz obrazki i wpisz liczby"
+                },
+                "en": {
+                  "title": "Counting",
+                  "instruction": "Count the pictures and write the numbers"
+                }
+              }
+            },
+            {
+              "id": "liczenie_ahoooj_kapitanie_counting_007",
+              "title": "Ahoooj Kapitanie Counting",
+              "pdf": "categories/liczenie/ahoooj_kapitanie/liczenie_ahoooj_kapitanie_counting_007.pdf",
+              "thumb": "categories/liczenie/ahoooj_kapitanie/liczenie_ahoooj_kapitanie_counting_007_thumb.jpg",
+              "solution": "categories/liczenie/ahoooj_kapitanie/liczenie_ahoooj_kapitanie_counting_007_solution.png",
+              "type": "counting",
+              "generator": "counting_scatter",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Counting",
+              "title_en": "Counting",
+              "instruction_pl": "Policz obrazki i wpisz liczby",
+              "instruction_en": "Count the pictures and write the numbers",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Counting",
+                  "instruction": "Policz obrazki i wpisz liczby"
+                },
+                "en": {
+                  "title": "Counting",
+                  "instruction": "Count the pictures and write the numbers"
+                }
+              }
+            },
+            {
+              "id": "liczenie_ahoooj_kapitanie_counting_008",
+              "title": "Ahoooj Kapitanie Counting",
+              "pdf": "categories/liczenie/ahoooj_kapitanie/liczenie_ahoooj_kapitanie_counting_008.pdf",
+              "thumb": "categories/liczenie/ahoooj_kapitanie/liczenie_ahoooj_kapitanie_counting_008_thumb.jpg",
+              "solution": "categories/liczenie/ahoooj_kapitanie/liczenie_ahoooj_kapitanie_counting_008_solution.png",
+              "type": "counting",
+              "generator": "counting_scatter",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Counting",
+              "title_en": "Counting",
+              "instruction_pl": "Policz obrazki i wpisz liczby",
+              "instruction_en": "Count the pictures and write the numbers",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Counting",
+                  "instruction": "Policz obrazki i wpisz liczby"
+                },
+                "en": {
+                  "title": "Counting",
+                  "instruction": "Count the pictures and write the numbers"
+                }
+              }
+            },
+            {
+              "id": "liczenie_ahoooj_kapitanie_counting_009",
+              "title": "Ahoooj Kapitanie Counting",
+              "pdf": "categories/liczenie/ahoooj_kapitanie/liczenie_ahoooj_kapitanie_counting_009.pdf",
+              "thumb": "categories/liczenie/ahoooj_kapitanie/liczenie_ahoooj_kapitanie_counting_009_thumb.jpg",
+              "solution": "categories/liczenie/ahoooj_kapitanie/liczenie_ahoooj_kapitanie_counting_009_solution.png",
+              "type": "counting",
+              "generator": "counting_scatter",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Counting",
+              "title_en": "Counting",
+              "instruction_pl": "Policz obrazki i wpisz liczby",
+              "instruction_en": "Count the pictures and write the numbers",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Counting",
+                  "instruction": "Policz obrazki i wpisz liczby"
+                },
+                "en": {
+                  "title": "Counting",
+                  "instruction": "Count the pictures and write the numbers"
+                }
+              }
+            },
+            {
+              "id": "liczenie_ahoooj_kapitanie_counting_010",
+              "title": "Ahoooj Kapitanie Counting",
+              "pdf": "categories/liczenie/ahoooj_kapitanie/liczenie_ahoooj_kapitanie_counting_010.pdf",
+              "thumb": "categories/liczenie/ahoooj_kapitanie/liczenie_ahoooj_kapitanie_counting_010_thumb.jpg",
+              "solution": "categories/liczenie/ahoooj_kapitanie/liczenie_ahoooj_kapitanie_counting_010_solution.png",
+              "type": "counting",
+              "generator": "counting_scatter",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Counting",
+              "title_en": "Counting",
+              "instruction_pl": "Policz obrazki i wpisz liczby",
+              "instruction_en": "Count the pictures and write the numbers",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Counting",
+                  "instruction": "Policz obrazki i wpisz liczby"
+                },
+                "en": {
+                  "title": "Counting",
+                  "instruction": "Count the pictures and write the numbers"
+                }
+              }
+            }
+          ],
           "subcategories": []
         }
       ],
