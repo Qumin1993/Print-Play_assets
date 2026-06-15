@@ -1469,25 +1469,519 @@
         {
           "id": "dino_wiat",
           "title": "Dino Świat",
-          "items": [],
+          "items": [
+            {
+              "id": "kolorowanki_dino_wiat_coloring_001",
+              "title": "Dino Świat Coloring",
+              "pdf": "categories/kolorowanki/dino_wiat/kolorowanki_dino_wiat_coloring_001.pdf",
+              "thumb": "categories/kolorowanki/dino_wiat/kolorowanki_dino_wiat_coloring_001_thumb.jpg",
+              "solution": "categories/kolorowanki/dino_wiat/kolorowanki_dino_wiat_coloring_001_solution.png",
+              "type": "paint",
+              "generator": "coloring",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Coloring",
+              "title_en": "Coloring",
+              "instruction_pl": "Pokoloruj obrazek",
+              "instruction_en": "Color the picture",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Coloring",
+                  "instruction": "Pokoloruj obrazek"
+                },
+                "en": {
+                  "title": "Coloring",
+                  "instruction": "Color the picture"
+                }
+              }
+            },
+            {
+              "id": "kolorowanki_dino_wiat_coloring_002",
+              "title": "Dino Świat Coloring",
+              "pdf": "categories/kolorowanki/dino_wiat/kolorowanki_dino_wiat_coloring_002.pdf",
+              "thumb": "categories/kolorowanki/dino_wiat/kolorowanki_dino_wiat_coloring_002_thumb.jpg",
+              "solution": "categories/kolorowanki/dino_wiat/kolorowanki_dino_wiat_coloring_002_solution.png",
+              "type": "paint",
+              "generator": "coloring",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Coloring",
+              "title_en": "Coloring",
+              "instruction_pl": "Pokoloruj obrazek",
+              "instruction_en": "Color the picture",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Coloring",
+                  "instruction": "Pokoloruj obrazek"
+                },
+                "en": {
+                  "title": "Coloring",
+                  "instruction": "Color the picture"
+                }
+              }
+            },
+            {
+              "id": "kolorowanki_dino_wiat_coloring_003",
+              "title": "Dino Świat Coloring",
+              "pdf": "categories/kolorowanki/dino_wiat/kolorowanki_dino_wiat_coloring_003.pdf",
+              "thumb": "categories/kolorowanki/dino_wiat/kolorowanki_dino_wiat_coloring_003_thumb.jpg",
+              "solution": "categories/kolorowanki/dino_wiat/kolorowanki_dino_wiat_coloring_003_solution.png",
+              "type": "paint",
+              "generator": "coloring",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Coloring",
+              "title_en": "Coloring",
+              "instruction_pl": "Pokoloruj obrazek",
+              "instruction_en": "Color the picture",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Coloring",
+                  "instruction": "Pokoloruj obrazek"
+                },
+                "en": {
+                  "title": "Coloring",
+                  "instruction": "Color the picture"
+                }
+              }
+            },
+            {
+              "id": "kolorowanki_dino_wiat_coloring_004",
+              "title": "Dino Świat Coloring",
+              "pdf": "categories/kolorowanki/dino_wiat/kolorowanki_dino_wiat_coloring_004.pdf",
+              "thumb": "categories/kolorowanki/dino_wiat/kolorowanki_dino_wiat_coloring_004_thumb.jpg",
+              "solution": "categories/kolorowanki/dino_wiat/kolorowanki_dino_wiat_coloring_004_solution.png",
+              "type": "paint",
+              "generator": "coloring",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Coloring",
+              "title_en": "Coloring",
+              "instruction_pl": "Pokoloruj obrazek",
+              "instruction_en": "Color the picture",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Coloring",
+                  "instruction": "Pokoloruj obrazek"
+                },
+                "en": {
+                  "title": "Coloring",
+                  "instruction": "Color the picture"
+                }
+              }
+            },
+            {
+              "id": "kolorowanki_dino_wiat_coloring_005",
+              "title": "Dino Świat Coloring",
+              "pdf": "categories/kolorowanki/dino_wiat/kolorowanki_dino_wiat_coloring_005.pdf",
+              "thumb": "categories/kolorowanki/dino_wiat/kolorowanki_dino_wiat_coloring_005_thumb.jpg",
+              "solution": "categories/kolorowanki/dino_wiat/kolorowanki_dino_wiat_coloring_005_solution.png",
+              "type": "paint",
+              "generator": "coloring",
+              "date": "2026-06-15",
+              "title_pl": "Dino Świat Coloring",
+              "title_en": "Coloring",
+              "instruction_pl": "Pokoloruj obrazek",
+              "instruction_en": "Color the picture",
+              "texts": {
+                "pl": {
+                  "title": "Dino Świat Coloring",
+                  "instruction": "Pokoloruj obrazek"
+                },
+                "en": {
+                  "title": "Coloring",
+                  "instruction": "Color the picture"
+                }
+              }
+            }
+          ],
           "subcategories": []
         },
         {
           "id": "wrd_gwiazd",
           "title": "Wśród Gwiazd",
-          "items": [],
+          "items": [
+            {
+              "id": "kolorowanki_wrd_gwiazd_coloring_001",
+              "title": "Wśród Gwiazd Coloring",
+              "pdf": "categories/kolorowanki/wrd_gwiazd/kolorowanki_wrd_gwiazd_coloring_001.pdf",
+              "thumb": "categories/kolorowanki/wrd_gwiazd/kolorowanki_wrd_gwiazd_coloring_001_thumb.jpg",
+              "solution": "categories/kolorowanki/wrd_gwiazd/kolorowanki_wrd_gwiazd_coloring_001_solution.png",
+              "type": "paint",
+              "generator": "coloring",
+              "date": "2026-06-15",
+              "title_pl": "Wśród Gwiazd Coloring",
+              "title_en": "Coloring",
+              "instruction_pl": "Pokoloruj obrazek",
+              "instruction_en": "Color the picture",
+              "texts": {
+                "pl": {
+                  "title": "Wśród Gwiazd Coloring",
+                  "instruction": "Pokoloruj obrazek"
+                },
+                "en": {
+                  "title": "Coloring",
+                  "instruction": "Color the picture"
+                }
+              }
+            },
+            {
+              "id": "kolorowanki_wrd_gwiazd_coloring_002",
+              "title": "Wśród Gwiazd Coloring",
+              "pdf": "categories/kolorowanki/wrd_gwiazd/kolorowanki_wrd_gwiazd_coloring_002.pdf",
+              "thumb": "categories/kolorowanki/wrd_gwiazd/kolorowanki_wrd_gwiazd_coloring_002_thumb.jpg",
+              "solution": "categories/kolorowanki/wrd_gwiazd/kolorowanki_wrd_gwiazd_coloring_002_solution.png",
+              "type": "paint",
+              "generator": "coloring",
+              "date": "2026-06-15",
+              "title_pl": "Wśród Gwiazd Coloring",
+              "title_en": "Coloring",
+              "instruction_pl": "Pokoloruj obrazek",
+              "instruction_en": "Color the picture",
+              "texts": {
+                "pl": {
+                  "title": "Wśród Gwiazd Coloring",
+                  "instruction": "Pokoloruj obrazek"
+                },
+                "en": {
+                  "title": "Coloring",
+                  "instruction": "Color the picture"
+                }
+              }
+            },
+            {
+              "id": "kolorowanki_wrd_gwiazd_coloring_003",
+              "title": "Wśród Gwiazd Coloring",
+              "pdf": "categories/kolorowanki/wrd_gwiazd/kolorowanki_wrd_gwiazd_coloring_003.pdf",
+              "thumb": "categories/kolorowanki/wrd_gwiazd/kolorowanki_wrd_gwiazd_coloring_003_thumb.jpg",
+              "solution": "categories/kolorowanki/wrd_gwiazd/kolorowanki_wrd_gwiazd_coloring_003_solution.png",
+              "type": "paint",
+              "generator": "coloring",
+              "date": "2026-06-15",
+              "title_pl": "Wśród Gwiazd Coloring",
+              "title_en": "Coloring",
+              "instruction_pl": "Pokoloruj obrazek",
+              "instruction_en": "Color the picture",
+              "texts": {
+                "pl": {
+                  "title": "Wśród Gwiazd Coloring",
+                  "instruction": "Pokoloruj obrazek"
+                },
+                "en": {
+                  "title": "Coloring",
+                  "instruction": "Color the picture"
+                }
+              }
+            },
+            {
+              "id": "kolorowanki_wrd_gwiazd_coloring_004",
+              "title": "Wśród Gwiazd Coloring",
+              "pdf": "categories/kolorowanki/wrd_gwiazd/kolorowanki_wrd_gwiazd_coloring_004.pdf",
+              "thumb": "categories/kolorowanki/wrd_gwiazd/kolorowanki_wrd_gwiazd_coloring_004_thumb.jpg",
+              "solution": "categories/kolorowanki/wrd_gwiazd/kolorowanki_wrd_gwiazd_coloring_004_solution.png",
+              "type": "paint",
+              "generator": "coloring",
+              "date": "2026-06-15",
+              "title_pl": "Wśród Gwiazd Coloring",
+              "title_en": "Coloring",
+              "instruction_pl": "Pokoloruj obrazek",
+              "instruction_en": "Color the picture",
+              "texts": {
+                "pl": {
+                  "title": "Wśród Gwiazd Coloring",
+                  "instruction": "Pokoloruj obrazek"
+                },
+                "en": {
+                  "title": "Coloring",
+                  "instruction": "Color the picture"
+                }
+              }
+            },
+            {
+              "id": "kolorowanki_wrd_gwiazd_coloring_005",
+              "title": "Wśród Gwiazd Coloring",
+              "pdf": "categories/kolorowanki/wrd_gwiazd/kolorowanki_wrd_gwiazd_coloring_005.pdf",
+              "thumb": "categories/kolorowanki/wrd_gwiazd/kolorowanki_wrd_gwiazd_coloring_005_thumb.jpg",
+              "solution": "categories/kolorowanki/wrd_gwiazd/kolorowanki_wrd_gwiazd_coloring_005_solution.png",
+              "type": "paint",
+              "generator": "coloring",
+              "date": "2026-06-15",
+              "title_pl": "Wśród Gwiazd Coloring",
+              "title_en": "Coloring",
+              "instruction_pl": "Pokoloruj obrazek",
+              "instruction_en": "Color the picture",
+              "texts": {
+                "pl": {
+                  "title": "Wśród Gwiazd Coloring",
+                  "instruction": "Pokoloruj obrazek"
+                },
+                "en": {
+                  "title": "Coloring",
+                  "instruction": "Color the picture"
+                }
+              }
+            }
+          ],
           "subcategories": []
         },
         {
           "id": "bkitna_przygoda",
           "title": "Błękitna Przygoda",
-          "items": [],
+          "items": [
+            {
+              "id": "kolorowanki_bkitna_przygoda_coloring_001",
+              "title": "Błękitna Przygoda Coloring",
+              "pdf": "categories/kolorowanki/bkitna_przygoda/kolorowanki_bkitna_przygoda_coloring_001.pdf",
+              "thumb": "categories/kolorowanki/bkitna_przygoda/kolorowanki_bkitna_przygoda_coloring_001_thumb.jpg",
+              "solution": "categories/kolorowanki/bkitna_przygoda/kolorowanki_bkitna_przygoda_coloring_001_solution.png",
+              "type": "paint",
+              "generator": "coloring",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Coloring",
+              "title_en": "Coloring",
+              "instruction_pl": "Pokoloruj obrazek",
+              "instruction_en": "Color the picture",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Coloring",
+                  "instruction": "Pokoloruj obrazek"
+                },
+                "en": {
+                  "title": "Coloring",
+                  "instruction": "Color the picture"
+                }
+              },
+              "premium": true
+            },
+            {
+              "id": "kolorowanki_bkitna_przygoda_coloring_002",
+              "title": "Błękitna Przygoda Coloring",
+              "pdf": "categories/kolorowanki/bkitna_przygoda/kolorowanki_bkitna_przygoda_coloring_002.pdf",
+              "thumb": "categories/kolorowanki/bkitna_przygoda/kolorowanki_bkitna_przygoda_coloring_002_thumb.jpg",
+              "solution": "categories/kolorowanki/bkitna_przygoda/kolorowanki_bkitna_przygoda_coloring_002_solution.png",
+              "type": "paint",
+              "generator": "coloring",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Coloring",
+              "title_en": "Coloring",
+              "instruction_pl": "Pokoloruj obrazek",
+              "instruction_en": "Color the picture",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Coloring",
+                  "instruction": "Pokoloruj obrazek"
+                },
+                "en": {
+                  "title": "Coloring",
+                  "instruction": "Color the picture"
+                }
+              },
+              "premium": true
+            },
+            {
+              "id": "kolorowanki_bkitna_przygoda_coloring_003",
+              "title": "Błękitna Przygoda Coloring",
+              "pdf": "categories/kolorowanki/bkitna_przygoda/kolorowanki_bkitna_przygoda_coloring_003.pdf",
+              "thumb": "categories/kolorowanki/bkitna_przygoda/kolorowanki_bkitna_przygoda_coloring_003_thumb.jpg",
+              "solution": "categories/kolorowanki/bkitna_przygoda/kolorowanki_bkitna_przygoda_coloring_003_solution.png",
+              "type": "paint",
+              "generator": "coloring",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Coloring",
+              "title_en": "Coloring",
+              "instruction_pl": "Pokoloruj obrazek",
+              "instruction_en": "Color the picture",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Coloring",
+                  "instruction": "Pokoloruj obrazek"
+                },
+                "en": {
+                  "title": "Coloring",
+                  "instruction": "Color the picture"
+                }
+              },
+              "premium": true
+            },
+            {
+              "id": "kolorowanki_bkitna_przygoda_coloring_004",
+              "title": "Błękitna Przygoda Coloring",
+              "pdf": "categories/kolorowanki/bkitna_przygoda/kolorowanki_bkitna_przygoda_coloring_004.pdf",
+              "thumb": "categories/kolorowanki/bkitna_przygoda/kolorowanki_bkitna_przygoda_coloring_004_thumb.jpg",
+              "solution": "categories/kolorowanki/bkitna_przygoda/kolorowanki_bkitna_przygoda_coloring_004_solution.png",
+              "type": "paint",
+              "generator": "coloring",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Coloring",
+              "title_en": "Coloring",
+              "instruction_pl": "Pokoloruj obrazek",
+              "instruction_en": "Color the picture",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Coloring",
+                  "instruction": "Pokoloruj obrazek"
+                },
+                "en": {
+                  "title": "Coloring",
+                  "instruction": "Color the picture"
+                }
+              },
+              "premium": true
+            },
+            {
+              "id": "kolorowanki_bkitna_przygoda_coloring_005",
+              "title": "Błękitna Przygoda Coloring",
+              "pdf": "categories/kolorowanki/bkitna_przygoda/kolorowanki_bkitna_przygoda_coloring_005.pdf",
+              "thumb": "categories/kolorowanki/bkitna_przygoda/kolorowanki_bkitna_przygoda_coloring_005_thumb.jpg",
+              "solution": "categories/kolorowanki/bkitna_przygoda/kolorowanki_bkitna_przygoda_coloring_005_solution.png",
+              "type": "paint",
+              "generator": "coloring",
+              "date": "2026-06-15",
+              "title_pl": "Błękitna Przygoda Coloring",
+              "title_en": "Coloring",
+              "instruction_pl": "Pokoloruj obrazek",
+              "instruction_en": "Color the picture",
+              "texts": {
+                "pl": {
+                  "title": "Błękitna Przygoda Coloring",
+                  "instruction": "Pokoloruj obrazek"
+                },
+                "en": {
+                  "title": "Coloring",
+                  "instruction": "Color the picture"
+                }
+              },
+              "premium": true
+            }
+          ],
           "subcategories": []
         },
         {
           "id": "ahoooj_kapitanie",
           "title": "Ahoooj Kapitanie",
-          "items": [],
+          "items": [
+            {
+              "id": "kolorowanki_ahoooj_kapitanie_coloring_001",
+              "title": "Ahoooj Kapitanie Coloring",
+              "pdf": "categories/kolorowanki/ahoooj_kapitanie/kolorowanki_ahoooj_kapitanie_coloring_001.pdf",
+              "thumb": "categories/kolorowanki/ahoooj_kapitanie/kolorowanki_ahoooj_kapitanie_coloring_001_thumb.jpg",
+              "solution": "categories/kolorowanki/ahoooj_kapitanie/kolorowanki_ahoooj_kapitanie_coloring_001_solution.png",
+              "type": "paint",
+              "generator": "coloring",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Coloring",
+              "title_en": "Coloring",
+              "instruction_pl": "Pokoloruj obrazek",
+              "instruction_en": "Color the picture",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Coloring",
+                  "instruction": "Pokoloruj obrazek"
+                },
+                "en": {
+                  "title": "Coloring",
+                  "instruction": "Color the picture"
+                }
+              },
+              "premium": true
+            },
+            {
+              "id": "kolorowanki_ahoooj_kapitanie_coloring_002",
+              "title": "Ahoooj Kapitanie Coloring",
+              "pdf": "categories/kolorowanki/ahoooj_kapitanie/kolorowanki_ahoooj_kapitanie_coloring_002.pdf",
+              "thumb": "categories/kolorowanki/ahoooj_kapitanie/kolorowanki_ahoooj_kapitanie_coloring_002_thumb.jpg",
+              "solution": "categories/kolorowanki/ahoooj_kapitanie/kolorowanki_ahoooj_kapitanie_coloring_002_solution.png",
+              "type": "paint",
+              "generator": "coloring",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Coloring",
+              "title_en": "Coloring",
+              "instruction_pl": "Pokoloruj obrazek",
+              "instruction_en": "Color the picture",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Coloring",
+                  "instruction": "Pokoloruj obrazek"
+                },
+                "en": {
+                  "title": "Coloring",
+                  "instruction": "Color the picture"
+                }
+              },
+              "premium": true
+            },
+            {
+              "id": "kolorowanki_ahoooj_kapitanie_coloring_003",
+              "title": "Ahoooj Kapitanie Coloring",
+              "pdf": "categories/kolorowanki/ahoooj_kapitanie/kolorowanki_ahoooj_kapitanie_coloring_003.pdf",
+              "thumb": "categories/kolorowanki/ahoooj_kapitanie/kolorowanki_ahoooj_kapitanie_coloring_003_thumb.jpg",
+              "solution": "categories/kolorowanki/ahoooj_kapitanie/kolorowanki_ahoooj_kapitanie_coloring_003_solution.png",
+              "type": "paint",
+              "generator": "coloring",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Coloring",
+              "title_en": "Coloring",
+              "instruction_pl": "Pokoloruj obrazek",
+              "instruction_en": "Color the picture",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Coloring",
+                  "instruction": "Pokoloruj obrazek"
+                },
+                "en": {
+                  "title": "Coloring",
+                  "instruction": "Color the picture"
+                }
+              },
+              "premium": true
+            },
+            {
+              "id": "kolorowanki_ahoooj_kapitanie_coloring_004",
+              "title": "Ahoooj Kapitanie Coloring",
+              "pdf": "categories/kolorowanki/ahoooj_kapitanie/kolorowanki_ahoooj_kapitanie_coloring_004.pdf",
+              "thumb": "categories/kolorowanki/ahoooj_kapitanie/kolorowanki_ahoooj_kapitanie_coloring_004_thumb.jpg",
+              "solution": "categories/kolorowanki/ahoooj_kapitanie/kolorowanki_ahoooj_kapitanie_coloring_004_solution.png",
+              "type": "paint",
+              "generator": "coloring",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Coloring",
+              "title_en": "Coloring",
+              "instruction_pl": "Pokoloruj obrazek",
+              "instruction_en": "Color the picture",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Coloring",
+                  "instruction": "Pokoloruj obrazek"
+                },
+                "en": {
+                  "title": "Coloring",
+                  "instruction": "Color the picture"
+                }
+              },
+              "premium": true
+            },
+            {
+              "id": "kolorowanki_ahoooj_kapitanie_coloring_005",
+              "title": "Ahoooj Kapitanie Coloring",
+              "pdf": "categories/kolorowanki/ahoooj_kapitanie/kolorowanki_ahoooj_kapitanie_coloring_005.pdf",
+              "thumb": "categories/kolorowanki/ahoooj_kapitanie/kolorowanki_ahoooj_kapitanie_coloring_005_thumb.jpg",
+              "solution": "categories/kolorowanki/ahoooj_kapitanie/kolorowanki_ahoooj_kapitanie_coloring_005_solution.png",
+              "type": "paint",
+              "generator": "coloring",
+              "date": "2026-06-15",
+              "title_pl": "Ahoooj Kapitanie Coloring",
+              "title_en": "Coloring",
+              "instruction_pl": "Pokoloruj obrazek",
+              "instruction_en": "Color the picture",
+              "texts": {
+                "pl": {
+                  "title": "Ahoooj Kapitanie Coloring",
+                  "instruction": "Pokoloruj obrazek"
+                },
+                "en": {
+                  "title": "Coloring",
+                  "instruction": "Color the picture"
+                }
+              },
+              "premium": true
+            }
+          ],
           "subcategories": []
         }
       ],
