@@ -3,25 +3,147 @@
   "themes": [
     {
       "id": "jungle",
-      "name": "Jungle",
+      "name": "Jungle Explorer",
+      "bookImageUrl": "https://raw.githubusercontent.com/Qumin1993/Print-Play_assets/main/stickers/jungle/book.png",
+      "pageImageUrl": "https://raw.githubusercontent.com/Qumin1993/Print-Play_assets/main/stickers/jungle/page.png",
       "stickers": [
         {
           "id": "jungle_001",
-          "name": "Baby Elephant",
+          "name": "Baby Crocodile",
           "imageUrl": "https://raw.githubusercontent.com/Qumin1993/Print-Play_assets/main/stickers/jungle/jungle_001.png",
           "rarity": "common"
         },
         {
           "id": "jungle_002",
-          "name": "Happy Elephant",
+          "name": "Young Explorer",
           "imageUrl": "https://raw.githubusercontent.com/Qumin1993/Print-Play_assets/main/stickers/jungle/jungle_002.png",
           "rarity": "common"
         },
         {
           "id": "jungle_003",
-          "name": "Cute Elephant",
+          "name": "Jungle Explorer Badge",
           "imageUrl": "https://raw.githubusercontent.com/Qumin1993/Print-Play_assets/main/stickers/jungle/jungle_003.png",
+          "rarity": "rare"
+        },
+        {
+          "id": "jungle_004",
+          "name": "Safari Jeep",
+          "imageUrl": "https://raw.githubusercontent.com/Qumin1993/Print-Play_assets/main/stickers/jungle/jungle_004.png",
           "rarity": "common"
+        },
+        {
+          "id": "jungle_005",
+          "name": "Explorer Hat",
+          "imageUrl": "https://raw.githubusercontent.com/Qumin1993/Print-Play_assets/main/stickers/jungle/jungle_005.png",
+          "rarity": "common"
+        },
+        {
+          "id": "jungle_006",
+          "name": "Compass",
+          "imageUrl": "https://raw.githubusercontent.com/Qumin1993/Print-Play_assets/main/stickers/jungle/jungle_006.png",
+          "rarity": "rare"
+        },
+        {
+          "id": "jungle_007",
+          "name": "Jungle Flower",
+          "imageUrl": "https://raw.githubusercontent.com/Qumin1993/Print-Play_assets/main/stickers/jungle/jungle_007.png",
+          "rarity": "common"
+        },
+        {
+          "id": "jungle_008",
+          "name": "Lion",
+          "imageUrl": "https://raw.githubusercontent.com/Qumin1993/Print-Play_assets/main/stickers/jungle/jungle_008.png",
+          "rarity": "rare"
+        },
+        {
+          "id": "jungle_009",
+          "name": "Tropical Leaves",
+          "imageUrl": "https://raw.githubusercontent.com/Qumin1993/Print-Play_assets/main/stickers/jungle/jungle_009.png",
+          "rarity": "common"
+        },
+        {
+          "id": "jungle_010",
+          "name": "Monkey",
+          "imageUrl": "https://raw.githubusercontent.com/Qumin1993/Print-Play_assets/main/stickers/jungle/jungle_010.png",
+          "rarity": "common"
+        },
+        {
+          "id": "jungle_011",
+          "name": "Tribal Mask",
+          "imageUrl": "https://raw.githubusercontent.com/Qumin1993/Print-Play_assets/main/stickers/jungle/jungle_011.png",
+          "rarity": "epic"
+        },
+        {
+          "id": "jungle_012",
+          "name": "Palm Tree",
+          "imageUrl": "https://raw.githubusercontent.com/Qumin1993/Print-Play_assets/main/stickers/jungle/jungle_012.png",
+          "rarity": "common"
+        },
+        {
+          "id": "jungle_013",
+          "name": "Parrot",
+          "imageUrl": "https://raw.githubusercontent.com/Qumin1993/Print-Play_assets/main/stickers/jungle/jungle_013.png",
+          "rarity": "rare"
+        },
+        {
+          "id": "jungle_014",
+          "name": "Adventure Backpack",
+          "imageUrl": "https://raw.githubusercontent.com/Qumin1993/Print-Play_assets/main/stickers/jungle/jungle_014.png",
+          "rarity": "common"
+        },
+        {
+          "id": "jungle_015",
+          "name": "Elephant",
+          "imageUrl": "https://raw.githubusercontent.com/Qumin1993/Print-Play_assets/main/stickers/jungle/jungle_015.png",
+          "rarity": "rare"
+        },
+        {
+          "id": "jungle_016",
+          "name": "Toucan",
+          "imageUrl": "https://raw.githubusercontent.com/Qumin1993/Print-Play_assets/main/stickers/jungle/jungle_016.png",
+          "rarity": "common"
+        },
+        {
+          "id": "jungle_017",
+          "name": "Leopard Cub",
+          "imageUrl": "https://raw.githubusercontent.com/Qumin1993/Print-Play_assets/main/stickers/jungle/jungle_017.png",
+          "rarity": "rare"
+        },
+        {
+          "id": "jungle_018",
+          "name": "Jungle Snake",
+          "imageUrl": "https://raw.githubusercontent.com/Qumin1993/Print-Play_assets/main/stickers/jungle/jungle_018.png",
+          "rarity": "common"
+        },
+        {
+          "id": "jungle_019",
+          "name": "Well Done",
+          "imageUrl": "https://raw.githubusercontent.com/Qumin1993/Print-Play_assets/main/stickers/jungle/jungle_019.png",
+          "rarity": "epic"
+        },
+        {
+          "id": "jungle_020",
+          "name": "Waterfall",
+          "imageUrl": "https://raw.githubusercontent.com/Qumin1993/Print-Play_assets/main/stickers/jungle/jungle_020.png",
+          "rarity": "rare"
+        },
+        {
+          "id": "jungle_021",
+          "name": "Tree Frog",
+          "imageUrl": "https://raw.githubusercontent.com/Qumin1993/Print-Play_assets/main/stickers/jungle/jungle_021.png",
+          "rarity": "common"
+        },
+        {
+          "id": "jungle_022",
+          "name": "Zebra",
+          "imageUrl": "https://raw.githubusercontent.com/Qumin1993/Print-Play_assets/main/stickers/jungle/jungle_022.png",
+          "rarity": "rare"
+        },
+        {
+          "id": "jungle_023",
+          "name": "Explorer Paw Badge",
+          "imageUrl": "https://raw.githubusercontent.com/Qumin1993/Print-Play_assets/main/stickers/jungle/jungle_023.png",
+          "rarity": "epic"
         }
       ]
     }
