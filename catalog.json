@@ -646,6 +646,12 @@
             }
           ],
           "subcategories": []
+        },
+        {
+          "id": "standard",
+          "title": "Standard",
+          "items": [],
+          "subcategories": []
         }
       ],
       "tile": "categories/pocz_cienie/pocz_cienie_tile.png",

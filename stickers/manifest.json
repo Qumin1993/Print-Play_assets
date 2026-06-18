@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "themes": [
+    {
+      "id": "jungle",
+      "name": "Jungle",
+      "stickers": [
+        {
+          "id": "jungle_001",
+          "name": "Baby Elephant",
+          "imageUrl": "https://raw.githubusercontent.com/Qumin1993/Print-Play_assets/main/stickers/jungle/jungle_001.png",
+          "rarity": "common"
+        },
+        {
+          "id": "jungle_002",
+          "name": "Happy Elephant",
+          "imageUrl": "https://raw.githubusercontent.com/Qumin1993/Print-Play_assets/main/stickers/jungle/jungle_002.png",
+          "rarity": "common"
+        },
+        {
+          "id": "jungle_003",
+          "name": "Cute Elephant",
+          "imageUrl": "https://raw.githubusercontent.com/Qumin1993/Print-Play_assets/main/stickers/jungle/jungle_003.png",
+          "rarity": "common"
+        }
+      ]
+    }
+  ]
+}
