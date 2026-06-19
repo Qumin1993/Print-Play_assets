@@ -135,6 +135,30 @@
                   "instruction": "Match the pictures to their shadows"
                 }
               }
+            },
+            {
+              "id": "pocz_cienie_przygody_w_jungli_hidden_object_001",
+              "title": "Przygody w Jungli Hidden Object",
+              "pdf": "categories/pocz_cienie/przygody_w_jungli/pocz_cienie_przygody_w_jungli_hidden_object_001.pdf",
+              "thumb": "categories/pocz_cienie/przygody_w_jungli/pocz_cienie_przygody_w_jungli_hidden_object_001_thumb.jpg",
+              "solution": "categories/pocz_cienie/przygody_w_jungli/pocz_cienie_przygody_w_jungli_hidden_object_001_solution.png",
+              "type": "hidden_object",
+              "generator": "hidden_object",
+              "date": "2026-06-18",
+              "title_pl": "Przygody w Jungli Hidden Object",
+              "title_en": "Hidden Object",
+              "instruction_pl": "Znajdz wszystkie takie obrazki",
+              "instruction_en": "Find all matching pictures",
+              "texts": {
+                "pl": {
+                  "title": "Przygody w Jungli Hidden Object",
+                  "instruction": "Znajdz wszystkie takie obrazki"
+                },
+                "en": {
+                  "title": "Hidden Object",
+                  "instruction": "Find all matching pictures"
+                }
+              }
             }
           ],
           "subcategories": []
@@ -648,9 +672,82 @@
           "subcategories": []
         },
         {
-          "id": "standard",
-          "title": "Standard",
-          "items": [],
+          "id": "test",
+          "title": "TEST",
+          "items": [
+            {
+              "id": "pocz_cienie_test_word_search_001",
+              "title": "TEST Word Search",
+              "pdf": "categories/pocz_cienie/test/pocz_cienie_test_word_search_001.pdf",
+              "thumb": "categories/pocz_cienie/test/pocz_cienie_test_word_search_001_thumb.jpg",
+              "solution": "categories/pocz_cienie/test/pocz_cienie_test_word_search_001_solution.png",
+              "type": "word_search",
+              "generator": "word_search",
+              "date": "2026-06-19",
+              "localizedAssets": {
+                "pl": {
+                  "pdf": "categories/pocz_cienie/test/pl/pocz_cienie_test_word_search_001.pdf",
+                  "thumb": "categories/pocz_cienie/test/pl/pocz_cienie_test_word_search_001_thumb.jpg",
+                  "solution": "categories/pocz_cienie/test/pl/pocz_cienie_test_word_search_001_solution.png"
+                },
+                "en": {
+                  "pdf": "categories/pocz_cienie/test/en/pocz_cienie_test_word_search_001.pdf",
+                  "thumb": "categories/pocz_cienie/test/en/pocz_cienie_test_word_search_001_thumb.jpg",
+                  "solution": "categories/pocz_cienie/test/en/pocz_cienie_test_word_search_001_solution.png"
+                }
+              },
+              "title_pl": "TEST Word Search",
+              "title_en": "Word Search",
+              "instruction_pl": "Znajdz ukryte slowa",
+              "instruction_en": "Find the hidden words",
+              "texts": {
+                "pl": {
+                  "title": "TEST Word Search",
+                  "instruction": "Znajdz ukryte slowa"
+                },
+                "en": {
+                  "title": "Word Search",
+                  "instruction": "Find the hidden words"
+                }
+              }
+            },
+            {
+              "id": "pocz_cienie_test_crossword_001",
+              "title": "TEST Crossword",
+              "pdf": "categories/pocz_cienie/test/pocz_cienie_test_crossword_001.pdf",
+              "thumb": "categories/pocz_cienie/test/pocz_cienie_test_crossword_001_thumb.jpg",
+              "solution": "categories/pocz_cienie/test/pocz_cienie_test_crossword_001_solution.png",
+              "type": "crossword",
+              "generator": "crossword",
+              "date": "2026-06-19",
+              "localizedAssets": {
+                "pl": {
+                  "pdf": "categories/pocz_cienie/test/pl/pocz_cienie_test_crossword_001.pdf",
+                  "thumb": "categories/pocz_cienie/test/pl/pocz_cienie_test_crossword_001_thumb.jpg",
+                  "solution": "categories/pocz_cienie/test/pl/pocz_cienie_test_crossword_001_solution.png"
+                },
+                "en": {
+                  "pdf": "categories/pocz_cienie/test/en/pocz_cienie_test_crossword_001.pdf",
+                  "thumb": "categories/pocz_cienie/test/en/pocz_cienie_test_crossword_001_thumb.jpg",
+                  "solution": "categories/pocz_cienie/test/en/pocz_cienie_test_crossword_001_solution.png"
+                }
+              },
+              "title_pl": "TEST Crossword",
+              "title_en": "Crossword",
+              "instruction_pl": "Rozwiaz krzyzowke",
+              "instruction_en": "Solve the crossword",
+              "texts": {
+                "pl": {
+                  "title": "TEST Crossword",
+                  "instruction": "Rozwiaz krzyzowke"
+                },
+                "en": {
+                  "title": "Crossword",
+                  "instruction": "Solve the crossword"
+                }
+              }
+            }
+          ],
           "subcategories": []
         }
       ],
