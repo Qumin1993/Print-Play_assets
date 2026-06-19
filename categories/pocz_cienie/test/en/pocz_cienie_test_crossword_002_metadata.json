@@ -1,0 +1,569 @@
+{
+  "schemaVersion": 1,
+  "type": "crossword",
+  "page": {
+    "width": 1240,
+    "height": 1754
+  },
+  "grid": {
+    "rows": 9,
+    "cols": 9,
+    "origin": {
+      "x": 314,
+      "y": 769
+    },
+    "cellSize": 68
+  },
+  "cells": [
+    {
+      "row": 0,
+      "col": 2,
+      "letter": "P",
+      "answers": [
+        1
+      ]
+    },
+    {
+      "row": 0,
+      "col": 8,
+      "letter": "S",
+      "answers": [
+        2
+      ]
+    },
+    {
+      "row": 1,
+      "col": 1,
+      "letter": "J",
+      "answers": [
+        3
+      ]
+    },
+    {
+      "row": 1,
+      "col": 2,
+      "letter": "A",
+      "answers": [
+        1,
+        3
+      ]
+    },
+    {
+      "row": 1,
+      "col": 3,
+      "letter": "G",
+      "answers": [
+        3
+      ]
+    },
+    {
+      "row": 1,
+      "col": 4,
+      "letter": "U",
+      "answers": [
+        3
+      ]
+    },
+    {
+      "row": 1,
+      "col": 5,
+      "letter": "A",
+      "answers": [
+        3
+      ]
+    },
+    {
+      "row": 1,
+      "col": 6,
+      "letter": "R",
+      "answers": [
+        3
+      ]
+    },
+    {
+      "row": 1,
+      "col": 8,
+      "letter": "N",
+      "answers": [
+        2
+      ]
+    },
+    {
+      "row": 2,
+      "col": 2,
+      "letter": "R",
+      "answers": [
+        1
+      ]
+    },
+    {
+      "row": 2,
+      "col": 8,
+      "letter": "A",
+      "answers": [
+        2
+      ]
+    },
+    {
+      "row": 3,
+      "col": 2,
+      "letter": "R",
+      "answers": [
+        1
+      ]
+    },
+    {
+      "row": 3,
+      "col": 4,
+      "letter": "T",
+      "answers": [
+        4
+      ]
+    },
+    {
+      "row": 3,
+      "col": 6,
+      "letter": "T",
+      "answers": [
+        5
+      ]
+    },
+    {
+      "row": 3,
+      "col": 8,
+      "letter": "K",
+      "answers": [
+        2
+      ]
+    },
+    {
+      "row": 4,
+      "col": 0,
+      "letter": "C",
+      "answers": [
+        6
+      ]
+    },
+    {
+      "row": 4,
+      "col": 1,
+      "letter": "R",
+      "answers": [
+        6
+      ]
+    },
+    {
+      "row": 4,
+      "col": 2,
+      "letter": "O",
+      "answers": [
+        1,
+        6
+      ]
+    },
+    {
+      "row": 4,
+      "col": 3,
+      "letter": "C",
+      "answers": [
+        6
+      ]
+    },
+    {
+      "row": 4,
+      "col": 4,
+      "letter": "O",
+      "answers": [
+        4,
+        6
+      ]
+    },
+    {
+      "row": 4,
+      "col": 5,
+      "letter": "D",
+      "answers": [
+        6
+      ]
+    },
+    {
+      "row": 4,
+      "col": 6,
+      "letter": "I",
+      "answers": [
+        5,
+        6
+      ]
+    },
+    {
+      "row": 4,
+      "col": 7,
+      "letter": "L",
+      "answers": [
+        6
+      ]
+    },
+    {
+      "row": 4,
+      "col": 8,
+      "letter": "E",
+      "answers": [
+        2,
+        6
+      ]
+    },
+    {
+      "row": 5,
+      "col": 2,
+      "letter": "T",
+      "answers": [
+        1
+      ]
+    },
+    {
+      "row": 5,
+      "col": 4,
+      "letter": "U",
+      "answers": [
+        4
+      ]
+    },
+    {
+      "row": 5,
+      "col": 6,
+      "letter": "G",
+      "answers": [
+        5
+      ]
+    },
+    {
+      "row": 6,
+      "col": 4,
+      "letter": "C",
+      "answers": [
+        4
+      ]
+    },
+    {
+      "row": 6,
+      "col": 6,
+      "letter": "E",
+      "answers": [
+        5
+      ]
+    },
+    {
+      "row": 7,
+      "col": 4,
+      "letter": "A",
+      "answers": [
+        4
+      ]
+    },
+    {
+      "row": 7,
+      "col": 6,
+      "letter": "R",
+      "answers": [
+        5
+      ]
+    },
+    {
+      "row": 8,
+      "col": 2,
+      "letter": "V",
+      "answers": [
+        7
+      ]
+    },
+    {
+      "row": 8,
+      "col": 3,
+      "letter": "I",
+      "answers": [
+        7
+      ]
+    },
+    {
+      "row": 8,
+      "col": 4,
+      "letter": "N",
+      "answers": [
+        4,
+        7
+      ]
+    },
+    {
+      "row": 8,
+      "col": 5,
+      "letter": "E",
+      "answers": [
+        7
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "id": 1,
+      "number": 1,
+      "question": "A colorful jungle bird",
+      "answer": "PARROT",
+      "answerGrid": "PARROT",
+      "direction": "down",
+      "start": {
+        "row": 0,
+        "col": 2
+      },
+      "cells": [
+        {
+          "row": 0,
+          "col": 2
+        },
+        {
+          "row": 1,
+          "col": 2
+        },
+        {
+          "row": 2,
+          "col": 2
+        },
+        {
+          "row": 3,
+          "col": 2
+        },
+        {
+          "row": 4,
+          "col": 2
+        },
+        {
+          "row": 5,
+          "col": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "number": 2,
+      "question": "A long animal with no legs",
+      "answer": "SNAKE",
+      "answerGrid": "SNAKE",
+      "direction": "down",
+      "start": {
+        "row": 0,
+        "col": 8
+      },
+      "cells": [
+        {
+          "row": 0,
+          "col": 8
+        },
+        {
+          "row": 1,
+          "col": 8
+        },
+        {
+          "row": 2,
+          "col": 8
+        },
+        {
+          "row": 3,
+          "col": 8
+        },
+        {
+          "row": 4,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "number": 3,
+      "question": "A spotted jungle cat",
+      "answer": "JAGUAR",
+      "answerGrid": "JAGUAR",
+      "direction": "across",
+      "start": {
+        "row": 1,
+        "col": 1
+      },
+      "cells": [
+        {
+          "row": 1,
+          "col": 1
+        },
+        {
+          "row": 1,
+          "col": 2
+        },
+        {
+          "row": 1,
+          "col": 3
+        },
+        {
+          "row": 1,
+          "col": 4
+        },
+        {
+          "row": 1,
+          "col": 5
+        },
+        {
+          "row": 1,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "number": 4,
+      "question": "A bird with a very large beak",
+      "answer": "TOUCAN",
+      "answerGrid": "TOUCAN",
+      "direction": "down",
+      "start": {
+        "row": 3,
+        "col": 4
+      },
+      "cells": [
+        {
+          "row": 3,
+          "col": 4
+        },
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "number": 5,
+      "question": "A big striped cat",
+      "answer": "TIGER",
+      "answerGrid": "TIGER",
+      "direction": "down",
+      "start": {
+        "row": 3,
+        "col": 6
+      },
+      "cells": [
+        {
+          "row": 3,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        },
+        {
+          "row": 7,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "number": 6,
+      "question": "A dangerous reptile with a long mouth",
+      "answer": "CROCODILE",
+      "answerGrid": "CROCODILE",
+      "direction": "across",
+      "start": {
+        "row": 4,
+        "col": 0
+      },
+      "cells": [
+        {
+          "row": 4,
+          "col": 0
+        },
+        {
+          "row": 4,
+          "col": 1
+        },
+        {
+          "row": 4,
+          "col": 2
+        },
+        {
+          "row": 4,
+          "col": 3
+        },
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 4,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "number": 7,
+      "question": "A plant that hangs between trees",
+      "answer": "VINE",
+      "answerGrid": "VINE",
+      "direction": "across",
+      "start": {
+        "row": 8,
+        "col": 2
+      },
+      "cells": [
+        {
+          "row": 8,
+          "col": 2
+        },
+        {
+          "row": 8,
+          "col": 3
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 5
+        }
+      ]
+    }
+  ]
+}
