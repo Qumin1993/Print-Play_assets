@@ -676,24 +676,24 @@
           "title": "TEST",
           "items": [
             {
-              "id": "pocz_cienie_test_word_search_001",
+              "id": "pocz_cienie_test_word_search_002",
               "title": "TEST Word Search",
-              "pdf": "categories/pocz_cienie/test/pocz_cienie_test_word_search_001.pdf",
-              "thumb": "categories/pocz_cienie/test/pocz_cienie_test_word_search_001_thumb.jpg",
-              "solution": "categories/pocz_cienie/test/pocz_cienie_test_word_search_001_solution.png",
+              "pdf": "categories/pocz_cienie/test/pl/pocz_cienie_test_word_search_002.pdf",
+              "thumb": "categories/pocz_cienie/test/pl/pocz_cienie_test_word_search_002_thumb.jpg",
+              "solution": "categories/pocz_cienie/test/pl/pocz_cienie_test_word_search_002_solution.png",
               "type": "word_search",
               "generator": "word_search",
               "date": "2026-06-19",
               "localizedAssets": {
                 "pl": {
-                  "pdf": "categories/pocz_cienie/test/pl/pocz_cienie_test_word_search_001.pdf",
-                  "thumb": "categories/pocz_cienie/test/pl/pocz_cienie_test_word_search_001_thumb.jpg",
-                  "solution": "categories/pocz_cienie/test/pl/pocz_cienie_test_word_search_001_solution.png"
+                  "pdf": "categories/pocz_cienie/test/pl/pocz_cienie_test_word_search_002.pdf",
+                  "thumb": "categories/pocz_cienie/test/pl/pocz_cienie_test_word_search_002_thumb.jpg",
+                  "solution": "categories/pocz_cienie/test/pl/pocz_cienie_test_word_search_002_solution.png"
                 },
                 "en": {
-                  "pdf": "categories/pocz_cienie/test/en/pocz_cienie_test_word_search_001.pdf",
-                  "thumb": "categories/pocz_cienie/test/en/pocz_cienie_test_word_search_001_thumb.jpg",
-                  "solution": "categories/pocz_cienie/test/en/pocz_cienie_test_word_search_001_solution.png"
+                  "pdf": "categories/pocz_cienie/test/en/pocz_cienie_test_word_search_002.pdf",
+                  "thumb": "categories/pocz_cienie/test/en/pocz_cienie_test_word_search_002_thumb.jpg",
+                  "solution": "categories/pocz_cienie/test/en/pocz_cienie_test_word_search_002_solution.png"
                 }
               },
               "title_pl": "TEST Word Search",
@@ -714,9 +714,9 @@
             {
               "id": "pocz_cienie_test_crossword_001",
               "title": "TEST Crossword",
-              "pdf": "categories/pocz_cienie/test/pocz_cienie_test_crossword_001.pdf",
-              "thumb": "categories/pocz_cienie/test/pocz_cienie_test_crossword_001_thumb.jpg",
-              "solution": "categories/pocz_cienie/test/pocz_cienie_test_crossword_001_solution.png",
+              "pdf": "categories/pocz_cienie/test/pl/pocz_cienie_test_crossword_001.pdf",
+              "thumb": "categories/pocz_cienie/test/pl/pocz_cienie_test_crossword_001_thumb.jpg",
+              "solution": "categories/pocz_cienie/test/pl/pocz_cienie_test_crossword_001_solution.png",
               "type": "crossword",
               "generator": "crossword",
               "date": "2026-06-19",
