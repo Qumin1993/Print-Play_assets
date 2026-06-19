@@ -1,0 +1,521 @@
+{
+  "schemaVersion": 1,
+  "type": "crossword",
+  "page": {
+    "width": 1240,
+    "height": 1754
+  },
+  "grid": {
+    "rows": 11,
+    "cols": 10,
+    "origin": {
+      "x": 279.0,
+      "y": 789.0
+    },
+    "cellSize": 68.0
+  },
+  "cells": [
+    {
+      "row": 0,
+      "col": 6,
+      "letter": "S",
+      "answers": [
+        1
+      ]
+    },
+    {
+      "row": 0,
+      "col": 7,
+      "letter": "L",
+      "answers": [
+        1,
+        2
+      ]
+    },
+    {
+      "row": 0,
+      "col": 8,
+      "letter": "O",
+      "answers": [
+        1
+      ]
+    },
+    {
+      "row": 0,
+      "col": 9,
+      "letter": "N",
+      "answers": [
+        1
+      ]
+    },
+    {
+      "row": 1,
+      "col": 7,
+      "letter": "I",
+      "answers": [
+        2
+      ]
+    },
+    {
+      "row": 2,
+      "col": 3,
+      "letter": "R",
+      "answers": [
+        3
+      ]
+    },
+    {
+      "row": 2,
+      "col": 4,
+      "letter": "Z",
+      "answers": [
+        3
+      ]
+    },
+    {
+      "row": 2,
+      "col": 5,
+      "letter": "E",
+      "answers": [
+        3
+      ]
+    },
+    {
+      "row": 2,
+      "col": 6,
+      "letter": "K",
+      "answers": [
+        3
+      ]
+    },
+    {
+      "row": 2,
+      "col": 7,
+      "letter": "A",
+      "answers": [
+        2,
+        3
+      ]
+    },
+    {
+      "row": 3,
+      "col": 7,
+      "letter": "N",
+      "answers": [
+        2
+      ]
+    },
+    {
+      "row": 4,
+      "col": 4,
+      "letter": "T",
+      "answers": [
+        4,
+        5
+      ]
+    },
+    {
+      "row": 4,
+      "col": 5,
+      "letter": "U",
+      "answers": [
+        4
+      ]
+    },
+    {
+      "row": 4,
+      "col": 6,
+      "letter": "K",
+      "answers": [
+        4
+      ]
+    },
+    {
+      "row": 4,
+      "col": 7,
+      "letter": "A",
+      "answers": [
+        2,
+        4
+      ]
+    },
+    {
+      "row": 4,
+      "col": 8,
+      "letter": "N",
+      "answers": [
+        4
+      ]
+    },
+    {
+      "row": 5,
+      "col": 1,
+      "letter": "J",
+      "answers": [
+        6
+      ]
+    },
+    {
+      "row": 5,
+      "col": 4,
+      "letter": "Y",
+      "answers": [
+        5
+      ]
+    },
+    {
+      "row": 6,
+      "col": 0,
+      "letter": "P",
+      "answers": [
+        7
+      ]
+    },
+    {
+      "row": 6,
+      "col": 1,
+      "letter": "A",
+      "answers": [
+        6,
+        7
+      ]
+    },
+    {
+      "row": 6,
+      "col": 2,
+      "letter": "P",
+      "answers": [
+        7
+      ]
+    },
+    {
+      "row": 6,
+      "col": 3,
+      "letter": "U",
+      "answers": [
+        7
+      ]
+    },
+    {
+      "row": 6,
+      "col": 4,
+      "letter": "G",
+      "answers": [
+        5,
+        7
+      ]
+    },
+    {
+      "row": 6,
+      "col": 5,
+      "letter": "A",
+      "answers": [
+        7
+      ]
+    },
+    {
+      "row": 7,
+      "col": 1,
+      "letter": "G",
+      "answers": [
+        6
+      ]
+    },
+    {
+      "row": 7,
+      "col": 4,
+      "letter": "R",
+      "answers": [
+        5
+      ]
+    },
+    {
+      "row": 8,
+      "col": 1,
+      "letter": "U",
+      "answers": [
+        6
+      ]
+    },
+    {
+      "row": 8,
+      "col": 4,
+      "letter": "Y",
+      "answers": [
+        5
+      ]
+    },
+    {
+      "row": 9,
+      "col": 1,
+      "letter": "A",
+      "answers": [
+        6
+      ]
+    },
+    {
+      "row": 9,
+      "col": 4,
+      "letter": "S",
+      "answers": [
+        5
+      ]
+    },
+    {
+      "row": 10,
+      "col": 1,
+      "letter": "R",
+      "answers": [
+        6
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "id": 1,
+      "number": 1,
+      "question": "Duzy szary zwierz z traba",
+      "answer": "SLON",
+      "answerGrid": "SLON",
+      "direction": "across",
+      "start": {
+        "row": 0,
+        "col": 6
+      },
+      "cells": [
+        {
+          "row": 0,
+          "col": 6
+        },
+        {
+          "row": 0,
+          "col": 7
+        },
+        {
+          "row": 0,
+          "col": 8
+        },
+        {
+          "row": 0,
+          "col": 9
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "number": 2,
+      "question": "Roslina do wspinania sie miedzy drzewami",
+      "answer": "LIANA",
+      "answerGrid": "LIANA",
+      "direction": "down",
+      "start": {
+        "row": 0,
+        "col": 7
+      },
+      "cells": [
+        {
+          "row": 0,
+          "col": 7
+        },
+        {
+          "row": 1,
+          "col": 7
+        },
+        {
+          "row": 2,
+          "col": 7
+        },
+        {
+          "row": 3,
+          "col": 7
+        },
+        {
+          "row": 4,
+          "col": 7
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "number": 3,
+      "question": "Plynie przez dzungle",
+      "answer": "RZEKA",
+      "answerGrid": "RZEKA",
+      "direction": "across",
+      "start": {
+        "row": 2,
+        "col": 3
+      },
+      "cells": [
+        {
+          "row": 2,
+          "col": 3
+        },
+        {
+          "row": 2,
+          "col": 4
+        },
+        {
+          "row": 2,
+          "col": 5
+        },
+        {
+          "row": 2,
+          "col": 6
+        },
+        {
+          "row": 2,
+          "col": 7
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "number": 4,
+      "question": "Ptak z bardzo duzym dziobem",
+      "answer": "TUKAN",
+      "answerGrid": "TUKAN",
+      "direction": "across",
+      "start": {
+        "row": 4,
+        "col": 4
+      },
+      "cells": [
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 4,
+          "col": 5
+        },
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 4,
+          "col": 8
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "number": 5,
+      "question": "Wielki kot w paski",
+      "answer": "TYGRYS",
+      "answerGrid": "TYGRYS",
+      "direction": "down",
+      "start": {
+        "row": 4,
+        "col": 4
+      },
+      "cells": [
+        {
+          "row": 4,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 8,
+          "col": 4
+        },
+        {
+          "row": 9,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "number": 6,
+      "question": "Czarny lub cetkowany kot z dzungli",
+      "answer": "JAGUAR",
+      "answerGrid": "JAGUAR",
+      "direction": "down",
+      "start": {
+        "row": 5,
+        "col": 1
+      },
+      "cells": [
+        {
+          "row": 5,
+          "col": 1
+        },
+        {
+          "row": 6,
+          "col": 1
+        },
+        {
+          "row": 7,
+          "col": 1
+        },
+        {
+          "row": 8,
+          "col": 1
+        },
+        {
+          "row": 9,
+          "col": 1
+        },
+        {
+          "row": 10,
+          "col": 1
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "number": 7,
+      "question": "Kolorowy ptak z dzungli",
+      "answer": "PAPUGA",
+      "answerGrid": "PAPUGA",
+      "direction": "across",
+      "start": {
+        "row": 6,
+        "col": 0
+      },
+      "cells": [
+        {
+          "row": 6,
+          "col": 0
+        },
+        {
+          "row": 6,
+          "col": 1
+        },
+        {
+          "row": 6,
+          "col": 2
+        },
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 6,
+          "col": 4
+        },
+        {
+          "row": 6,
+          "col": 5
+        }
+      ]
+    }
+  ]
+}
