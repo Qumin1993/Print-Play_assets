@@ -785,6 +785,45 @@
                   "instruction": "Solve the crossword"
                 }
               }
+            },
+            {
+              "id": "pocz_cienie_test_crossword_003",
+              "title": "TEST Crossword",
+              "pdf": "categories/pocz_cienie/test/pl/pocz_cienie_test_crossword_003.pdf",
+              "thumb": "categories/pocz_cienie/test/pl/pocz_cienie_test_crossword_003_thumb.jpg",
+              "solution": "categories/pocz_cienie/test/pl/pocz_cienie_test_crossword_003_solution.png",
+              "type": "crossword",
+              "generator": "crossword",
+              "date": "2026-06-19",
+              "metadata": "categories/pocz_cienie/test/pl/pocz_cienie_test_crossword_003_metadata.json",
+              "localizedAssets": {
+                "pl": {
+                  "pdf": "categories/pocz_cienie/test/pl/pocz_cienie_test_crossword_003.pdf",
+                  "thumb": "categories/pocz_cienie/test/pl/pocz_cienie_test_crossword_003_thumb.jpg",
+                  "solution": "categories/pocz_cienie/test/pl/pocz_cienie_test_crossword_003_solution.png",
+                  "metadata": "categories/pocz_cienie/test/pl/pocz_cienie_test_crossword_003_metadata.json"
+                },
+                "en": {
+                  "pdf": "categories/pocz_cienie/test/en/pocz_cienie_test_crossword_003.pdf",
+                  "thumb": "categories/pocz_cienie/test/en/pocz_cienie_test_crossword_003_thumb.jpg",
+                  "solution": "categories/pocz_cienie/test/en/pocz_cienie_test_crossword_003_solution.png",
+                  "metadata": "categories/pocz_cienie/test/en/pocz_cienie_test_crossword_003_metadata.json"
+                }
+              },
+              "title_pl": "TEST Crossword",
+              "title_en": "Crossword",
+              "instruction_pl": "Rozwiaz krzyzowke",
+              "instruction_en": "Solve the crossword",
+              "texts": {
+                "pl": {
+                  "title": "TEST Crossword",
+                  "instruction": "Rozwiaz krzyzowke"
+                },
+                "en": {
+                  "title": "Crossword",
+                  "instruction": "Solve the crossword"
+                }
+              }
             }
           ],
           "subcategories": []
